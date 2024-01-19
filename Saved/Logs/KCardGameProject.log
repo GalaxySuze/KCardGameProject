@@ -1238,3 +1238,1218 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.19-11.46.26:804][251]Cmd: MAP CHECKDEP NOCLEARLOG
 [2024.01.19-11.46.26:804][251]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.055毫秒。
 [2024.01.19-11.47.56:380][343]LogDerivedDataCache: C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.114 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2985 files in 4262 folders with total size 194 MiB.
+[2024.01.19-11.56.21:015][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.01.19-11.56.53:906][336]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-11.56.53:906][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-11.56.53:909][336]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-11.56.53:909][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-11.57.01:748][258]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-11.57.01:748][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-11.57.01:752][258]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-11.57.01:752][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-11.57.12:048][482]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-11.57.12:048][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-11.57.12:051][482]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-11.57.12:051][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-11.57.17:944][178]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-11.57.17:945][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-11.57.17:949][178]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-11.57.17:949][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-11.57.21:368][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.01.19-12.04.17:711][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.01.19-12.04.17:714][690]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-12.04.17:755][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-12.04.17:760][690]LogPackageLocalizationCache: Processed 46 localized package path(s) for 2 prioritized culture(s) in 0.004414 seconds
+[2024.01.19-12.04.17:774][690]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-12.04.17:775][690]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD311593B64BFF4519279FC3905D37FC4C.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-12.04.17:782][690]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms
+[2024.01.19-12.04.17:784][690]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-12.04.17:784][690]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-12.04.55:616][228]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.01.19-12.04.55:616][228]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.01.19-12.05.33:523][773]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.01.19-12.47.57:317][515]LogDerivedDataCache: C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.050 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2985 files in 4262 folders with total size 194 MiB.
+[2024.01.19-13.21.49:638][ 10]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI/Cards/BPI_AddCard.BPI_AddCard
+[2024.01.19-13.21.49:638][ 10]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.19-13.21.49:638][ 10]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.19-13.21.51:355][206]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-13.21.51:355][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-13.21.55:061][646]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-13.21.55:094][646]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-13.21.55:108][646]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-13.21.55:109][646]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD22380D3948196944F9E019B7CD174648.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-13.21.55:117][646]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 123 ms)
+[2024.01.19-13.21.55:117][646]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-13.21.55:117][646]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-13.47.57:330][ 56]LogDerivedDataCache: C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.062 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2985 files in 4262 folders with total size 194 MiB.
+[2024.01.19-13.58.01:781][206]BlueprintLog: New page: 编译WBP_HUD
+[2024.01.19-13.58.01:812][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.01.19-14.01.50:058][747]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI/Cards/BPI_AddCard.BPI_AddCard
+[2024.01.19-14.01.50:058][747]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.19-14.01.50:058][747]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.19-14.01.51:587][919]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-14.01.51:587][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-14.16.01:946][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.01.19-14.24.51:735][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.01.19-14.25.58:076][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.01.19-14.25.58:079][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-14.25.58:146][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_CardOptionPanel" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_CardOptionPanel.uasset" SILENT=true
+[2024.01.19-14.25.58:165][ 88]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_CardOptionPanel
+[2024.01.19-14.25.58:165][ 88]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_CardOptionPanelA1D86BD64EFBFFFBE85EEC8938C9F94A.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_CardOptionPanel.uasset'
+[2024.01.19-14.25.58:174][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 219 ms)
+[2024.01.19-14.25.58:176][ 88]AssetCheck: New page: 资产保存：WBP_CardOptionPanel
+[2024.01.19-14.25.58:176][ 88]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_CardOptionPanel.WBP_CardOptionPanel
+[2024.01.19-14.26.30:107][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.01.19-14.28.22:160][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.01.19-14.28.22:163][138]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-14.28.22:210][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-14.28.22:226][138]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-14.28.22:226][138]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD2D3A176B460506D6DDCA249407C3F028.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-14.28.22:234][138]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 289 ms)
+[2024.01.19-14.28.22:235][138]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-14.28.22:235][138]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-14.28.36:209][722]BlueprintLog: New page: 编译WBP_HUD
+[2024.01.19-14.28.36:212][722]LogBlueprint: Warning: [AssetLog] D:\UEProjects\MyProjects\KCardGameProject\Content\Buleprints\Cards\WBP_HUD.uasset: [Compiler] 设置玩家点击的卡牌控件 已被修剪，因为其执行引脚未连接，连接的值不可用，将作为默认进行读取
+[2024.01.19-14.28.36:213][722]LogBlueprint: Error: [AssetLog] D:\UEProjects\MyProjects\KCardGameProject\Content\Buleprints\Cards\WBP_HUD.uasset: [Compiler] 此蓝图（自身）并非是一个 WBP_Card_C，因此 ' 目标 ’ 必须拥有一个连接。
+[2024.01.19-14.28.36:213][722]LogBlueprint: Error: [AssetLog] D:\UEProjects\MyProjects\KCardGameProject\Content\Buleprints\Cards\WBP_HUD.uasset: [Compiler] 变量节点 获得卡牌信息结构体 使用一个无效的目标。它可能依赖于一个没有连接到执行链上且已被清除的节点。
+[2024.01.19-14.28.36:238][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.01.19-14.28.50:605][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.01.19-14.28.50:609][345]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-14.28.50:646][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-14.28.50:661][345]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-14.28.50:662][345]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD06F29EC8493E6CEEF4C202883447D8E8.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-14.28.50:672][345]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 353 ms)
+[2024.01.19-14.28.50:674][345]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-14.28.50:674][345]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-14.28.51:570][448]BlueprintLog: New page: 编译WBP_HUD
+[2024.01.19-14.28.51:602][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.01.19-14.28.54:151][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.01.19-14.28.56:004][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.01.19-14.29.39:915][837]BlueprintLog: New page: 编译WBP_HUD
+[2024.01.19-14.29.39:941][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.01.19-14.29.39:948][837]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-14.29.39:988][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-14.29.40:003][837]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-14.29.40:003][837]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDF0F041E841F9CD38ED7FC8BEF1A36E0A.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-14.29.40:014][837]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 418 ms)
+[2024.01.19-14.29.40:016][837]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-14.29.40:016][837]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-14.30.08:287][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.01.19-14.30.08:290][139]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-14.30.08:332][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-14.30.08:347][139]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-14.30.08:347][139]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD2988A2CF46300BD84256D88C284DBC04.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-14.30.08:358][139]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 487 ms)
+[2024.01.19-14.30.08:360][139]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-14.30.08:360][139]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-14.30.27:870][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.01.19-14.30.27:873][420]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-14.30.27:911][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-14.30.27:927][420]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-14.30.27:927][420]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDF5FCAF194CEDBD42809F7887D2D79DDC.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-14.30.27:942][420]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 556 ms)
+[2024.01.19-14.30.27:947][420]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-14.30.27:948][420]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-14.30.29:148][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.01.19-14.30.46:359][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.01.19-14.30.46:362][494]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-14.30.46:403][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-14.30.46:417][494]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-14.30.46:418][494]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDFB5FE84243DE0914FA122CBFDED34EFF.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-14.30.46:426][494]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 621 ms)
+[2024.01.19-14.30.46:428][494]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-14.30.46:428][494]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-14.30.54:203][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.01.19-14.30.54:206][345]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-14.30.54:252][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-14.30.54:267][345]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-14.30.54:267][345]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD57D395A94C676D7D116E1595DB393950.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-14.30.54:281][345]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 696 ms)
+[2024.01.19-14.30.54:284][345]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-14.30.54:284][345]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-14.30.55:229][444]BlueprintLog: New page: 编译WBP_HUD
+[2024.01.19-14.30.55:259][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.01.19-14.30.57:774][699]BlueprintLog: New page: 编译WBP_HUD
+[2024.01.19-14.30.57:799][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.01.19-14.31.22:489][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.01.19-14.31.34:102][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.01.19-14.31.34:105][992]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-14.31.34:143][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-14.31.34:158][992]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-14.31.34:159][992]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD2C1EAB5841314C64AD2666B22DF87CFE.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-14.31.34:169][992]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 761 ms)
+[2024.01.19-14.31.34:171][992]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-14.31.34:171][992]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-14.36.53:864][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.01.19-14.36.53:866][130]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-14.36.53:922][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-14.36.53:938][130]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-14.36.53:938][130]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD3D56C2FD4DFDC4001E557488CDA8D600.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-14.36.53:948][130]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 842 ms)
+[2024.01.19-14.36.53:950][130]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-14.36.53:950][130]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-14.36.58:739][694]BlueprintLog: New page: 编译WBP_HUD
+[2024.01.19-14.36.58:771][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.01.19-14.41.43:464][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.01.19-14.42.29:415][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.01.19-14.42.29:417][750]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-14.42.29:457][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_CardHand" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_CardHand.uasset" SILENT=true
+[2024.01.19-14.42.29:472][750]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_CardHand
+[2024.01.19-14.42.29:472][750]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_CardHand766AE51B4482CD6026851984A9F8BE3F.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_CardHand.uasset'
+[2024.01.19-14.42.29:484][750]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 909 ms)
+[2024.01.19-14.42.29:486][750]AssetCheck: New page: 资产保存：WBP_CardHand
+[2024.01.19-14.42.29:486][750]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_CardHand.WBP_CardHand
+[2024.01.19-14.42.30:107][822]BlueprintLog: New page: 编译WBP_CardHand
+[2024.01.19-14.42.30:161][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.01.19-14.42.37:781][677]BlueprintLog: New page: 编译WBP_HUD
+[2024.01.19-14.42.37:809][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.01.19-14.42.38:821][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.01.19-14.43.06:448][884]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Buleprints/Cards/WBP_ResBox.WBP_ResBox
+[2024.01.19-14.43.06:448][884]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.19-14.43.06:448][884]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.19-14.43.06:454][884]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.19-14.43.06:455][884]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.19-14.43.34:049][ 46]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-14.43.34:050][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-14.43.34:054][ 46]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-14.43.34:054][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-14.44.06:018][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.01.19-14.44.06:021][564]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-14.44.06:072][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-14.44.06:087][564]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-14.44.06:087][564]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD36A419EA47DE0EC589E52C81B6E55491.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-14.44.06:104][564]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 992 ms)
+[2024.01.19-14.44.06:108][564]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-14.44.06:108][564]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-14.44.12:653][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.01.19-14.44.12:656][267]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-14.44.12:708][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-14.44.12:724][267]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-14.44.12:725][267]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD425AE0444D374D8CC7CDA1A69C5B8CD0.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-14.44.12:735][267]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 1.07 sec)
+[2024.01.19-14.44.12:736][267]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-14.44.12:736][267]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-14.44.13:612][362]BlueprintLog: New page: 编译WBP_HUD
+[2024.01.19-14.44.13:636][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.01.19-14.44.15:777][576]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Buleprints/Cards/WBP_Round.WBP_Round
+[2024.01.19-14.44.15:777][576]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.19-14.44.15:777][576]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.19-14.44.15:783][576]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.19-14.44.15:783][576]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.19-14.44.32:102][448]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-14.44.32:102][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-14.44.32:107][448]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-14.44.32:107][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-14.45.45:264][642]BlueprintLog: New page: 编译WBP_HUD
+[2024.01.19-14.45.45:296][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.01.19-14.45.45:305][642]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-14.45.45:367][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-14.45.45:382][642]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-14.45.45:382][642]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD2BFE4EA6441B2878E16F99B888A10B81.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-14.45.45:393][642]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 1.16 sec)
+[2024.01.19-14.45.45:394][642]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-14.45.45:394][642]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-14.45.46:710][776]LogDebuggerCommands: Repeating last play command: 新建编辑器窗口（PIE）
+[2024.01.19-14.45.46:727][776]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.19-14.45.46:727][776]PIE: New page: PIE会话：Map_Player（2024年1月20日 上午6:45:46）
+[2024.01.19-14.45.46:727][776]LogPlayLevel: Display: Creating online subsystem for client :Context_29
+[2024.01.19-14.45.46:729][776]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2024.01.19-14.45.46:737][777]LogPlayLevel: Creating play world package: /Game/Maps/Player/UEDPIE_0_Map_Player
+[2024.01.19-14.45.46:738][777]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001279s)
+[2024.01.19-14.45.46:738][777]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Player/Map_Player.Map_Player to /Game/Maps/Player/UEDPIE_0_Map_Player.Map_Player (0.001319s)
+[2024.01.19-14.45.46:746][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.01.19-14.45.46:747][777]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.19-14.45.46:747][777]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.19-14.45.46:748][777]LogAIModule: Creating AISystem for world Map_Player
+[2024.01.19-14.45.46:748][777]LogPlayLevel: PIE: World Init took: (0.000768s)
+[2024.01.19-14.45.46:748][777]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.01.19-14.45.46:748][777]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.19-14.45.46:748][777]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.19-14.45.46:748][777]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.19-14.45.46:748][777]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.19-14.45.46:748][777]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.19-14.45.46:748][777]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.19-14.45.46:748][777]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.19-14.45.46:748][777]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.19-14.45.46:748][777]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.19-14.45.46:748][777]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.19-14.45.46:748][777]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.19-14.45.46:750][777]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.19-14.45.46:781][777]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (Realtek(R) Audio)
+[2024.01.19-14.45.46:782][777]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.19-14.45.46:782][777]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.19-14.45.46:782][777]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.19-14.45.46:783][777]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.01.19-14.45.46:783][777]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.01.19-14.45.46:784][777]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.01.19-14.45.46:784][777]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.01.19-14.45.46:784][777]LogInit: FAudioDevice initialized with ID 2.
+[2024.01.19-14.45.46:784][777]LogAudio: Display: Audio Device (ID: 2) registered with world 'Map_Player'.
+[2024.01.19-14.45.46:784][777]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.01.19-14.45.46:818][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.19-14.45.46:819][777]LogLoad: Game class is 'KCGPGameModeBase_C'
+[2024.01.19-14.45.46:819][777]LogWorld: Bringing World /Game/Maps/Player/UEDPIE_0_Map_Player.Map_Player up for play (max tick rate 0) at 2024.01.19-22.45.46
+[2024.01.19-14.45.46:819][777]LogWorld: Bringing up level for play took: 0.000546
+[2024.01.19-14.45.46:820][777]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.01.19-14.45.46:825][777]PIE: 登陆的服务器
+[2024.01.19-14.45.46:827][777]PIE: PIE总开始时间：0.101秒。
+[2024.01.19-14.45.46:841][777]LogViewport: Scene viewport resized to 2554x1352, mode Windowed.
+[2024.01.19-14.45.47:394][818]LogScript: Warning: Script Msg: Attempted to swap elements [9] and [16] in array 需要洗牌的卡组. Available index range: [0 15)!
+[2024.01.19-14.45.47:394][818]LogScript: Warning: Script Msg called by: WBP_CardHand_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.WBP_HUD_C_0.WidgetTree_0.发牌区域覆层
+[2024.01.19-14.45.47:394][818]LogScript: Warning: Script Msg: Attempted to swap elements [14] and [16] in array 需要洗牌的卡组. Available index range: [0 15)!
+[2024.01.19-14.45.47:394][818]LogScript: Warning: Script Msg called by: WBP_CardHand_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.WBP_HUD_C_0.WidgetTree_0.发牌区域覆层
+[2024.01.19-14.45.48:041][881]LogBlueprintUserMessages: [发牌区域覆层] 匹配卡牌选项成功
+[2024.01.19-14.45.49:215][992]LogBlueprintUserMessages: [WBP_CardOptionButton_C_1] 9
+[2024.01.19-14.45.50:652][130]LogBlueprintUserMessages: [发牌区域覆层] 匹配卡牌选项成功
+[2024.01.19-14.45.51:320][194]LogBlueprintUserMessages: [WBP_CardOptionButton_C_3] 27
+[2024.01.19-14.45.53:200][380]LogNet: Browse: /Game/Maps/Menus/Map_StartMenu
+[2024.01.19-14.45.53:201][380]LogLoad: LoadMap: /Game/Maps/Menus/Map_StartMenu
+[2024.01.19-14.45.53:201][380]LogWorld: BeginTearingDown for /Game/Maps/Player/UEDPIE_0_Map_Player
+[2024.01.19-14.45.53:201][380]LogWorld: UWorld::CleanupWorld for Map_Player, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-14.45.53:201][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-14.45.53:241][380]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.19-14.45.53:243][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.01.19-14.45.53:249][380]LogAudio: Display: Audio Device (ID: 2) registered with world 'Map_StartMenu'.
+[2024.01.19-14.45.53:249][380]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.19-14.45.53:250][380]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.19-14.45.53:250][380]LogAIModule: Creating AISystem for world Map_StartMenu
+[2024.01.19-14.45.53:250][380]LogPlayLevel: PIE: World Init took: (0.000682s)
+[2024.01.19-14.45.53:250][380]LogLoad: Game class is 'KCGPGameModeBase_C'
+[2024.01.19-14.45.53:251][380]LogWorld: Bringing World /Game/Maps/Menus/UEDPIE_0_Map_StartMenu.Map_StartMenu up for play (max tick rate 0) at 2024.01.19-22.45.53
+[2024.01.19-14.45.53:251][380]LogWorld: Bringing up level for play took: 0.000551
+[2024.01.19-14.45.53:251][380]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.01.19-14.45.53:253][380]LogLoad: Took 0.052616 seconds to LoadMap(/Game/Maps/Menus/Map_StartMenu)
+[2024.01.19-14.45.55:281][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.19-14.45.55:281][574]LogWorld: BeginTearingDown for /Game/Maps/Menus/UEDPIE_0_Map_StartMenu
+[2024.01.19-14.45.55:281][574]LogSlate: Window 'KCardGameProject 预览 [NetMode: Standalone 0]  （64-bit/PC D3D SM6）' being destroyed
+[2024.01.19-14.45.55:295][574]LogWorld: UWorld::CleanupWorld for Map_StartMenu, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-14.45.55:295][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-14.45.55:298][574]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.19-14.45.55:300][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-14.45.55:307][574]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.19-14.45.55:308][574]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.01.19-14.45.55:308][574]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.01.19-14.45.55:309][574]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.01.19-14.45.55:315][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.01.19-14.45.55:338][576]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2024.01.19-14.45.59:731][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.01.19-14.47.27:473][913]LogSlate: Took 0.000733 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.01.19-14.47.39:114][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.01.19-14.47.39:117][144]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-14.47.39:163][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-14.47.39:179][144]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-14.47.39:179][144]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDD313047645630EE031376EBD882B3A4F.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-14.47.39:195][144]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 1.23 sec)
+[2024.01.19-14.47.39:201][144]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-14.47.39:201][144]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-14.47.41:893][432]BlueprintLog: New page: 编译WBP_HUD
+[2024.01.19-14.47.41:925][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.01.19-14.47.57:336][133]LogDerivedDataCache: C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.066 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2985 files in 4262 folders with total size 194 MiB.
+[2024.01.19-14.48.57:521][ 24]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Buleprints/Cards/WBP_Round.WBP_Round
+[2024.01.19-14.48.57:521][ 24]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.19-14.48.57:521][ 24]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.19-14.48.57:527][ 24]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.19-14.48.57:527][ 24]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.19-14.50.06:798][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.01.19-14.50.06:801][  2]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-14.50.06:860][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-14.50.06:875][  2]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-14.50.06:876][  2]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDC47714844EB2C99B53EF36B97D827A8A.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-14.50.06:887][  2]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 1.32 sec)
+[2024.01.19-14.50.06:888][  2]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-14.50.06:888][  2]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-14.51.20:577][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.01.19-14.51.20:580][744]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-14.51.20:620][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-14.51.20:637][744]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-14.51.20:637][744]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD8F6202A6484075E4CD334994E0C41BCD.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-14.51.20:646][744]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 1.39 sec)
+[2024.01.19-14.51.20:647][744]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-14.51.20:648][744]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-14.51.22:076][912]BlueprintLog: New page: 编译WBP_HUD
+[2024.01.19-14.51.22:115][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.01.19-14.51.26:094][320]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Buleprints/Cards/WBP_ResBox.WBP_ResBox
+[2024.01.19-14.51.26:095][320]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.19-14.51.26:095][320]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.19-14.51.26:099][320]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.19-14.51.26:099][320]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.19-14.52.09:054][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.01.19-14.52.09:059][232]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-14.52.09:108][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-14.52.09:124][232]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-14.52.09:124][232]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDE9CBDDC64B77F2ADB2D9A2B98BDCEF35.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-14.52.09:134][232]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 1.46 sec)
+[2024.01.19-14.52.09:136][232]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-14.52.09:136][232]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-14.53.31:340][721]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI/Cards/BPFL_Cards.BPFL_Cards
+[2024.01.19-14.53.31:341][721]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.19-14.53.31:341][721]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.19-14.58.24:084][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.01.19-14.58.33:436][ 20]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Engine/Transient does not exist, will not scan.
+[2024.01.19-14.59.00:985][456]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-14.59.01:022][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/S_PlayerCards" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/S_PlayerCards.uasset" SILENT=true
+[2024.01.19-14.59.01:023][456]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/S_PlayerCards
+[2024.01.19-14.59.01:023][456]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/S_PlayerCards383DE8064E069AA2A12D448261F3A111.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/S_PlayerCards.uasset'
+[2024.01.19-14.59.01:028][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_CardOptionPanel" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_CardOptionPanel.uasset" SILENT=true
+[2024.01.19-14.59.01:045][456]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_CardOptionPanel
+[2024.01.19-14.59.01:046][456]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_CardOptionPanel14F153C343F57D458B471A93230CE2DA.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_CardOptionPanel.uasset'
+[2024.01.19-14.59.01:049][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-14.59.01:066][456]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-14.59.01:067][456]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDF39E583547D4D79E754914A2F8B3B322.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-14.59.01:079][456]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 1.55 sec)
+[2024.01.19-14.59.01:080][456]AssetCheck: New page: 资产保存：多个资产
+[2024.01.19-14.59.01:081][456]LogContentValidation: Display: 正在验证/Script/Engine.UserDefinedStruct /Game/Buleprints/Cards/S_PlayerCards.S_PlayerCards
+[2024.01.19-14.59.01:081][456]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_CardOptionPanel.WBP_CardOptionPanel
+[2024.01.19-14.59.01:081][456]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-14.59.04:359][798]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Buleprints/Cards/DT_CardOptions.DT_CardOptions
+[2024.01.19-14.59.21:420][736]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Buleprints/Cards/DT_CardOptions.DT_CardOptions
+[2024.01.19-14.59.29:105][586]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Buleprints/Cards/S_CardOptions.S_CardOptions
+[2024.01.19-14.59.39:671][799]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-14.59.39:709][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/S_PlayerCards" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/S_PlayerCards.uasset" SILENT=true
+[2024.01.19-14.59.39:710][799]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/S_PlayerCards
+[2024.01.19-14.59.39:710][799]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/S_PlayerCards5A71A03547FC804149AA30A025F41D54.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/S_PlayerCards.uasset'
+[2024.01.19-14.59.39:730][799]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 1.61 sec)
+[2024.01.19-14.59.39:730][799]AssetCheck: New page: 资产保存：S_PlayerCards
+[2024.01.19-14.59.39:730][799]LogContentValidation: Display: 正在验证/Script/Engine.UserDefinedStruct /Game/Buleprints/Cards/S_PlayerCards.S_PlayerCards
+[2024.01.19-14.59.40:666][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.01.19-14.59.40:670][909]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-14.59.40:708][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-14.59.40:725][909]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-14.59.40:725][909]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD4716407E4092C1BDA45D688D8CC2B41A.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-14.59.40:730][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_CardOptionPanel" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_CardOptionPanel.uasset" SILENT=true
+[2024.01.19-14.59.40:748][909]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_CardOptionPanel
+[2024.01.19-14.59.40:749][909]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_CardOptionPanel8071172E4684F2E5ABC98EBBA371F4AB.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_CardOptionPanel.uasset'
+[2024.01.19-14.59.40:761][909]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 1.70 sec)
+[2024.01.19-14.59.40:765][909]AssetCheck: New page: 资产保存：多个资产
+[2024.01.19-14.59.40:765][909]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-14.59.40:766][909]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_CardOptionPanel.WBP_CardOptionPanel
+[2024.01.19-15.02.15:650][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.01.19-15.02.15:653][577]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.02.15:699][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_CardOptionPanel" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_CardOptionPanel.uasset" SILENT=true
+[2024.01.19-15.02.15:718][577]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_CardOptionPanel
+[2024.01.19-15.02.15:718][577]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_CardOptionPanel35301A5B40ED999D7C6EB5B825EE958E.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_CardOptionPanel.uasset'
+[2024.01.19-15.02.15:733][577]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 1.78 sec)
+[2024.01.19-15.02.15:735][577]AssetCheck: New page: 资产保存：WBP_CardOptionPanel
+[2024.01.19-15.02.15:735][577]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_CardOptionPanel.WBP_CardOptionPanel
+[2024.01.19-15.02.35:059][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.01.19-15.02.35:063][833]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.02.35:114][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_CardOptionPanel" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_CardOptionPanel.uasset" SILENT=true
+[2024.01.19-15.02.35:132][833]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_CardOptionPanel
+[2024.01.19-15.02.35:132][833]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_CardOptionPanel66B9EBC84BCD5E9AB4576DB6EFA01396.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_CardOptionPanel.uasset'
+[2024.01.19-15.02.35:141][833]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 1.86 sec)
+[2024.01.19-15.02.35:142][833]AssetCheck: New page: 资产保存：WBP_CardOptionPanel
+[2024.01.19-15.02.35:142][833]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_CardOptionPanel.WBP_CardOptionPanel
+[2024.01.19-15.02.36:075][941]BlueprintLog: New page: 编译WBP_CardOptionPanel
+[2024.01.19-15.02.36:107][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.01.19-15.02.42:576][655]BlueprintLog: New page: 编译WBP_CardOptionPanel
+[2024.01.19-15.02.42:608][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.01.19-15.02.45:060][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.01.19-15.02.46:010][ 28]BlueprintLog: New page: 编译WBP_CardOptionPanel
+[2024.01.19-15.02.46:033][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.01.19-15.08.58:269][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.01.19-15.08.58:272][883]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.08.58:329][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.08.58:346][883]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.08.58:346][883]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD1BE889B8457AE02E14156E92DBC9FF30.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.08.58:359][883]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 1.95 sec)
+[2024.01.19-15.08.58:362][883]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.08.58:362][883]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.09.08:797][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.01.19-15.09.08:801][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.09.08:836][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.09.08:854][ 59]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.09.08:854][ 59]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD85B2187744494B34DDE365B90C5F84DB.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.09.08:863][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 2.01 sec)
+[2024.01.19-15.09.08:865][ 59]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.09.08:865][ 59]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.09.09:970][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.01.19-15.09.38:599][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.01.19-15.09.38:602][452]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.09.38:646][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.09.38:662][452]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.09.38:662][452]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDA5ACECEB49A5DF2229DABA8DD73FEA9C.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.09.38:673][452]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 2.08 sec)
+[2024.01.19-15.09.38:674][452]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.09.38:674][452]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.11.02:531][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.01.19-15.11.02:535][896]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.11.02:588][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.11.02:606][896]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.11.02:606][896]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD44A2D05E4A358FB858B96BA3FB4CC079.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.11.02:614][896]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 2.16 sec)
+[2024.01.19-15.11.02:615][896]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.11.02:615][896]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.13.16:946][123]BlueprintLog: New page: 折叠到函数
+[2024.01.19-15.13.38:453][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.01.19-15.13.38:456][585]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.13.38:505][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.13.38:523][585]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.13.38:524][585]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD92DCA9FF41D00570092F578196DC38E0.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.13.38:537][585]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 2.25 sec)
+[2024.01.19-15.13.38:542][585]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.13.38:542][585]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.14.31:849][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.01.19-15.14.31:852][550]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.14.31:889][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.14.31:907][550]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.14.31:907][550]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDB86C3F0C487AB840D585429B9197F35A.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.14.31:915][550]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 2.31 sec)
+[2024.01.19-15.14.31:918][550]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.14.31:918][550]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.14.45:742][175]LogEditorTransaction: Undo 删除当前选项
+[2024.01.19-15.15.14:636][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.01.19-15.15.14:640][541]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.15.14:679][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.15.14:698][541]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.15.14:698][541]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDA886DED747F9CE0AFACF6FB759E87D5A.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.15.14:704][541]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 2.38 sec)
+[2024.01.19-15.15.14:706][541]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.15.14:706][541]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.15.56:710][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.01.19-15.15.56:713][507]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.15.56:753][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.15.56:771][507]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.15.56:771][507]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDDDA496D44499480505CE7C9A0431C12F.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.15.56:778][507]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 2.44 sec)
+[2024.01.19-15.15.56:780][507]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.15.56:780][507]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.15.58:433][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.01.19-15.16.08:340][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.01.19-15.16.08:343][851]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.16.08:385][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.16.08:403][851]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.16.08:403][851]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD4BA591184593409F1F939EA4A491C354.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.16.08:410][851]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 2.51 sec)
+[2024.01.19-15.16.08:411][851]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.16.08:411][851]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.16.32:423][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.01.19-15.16.32:427][675]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.16.32:462][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.16.32:480][675]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.16.32:480][675]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDA76C1D7C4D39DBB015B973A38083526B.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.16.32:489][675]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 2.57 sec)
+[2024.01.19-15.16.32:491][675]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.16.32:491][675]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.17.50:564][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.01.19-15.17.50:567][948]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.17.50:604][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.17.50:622][948]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.17.50:622][948]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDBE08986347879F12FD7B58ADE9C3A052.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.17.50:630][948]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 2.63 sec)
+[2024.01.19-15.17.50:632][948]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.17.50:632][948]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.18.46:576][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.01.19-15.18.46:579][631]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.18.46:628][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.18.46:647][631]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.18.46:647][631]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD848F948C40EF17146C0A6BBF4A1251AD.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.18.46:656][631]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 2.71 sec)
+[2024.01.19-15.18.46:658][631]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.18.46:658][631]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.19.57:591][113]BlueprintLog: New page: 折叠到函数
+[2024.01.19-15.20.51:404][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.01.19-15.20.51:407][508]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.20.51:448][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.20.51:466][508]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.20.51:467][508]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD0E03ECB74D8EBC683A3313BCD97B7710.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.20.51:476][508]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 2.78 sec)
+[2024.01.19-15.20.51:478][508]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.20.51:478][508]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.20.54:619][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.01.19-15.20.54:621][879]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.20.54:647][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.20.54:666][879]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.20.54:666][879]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDFD5046F644A57A4539907EAA3245FA5D.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.20.54:675][879]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 2.83 sec)
+[2024.01.19-15.20.54:677][879]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.20.54:677][879]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.21.23:388][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.01.19-15.21.23:389][259]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.21.23:431][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.21.23:449][259]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.21.23:449][259]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDB6BF54F94D36FDDB1019809E65578BDC.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.21.23:456][259]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 2.90 sec)
+[2024.01.19-15.21.23:457][259]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.21.23:457][259]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.21.29:230][941]BlueprintLog: New page: 编译WBP_HUD
+[2024.01.19-15.21.29:272][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.01.19-15.21.29:287][941]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.21.29:325][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.21.29:344][941]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.21.29:344][941]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDA9B51E754158A24A7C01DDAC75E45484.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.21.29:353][941]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 2.96 sec)
+[2024.01.19-15.21.29:357][941]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.21.29:357][941]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.21.44:655][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.01.19-15.21.44:659][742]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.21.44:701][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.21.44:719][742]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.21.44:720][742]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD9145F12D49C7D49D168DC39A1BF8E1DC.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.21.44:729][742]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 3.03 sec)
+[2024.01.19-15.21.44:731][742]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.21.44:731][742]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.21.45:519][834]BlueprintLog: New page: 编译WBP_HUD
+[2024.01.19-15.21.45:557][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.01.19-15.23.09:394][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.01.19-15.23.09:397][824]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.23.09:432][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.23.09:451][824]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.23.09:451][824]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDF4ED2DF2425D3EF7D1DC7E9F6EB1AA2F.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.23.09:459][824]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 3.10 sec)
+[2024.01.19-15.23.09:463][824]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.23.09:463][824]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.23.22:569][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.01.19-15.23.22:572][391]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.23.22:601][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.23.22:621][391]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.23.22:622][391]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD5E3D0CFF4DDDA46DD40DE882AE3FE97A.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.23.22:630][391]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 3.15 sec)
+[2024.01.19-15.23.22:632][391]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.23.22:632][391]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.23.47:603][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.01.19-15.23.47:607][365]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.23.47:635][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.23.47:654][365]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.23.47:654][365]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD0D768742485D38EB56B1049FDB37F8D6.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.23.47:661][365]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 3.21 sec)
+[2024.01.19-15.23.47:662][365]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.23.47:662][365]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.26.34:697][ 94]BlueprintLog: New page: 折叠到函数
+[2024.01.19-15.27.26:734][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.01.19-15.27.26:737][203]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.27.26:771][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.27.26:791][203]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.27.26:791][203]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD90FBB6FE4909372273514CB1D8ABD706.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.27.26:800][203]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 3.27 sec)
+[2024.01.19-15.27.26:801][203]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.27.26:801][203]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.27.41:044][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.01.19-15.27.41:046][864]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.27.41:082][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.27.41:102][864]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.27.41:103][864]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDB64035364272A426A080BC9473F74084.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.27.41:109][864]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 3.33 sec)
+[2024.01.19-15.27.41:110][864]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.27.41:110][864]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.27.46:263][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.01.19-15.27.46:266][479]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.27.46:294][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.27.46:314][479]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.27.46:315][479]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDFA81CE884FD4112C42CBFEAD0D9205E6.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.27.46:323][479]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 3.39 sec)
+[2024.01.19-15.27.46:324][479]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.27.46:324][479]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.27.46:986][558]BlueprintLog: New page: 编译WBP_HUD
+[2024.01.19-15.27.47:028][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.01.19-15.28.02:921][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.01.19-15.28.02:925][407]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.28.02:960][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.28.02:980][407]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.28.02:980][407]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD9111820A444D644FB6577F90E6520B19.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.28.02:987][407]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 3.45 sec)
+[2024.01.19-15.28.02:988][407]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.28.02:988][407]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.30.27:926][424]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.01.19-15.30.27:930][424]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.30.27:961][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.30.27:982][424]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.30.27:982][424]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD5D7088274DC83947E6FDAC9928FB3493.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.30.27:991][424]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 3.51 sec)
+[2024.01.19-15.30.27:993][424]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.30.27:993][424]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.30.35:805][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.19-15.30.52:640][351]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.01.19-15.30.52:643][351]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.30.52:681][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.30.52:701][351]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.30.52:702][351]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDDA8DA5694954D855F0C40C91462195B6.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.30.52:711][351]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 3.58 sec)
+[2024.01.19-15.30.52:712][351]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.30.52:712][351]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.33.28:859][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.01.19-15.33.28:863][785]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.33.28:900][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.33.28:920][785]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.33.28:920][785]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD6A4D9B404C22F6E4E481A58903B63823.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.33.28:929][785]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 3.64 sec)
+[2024.01.19-15.33.28:931][785]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.33.28:931][785]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.33.29:467][849]BlueprintLog: New page: 编译WBP_HUD
+[2024.01.19-15.33.29:516][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.01.19-15.33.33:605][319]BlueprintLog: New page: 编译WBP_HUD
+[2024.01.19-15.33.33:651][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.01.19-15.33.33:664][319]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.33.33:698][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.33.33:718][319]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.33.33:718][319]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDAC5058C040837040B378138CCA82868E.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.33.33:727][319]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 3.71 sec)
+[2024.01.19-15.33.33:729][319]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.33.33:729][319]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.33.53:977][679]BlueprintLog: New page: 编译WBP_HUD
+[2024.01.19-15.33.54:028][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.01.19-15.33.54:043][679]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.33.54:078][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.33.54:098][679]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.33.54:098][679]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD1582C1B3439966E04F9D92A98BD692D4.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.33.54:109][679]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 3.77 sec)
+[2024.01.19-15.33.54:111][679]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.33.54:111][679]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.34.14:851][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.01.19-15.34.14:855][116]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.34.14:891][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.34.14:913][116]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.34.14:913][116]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD560DC6464515B886F8082BB817EE57A4.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.34.14:920][116]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 3.84 sec)
+[2024.01.19-15.34.14:921][116]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.34.14:921][116]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.34.44:600][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.01.19-15.34.44:604][599]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.34.44:638][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.34.44:658][599]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.34.44:658][599]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD535619E54409214162D189B3EA348F25.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.34.44:669][599]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 3.90 sec)
+[2024.01.19-15.34.44:671][599]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.34.44:671][599]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.34.46:504][819]BlueprintLog: New page: 编译WBP_HUD
+[2024.01.19-15.34.46:557][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.01.19-15.34.54:609][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.01.19-15.34.54:613][730]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.34.54:649][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.34.54:669][730]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.34.54:670][730]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD1FF950C34AEEE14C53C14AB595F28B6A.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.34.54:678][730]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 3.97 sec)
+[2024.01.19-15.34.54:680][730]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.34.54:680][730]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.35.57:280][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.01.19-15.35.57:284][189]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.35.57:318][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.35.57:338][189]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.35.57:339][189]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD5461D8A34F0DC646082C678818B277E7.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.35.57:348][189]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 4.03 sec)
+[2024.01.19-15.35.57:350][189]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.35.57:350][189]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.36.29:536][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.01.19-15.36.29:539][ 23]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.36.29:572][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.36.29:593][ 23]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.36.29:594][ 23]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD36CF862A43F0583A67129CB695BCE4C4.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.36.29:602][ 23]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 4.10 sec)
+[2024.01.19-15.36.29:605][ 23]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.36.29:605][ 23]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.36.32:382][356]BlueprintLog: New page: 编译WBP_HUD
+[2024.01.19-15.36.32:445][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.01.19-15.39.27:937][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.01.19-15.39.27:941][376]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.39.27:979][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.39.28:000][376]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.39.28:001][376]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD6FCBD3934FC1F8D5ABE3D185ECC6DE3A.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.39.28:010][376]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 4.16 sec)
+[2024.01.19-15.39.28:012][376]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.39.28:012][376]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.39.46:797][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.01.19-15.39.46:799][558]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.39.46:833][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.39.46:854][558]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.39.46:855][558]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD7F28612041232A3223C0EBB606F7036C.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.39.46:862][558]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 4.23 sec)
+[2024.01.19-15.39.46:863][558]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.39.46:863][558]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.39.49:422][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.01.19-15.39.49:425][863]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.39.49:457][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.39.49:477][863]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.39.49:478][863]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD5B82F12840D5EC900D33F3A7A63EE5D7.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.39.49:485][863]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 4.29 sec)
+[2024.01.19-15.39.49:487][863]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.39.49:487][863]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.39.49:812][902]BlueprintLog: New page: 编译WBP_HUD
+[2024.01.19-15.39.49:862][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.01.19-15.39.51:368][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.01.19-15.40.05:359][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.01.19-15.40.05:362][706]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.40.05:403][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.40.05:424][706]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.40.05:425][706]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDB6AF15A24219347232FB0EB2850AD386.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.40.05:435][706]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 4.36 sec)
+[2024.01.19-15.40.05:437][706]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.40.05:437][706]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.40.14:322][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.01.19-15.40.58:570][987]BlueprintLog: New page: 编译WBP_HUD
+[2024.01.19-15.40.58:646][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.01.19-15.40.58:654][987]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.40.58:696][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.40.58:718][987]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.40.58:719][987]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD18F330A94D5680E094F23AABE8FB21AC.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.40.58:728][987]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 4.43 sec)
+[2024.01.19-15.40.58:730][987]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.40.58:730][987]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.46.11:277][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.01.19-15.46.11:281][275]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.46.11:316][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.46.11:337][275]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.46.11:337][275]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD0BFB322D49A8C4C4A71C4E83A05367E0.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.46.11:346][275]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 4.50 sec)
+[2024.01.19-15.46.11:348][275]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.46.11:348][275]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.46.12:526][415]BlueprintLog: New page: 编译WBP_HUD
+[2024.01.19-15.46.12:595][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.01.19-15.46.17:262][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.01.19-15.46.17:265][941]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.46.17:302][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.46.17:324][941]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.46.17:324][941]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDE89BBA914CE338450AD5E8AEF7840C23.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.46.17:332][941]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 4.57 sec)
+[2024.01.19-15.46.17:333][941]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.46.17:333][941]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.46.18:349][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.46.18:392][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.46.18:414][ 61]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.46.18:415][ 61]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD6C5AAA914C5B42FD04992B881B12F5FC.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.46.18:426][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 4.64 sec)
+[2024.01.19-15.46.18:427][ 61]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.46.18:427][ 61]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.46.43:539][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.01.19-15.47.14:484][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.01.19-15.47.14:487][677]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.47.14:523][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.47.14:546][677]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.47.14:547][677]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD85D4272C4EEB9803ADF24EA02744AD9C.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.47.14:556][677]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 4.71 sec)
+[2024.01.19-15.47.14:558][677]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.47.14:558][677]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.47.22:073][574]LogEditorTransaction: Undo 拉直连接
+[2024.01.19-15.47.50:273][886]LogEditorTransaction: Undo 右对齐
+[2024.01.19-15.47.56:455][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.01.19-15.47.56:458][581]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.47.56:493][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.47.56:515][581]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.47.56:516][581]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDB184F48E49D8775C7D527D8D82EB572C.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.47.56:524][581]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 4.78 sec)
+[2024.01.19-15.47.56:525][581]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.47.56:525][581]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.47.57:329][677]LogDerivedDataCache: C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.059 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2985 files in 4262 folders with total size 194 MiB.
+[2024.01.19-15.49.07:191][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.01.19-15.49.07:194][864]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.49.07:228][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.49.07:249][864]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.49.07:250][864]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDECE9FC904416977184D634BA8DEA13A1.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.49.07:259][864]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 4.84 sec)
+[2024.01.19-15.49.07:260][864]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.49.07:260][864]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.50.02:732][260]BlueprintLog: New page: 编译WBP_HUD
+[2024.01.19-15.50.02:829][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.01.19-15.50.02:837][260]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.50.02:882][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.50.02:905][260]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.50.02:905][260]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDEDA0D0D147A03B1C2BA401A15D9DC03B.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.50.02:915][260]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 4.92 sec)
+[2024.01.19-15.50.02:917][260]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.50.02:917][260]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.50.06:265][614]BlueprintLog: New page: 编译WBP_HUD
+[2024.01.19-15.50.06:357][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.01.19-15.50.06:367][614]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.50.06:411][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.50.06:434][614]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.50.06:434][614]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDAA330D9B410AE8BBF4A21A8A5FB1470C.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.50.06:446][614]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 5.00 sec)
+[2024.01.19-15.50.06:447][614]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.50.06:447][614]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.50.10:374][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.01.19-15.50.10:377][ 52]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.50.10:416][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.50.10:439][ 52]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.50.10:439][ 52]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD3269971942BB04F28A87298594A65B86.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.50.10:449][ 52]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 5.07 sec)
+[2024.01.19-15.50.10:451][ 52]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.50.10:451][ 52]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.50.11:056][124]BlueprintLog: New page: 编译WBP_HUD
+[2024.01.19-15.50.11:145][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.01.19-15.51.41:062][619]BlueprintLog: New page: 折叠到函数
+[2024.01.19-15.55.35:273][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.01.19-15.55.35:278][246]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.55.35:318][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.55.35:342][246]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.55.35:342][246]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDCAABA81647224428A2EB98A895B357D9.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.55.35:352][246]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 5.15 sec)
+[2024.01.19-15.55.35:355][246]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.55.35:355][246]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.55.39:893][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.01.19-15.55.41:562][979]BlueprintLog: New page: 编译WBP_HUD
+[2024.01.19-15.55.41:653][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.01.19-15.56.15:984][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.01.19-15.56.15:987][949]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.56.16:021][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.56.16:045][949]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.56.16:045][949]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDCAFF6D1A469C3FC1C87AD3BAFF1803B6.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.56.16:053][949]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 5.21 sec)
+[2024.01.19-15.56.16:055][949]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.56.16:055][949]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.56.27:430][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.01.19-15.56.27:435][292]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.56.27:472][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.56.27:498][292]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.56.27:498][292]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD9D071D6D475A82C48495C4BFEB4DB57D.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.56.27:506][292]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 5.28 sec)
+[2024.01.19-15.56.27:506][292]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.56.27:506][292]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.56.36:641][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.01.19-15.56.44:668][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.01.19-15.56.58:378][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.01.19-15.56.58:382][347]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.56.58:432][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.56.58:456][347]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.56.58:457][347]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD348E184F42C431F8FED46ABD0749E22A.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.56.58:467][347]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 5.37 sec)
+[2024.01.19-15.56.58:469][347]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.56.58:469][347]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.56.59:307][437]BlueprintLog: New page: 编译WBP_HUD
+[2024.01.19-15.56.59:410][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.01.19-15.57.11:706][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.01.19-15.57.12:704][934]BlueprintLog: New page: 编译WBP_HUD
+[2024.01.19-15.57.12:799][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.01.19-15.57.19:104][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.01.19-15.57.19:107][642]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.57.19:145][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.57.19:170][642]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.57.19:170][642]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDA3352DAC48C28BA795E5C396FF9EAA8A.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.57.19:180][642]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 5.44 sec)
+[2024.01.19-15.57.19:182][642]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.57.19:182][642]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.57.31:007][ 30]BlueprintLog: New page: 编译WBP_HUD
+[2024.01.19-15.57.31:103][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.01.19-15.57.31:115][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.57.31:150][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.57.31:175][ 30]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.57.31:175][ 30]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD3B4616DD46D3CD6E5FD8F089F468C4EF.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.57.31:185][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 5.51 sec)
+[2024.01.19-15.57.31:187][ 30]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.57.31:187][ 30]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.57.37:210][724]LogEditorTransaction: Undo 拉直连接
+[2024.01.19-15.57.48:907][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.01.19-15.57.48:911][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.57.48:947][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.57.48:972][ 28]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.57.48:973][ 28]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD6598BA3646B1A5FBBBA7708C2BBF5BDE.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.57.48:982][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 5.58 sec)
+[2024.01.19-15.57.48:984][ 28]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.57.48:984][ 28]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.59.31:947][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.01.19-15.59.31:949][943]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Player/Map_Player' took 0.019
+[2024.01.19-15.59.31:949][943]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Buleprints/Cards/WBP_HUD] ([2] browsable assets)...
+[2024.01.19-15.59.31:953][943]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD]
+[2024.01.19-15.59.31:953][943]OBJ SavePackage: Finished generating thumbnails for package [/Game/Buleprints/Cards/WBP_HUD]
+[2024.01.19-15.59.31:953][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Saved/Autosaves/Game/Buleprints/Cards/WBP_HUD_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.01.19-15.59.31:976][943]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Buleprints/Cards/WBP_HUD_Auto1
+[2024.01.19-15.59.31:977][943]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD_Auto10EDC3E3F4BCA4F494D6D1B9D02D34A6B.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Saved/Autosaves/Game/Buleprints/Cards/WBP_HUD_Auto1.uasset'
+[2024.01.19-15.59.31:977][943]LogFileHelpers: Auto-saving content packages took 0.029
+[2024.01.19-15.59.36:138][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.01.19-15.59.36:141][332]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.59.36:173][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.59.36:198][332]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.59.36:198][332]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD5F931A02426FF68FD410688F946F2D30.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.59.36:205][332]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 5.65 sec)
+[2024.01.19-15.59.36:207][332]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.59.36:207][332]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-15.59.57:631][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.01.19-15.59.57:636][870]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.59.57:677][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-15.59.57:701][870]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-15.59.57:702][870]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDEF1CD94E449E148C515E80BEBBE586EC.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-15.59.57:711][870]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 5.72 sec)
+[2024.01.19-15.59.57:713][870]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-15.59.57:713][870]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-16.00.01:122][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.01.19-16.00.01:272][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.01.19-16.00.01:979][376]BlueprintLog: New page: 编译WBP_HUD
+[2024.01.19-16.00.02:049][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.01.19-16.00.12:717][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.01.19-16.00.12:721][617]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-16.00.12:757][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-16.00.12:781][617]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-16.00.12:781][617]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD2CDB51374A207F5C50712AA417206340.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-16.00.12:790][617]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 5.79 sec)
+[2024.01.19-16.00.12:793][617]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-16.00.12:793][617]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-16.00.42:854][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.01.19-16.00.42:857][184]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-16.00.42:893][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-16.00.42:917][184]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-16.00.42:919][184]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDEC7BA769477658E4300C868428243971.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-16.00.42:927][184]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 5.86 sec)
+[2024.01.19-16.00.42:929][184]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-16.00.42:929][184]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-16.02.56:614][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.01.19-16.02.56:617][102]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-16.02.56:654][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-16.02.56:679][102]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-16.02.56:680][102]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDBDD119324E43258E823CE291257B8FCC.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-16.02.56:688][102]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 5.93 sec)
+[2024.01.19-16.02.56:689][102]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-16.02.56:689][102]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-16.03.04:521][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.19-16.03.05:030][ 94]BlueprintLog: New page: 编译WBP_HUD
+[2024.01.19-16.03.05:122][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.01.19-16.03.37:683][877]BlueprintLog: New page: 编译WBP_HUD
+[2024.01.19-16.03.37:790][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.01.19-16.03.37:801][877]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-16.03.37:864][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-16.03.37:889][877]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-16.03.37:890][877]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDB00218F4431855A12506D490D26B7DED.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-16.03.37:903][877]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 6.03 sec)
+[2024.01.19-16.03.37:904][877]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-16.03.37:904][877]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-16.03.42:323][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.01.19-16.03.42:327][368]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-16.03.42:357][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-16.03.42:382][368]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-16.03.42:382][368]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDD821B31A4D2251CD718046AF2EFCB4AD.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-16.03.42:393][368]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 6.10 sec)
+[2024.01.19-16.03.42:395][368]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-16.03.42:395][368]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-16.03.43:255][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.01.19-16.03.43:808][533]BlueprintLog: New page: 编译WBP_HUD
+[2024.01.19-16.03.43:906][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.01.19-16.03.44:620][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.01.19-16.05.22:606][ 22]BlueprintLog: New page: 折叠到函数
+[2024.01.19-16.06.21:144][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.01.19-16.06.21:148][889]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-16.06.21:182][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-16.06.21:207][889]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-16.06.21:208][889]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDC25023F948A58B5F0F475FB3C2946650.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-16.06.21:217][889]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 6.17 sec)
+[2024.01.19-16.06.21:219][889]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-16.06.21:219][889]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-16.06.25:761][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.01.19-16.06.25:766][418]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-16.06.25:802][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-16.06.25:827][418]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-16.06.25:827][418]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD139E109E45F72379EF8682963F64AC87.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-16.06.25:837][418]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 6.24 sec)
+[2024.01.19-16.06.25:838][418]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-16.06.25:838][418]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-16.06.30:663][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.01.19-16.06.30:668][982]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-16.06.30:702][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-16.06.30:726][982]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-16.06.30:727][982]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD1C08FD4B4CED5D23B546A892C409FE2C.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-16.06.30:736][982]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 6.31 sec)
+[2024.01.19-16.06.30:738][982]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-16.06.30:738][982]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-16.06.32:331][169]BlueprintLog: New page: 编译WBP_HUD
+[2024.01.19-16.06.32:409][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.01.19-16.07.42:654][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.01.19-16.07.42:657][478]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-16.07.42:682][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-16.07.42:707][478]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-16.07.42:707][478]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDCDADDC27410FA3893C1DA1BBC5FBBFE4.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-16.07.42:716][478]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 6.37 sec)
+[2024.01.19-16.07.42:717][478]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-16.07.42:717][478]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-16.07.55:737][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.01.19-16.07.55:739][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-16.07.55:772][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-16.07.55:796][ 32]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-16.07.55:796][ 32]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDD77844524FDAF7E569592BA2263187C0.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-16.07.55:806][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 6.44 sec)
+[2024.01.19-16.07.55:808][ 32]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-16.07.55:808][ 32]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-16.07.56:374][100]BlueprintLog: New page: 编译WBP_HUD
+[2024.01.19-16.07.56:453][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.01.19-16.08.02:146][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.01.19-16.08.16:772][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.01.19-16.08.16:776][481]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-16.08.16:813][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-16.08.16:839][481]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-16.08.16:839][481]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDCFC1FB59421CF5E3A1EC5E8EC68EAD58.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-16.08.16:847][481]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 6.51 sec)
+[2024.01.19-16.08.16:849][481]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-16.08.16:849][481]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-16.08.18:663][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.01.19-16.08.18:666][695]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-16.08.18:696][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-16.08.18:720][695]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-16.08.18:720][695]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDCE41CFD74921D4AE615EB9A7A7D7B29F.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-16.08.18:729][695]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 6.57 sec)
+[2024.01.19-16.08.18:731][695]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-16.08.18:731][695]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-16.08.56:991][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.01.19-16.08.56:995][198]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-16.08.57:034][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-16.08.57:060][198]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-16.08.57:060][198]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD83AB384D46F93768F092A39E9F62735B.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-16.08.57:069][198]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 6.64 sec)
+[2024.01.19-16.08.57:073][198]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-16.08.57:073][198]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-16.09.57:168][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.01.19-16.09.57:171][360]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-16.09.57:203][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-16.09.57:227][360]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-16.09.57:227][360]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDF7DEEBB04B535FD01F341DB21C187266.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-16.09.57:237][360]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 6.71 sec)
+[2024.01.19-16.09.57:238][360]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-16.09.57:238][360]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-16.10.31:526][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.01.19-16.10.31:530][449]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-16.10.31:573][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-16.10.31:599][449]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-16.10.31:600][449]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD89DFBAF841B7F97F4F7B5CB030184F83.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-16.10.31:609][449]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 6.79 sec)
+[2024.01.19-16.10.31:611][449]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-16.10.31:611][449]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-16.11.22:266][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.01.19-16.11.22:270][301]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-16.11.22:307][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-16.11.22:332][301]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-16.11.22:333][301]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD560CA9154B5B01A7230DFE91E725CC6D.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-16.11.22:342][301]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 6.86 sec)
+[2024.01.19-16.11.22:344][301]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-16.11.22:344][301]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-16.11.41:197][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.01.19-16.11.41:200][163]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-16.11.41:233][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-16.11.41:259][163]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-16.11.41:260][163]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD798747574013DF170482E2BCF6AB3A12.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-16.11.41:267][163]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 6.93 sec)
+[2024.01.19-16.11.41:269][163]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-16.11.41:269][163]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-16.12.05:179][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.01.19-16.12.05:182][617]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-16.12.05:218][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-16.12.05:243][617]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-16.12.05:244][617]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDCDD1EB5B4EFB510D95889B86E286173B.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-16.12.05:251][617]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 7.00 sec)
+[2024.01.19-16.12.05:253][617]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-16.12.05:253][617]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-16.12.19:311][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.01.19-16.12.24:139][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.01.19-16.12.24:142][888]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-16.12.24:177][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-16.12.24:202][888]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-16.12.24:203][888]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD3F2AFB3E494761AD281A2FB9AB44A7BE.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-16.12.24:212][888]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 7.07 sec)
+[2024.01.19-16.12.24:214][888]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-16.12.24:214][888]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-16.12.51:821][ 48]LogEditorTransaction: Undo 移动节点
+[2024.01.19-16.12.52:319][ 63]LogEditorTransaction: Undo 移动节点
+[2024.01.19-16.12.52:741][100]LogEditorTransaction: Undo 移动节点
+[2024.01.19-16.12.53:168][141]LogEditorTransaction: Undo 重命名节点
+[2024.01.19-16.12.53:979][228]LogEditorTransaction: Undo 添加节点
+[2024.01.19-16.13.32:630][157]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.01.19-16.13.32:634][157]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-16.13.32:667][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-16.13.32:693][157]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-16.13.32:694][157]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD9B60D96949E72C61ACF28C865C2BAE15.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-16.13.32:702][157]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 7.14 sec)
+[2024.01.19-16.13.32:704][157]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-16.13.32:704][157]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-16.13.38:683][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.01.19-16.13.38:687][865]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-16.13.38:723][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-16.13.38:748][865]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-16.13.38:749][865]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDAAB7FDE447EC62BBD314809CD8A525CC.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-16.13.38:756][865]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 7.20 sec)
+[2024.01.19-16.13.38:759][865]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-16.13.38:759][865]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-16.13.49:013][ 68]BlueprintLog: New page: 编译WBP_HUD
+[2024.01.19-16.13.49:115][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.01.19-16.13.49:126][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-16.13.49:165][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-16.13.49:192][ 68]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-16.13.49:192][ 68]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD13388496499873E96FD0C3B074B2B38B.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-16.13.49:203][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 7.28 sec)
+[2024.01.19-16.13.49:205][ 68]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-16.13.49:205][ 68]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-16.13.49:537][ 87]BlueprintLog: New page: 编译WBP_HUD
+[2024.01.19-16.13.49:639][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.01.19-16.13.50:524][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.01.19-16.13.59:193][201]BlueprintLog: New page: 编译WBP_HUD
+[2024.01.19-16.13.59:291][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.01.19-16.13.59:302][201]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-16.13.59:342][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-16.13.59:367][201]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-16.13.59:367][201]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD0E0226E44CC48AB63B9912B58AFB35EF.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-16.13.59:377][201]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 7.36 sec)
+[2024.01.19-16.13.59:379][201]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-16.13.59:379][201]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-16.14.04:769][824]LogDebuggerCommands: Repeating last play command: 新建编辑器窗口（PIE）
+[2024.01.19-16.14.04:775][824]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.19-16.14.04:775][824]PIE: New page: PIE会话：Map_Player（2024年1月20日 上午8:14:04）
+[2024.01.19-16.14.04:775][824]LogPlayLevel: Display: Creating online subsystem for client :Context_35
+[2024.01.19-16.14.04:777][824]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2024.01.19-16.14.04:782][825]LogPlayLevel: Creating play world package: /Game/Maps/Player/UEDPIE_0_Map_Player
+[2024.01.19-16.14.04:783][825]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001243s)
+[2024.01.19-16.14.04:784][825]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Player/Map_Player.Map_Player to /Game/Maps/Player/UEDPIE_0_Map_Player.Map_Player (0.001273s)
+[2024.01.19-16.14.04:804][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.01.19-16.14.04:806][825]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.19-16.14.04:806][825]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.19-16.14.04:807][825]LogAIModule: Creating AISystem for world Map_Player
+[2024.01.19-16.14.04:807][825]LogPlayLevel: PIE: World Init took: (0.000679s)
+[2024.01.19-16.14.04:807][825]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.01.19-16.14.04:807][825]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.19-16.14.04:807][825]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.19-16.14.04:807][825]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.19-16.14.04:807][825]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.19-16.14.04:807][825]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.19-16.14.04:807][825]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.19-16.14.04:807][825]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.19-16.14.04:807][825]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.19-16.14.04:807][825]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.19-16.14.04:807][825]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.19-16.14.04:807][825]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.19-16.14.04:808][825]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.19-16.14.04:839][825]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (Realtek(R) Audio)
+[2024.01.19-16.14.04:839][825]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.19-16.14.04:839][825]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.19-16.14.04:839][825]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.19-16.14.04:840][825]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.01.19-16.14.04:840][825]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.01.19-16.14.04:841][825]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.01.19-16.14.04:841][825]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.01.19-16.14.04:841][825]LogInit: FAudioDevice initialized with ID 3.
+[2024.01.19-16.14.04:841][825]LogAudio: Display: Audio Device (ID: 3) registered with world 'Map_Player'.
+[2024.01.19-16.14.04:841][825]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.01.19-16.14.04:870][825]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.19-16.14.04:870][825]LogLoad: Game class is 'KCGPGameModeBase_C'
+[2024.01.19-16.14.04:871][825]LogWorld: Bringing World /Game/Maps/Player/UEDPIE_0_Map_Player.Map_Player up for play (max tick rate 0) at 2024.01.20-00.14.04
+[2024.01.19-16.14.04:872][825]LogWorld: Bringing up level for play took: 0.000512
+[2024.01.19-16.14.04:872][825]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.01.19-16.14.04:875][825]PIE: 登陆的服务器
+[2024.01.19-16.14.04:877][825]PIE: PIE总开始时间：0.102秒。
+[2024.01.19-16.14.04:887][825]LogViewport: Scene viewport resized to 2554x1352, mode Windowed.
+[2024.01.19-16.14.05:539][886]LogScript: Warning: Script Msg: Attempted to swap elements [8] and [16] in array 需要洗牌的卡组. Available index range: [0 15)!
+[2024.01.19-16.14.05:539][886]LogScript: Warning: Script Msg called by: WBP_CardHand_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WBP_HUD_C_0.WidgetTree_0.发牌区域覆层
+[2024.01.19-16.14.05:539][886]LogScript: Warning: Script Msg: Attempted to swap elements [11] and [16] in array 需要洗牌的卡组. Available index range: [0 15)!
+[2024.01.19-16.14.05:539][886]LogScript: Warning: Script Msg called by: WBP_CardHand_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WBP_HUD_C_0.WidgetTree_0.发牌区域覆层
+[2024.01.19-16.14.05:539][886]LogScript: Warning: Script Msg: Attempted to swap elements [14] and [16] in array 需要洗牌的卡组. Available index range: [0 15)!
+[2024.01.19-16.14.05:539][886]LogScript: Warning: Script Msg called by: WBP_CardHand_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WBP_HUD_C_0.WidgetTree_0.发牌区域覆层
+[2024.01.19-16.14.06:632][  5]LogBlueprintUserMessages: [发牌区域覆层] 匹配卡牌选项成功
+[2024.01.19-16.14.10:936][478]LogBlueprintUserMessages: [发牌区域覆层] 匹配卡牌选项成功
+[2024.01.19-16.14.18:142][267]LogBlueprintUserMessages: [WBP_CardOptionButton_C_2] 8
+[2024.01.19-16.14.21:610][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.19-16.14.21:610][649]LogWorld: BeginTearingDown for /Game/Maps/Player/UEDPIE_0_Map_Player
+[2024.01.19-16.14.21:610][649]LogSlate: Window 'KCardGameProject 预览 [NetMode: Standalone 0]  （64-bit/PC D3D SM6）' being destroyed
+[2024.01.19-16.14.21:619][649]LogWorld: UWorld::CleanupWorld for Map_Player, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-16.14.21:619][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-16.14.21:620][649]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.19-16.14.21:623][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-16.14.21:647][649]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.19-16.14.21:649][649]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.01.19-16.14.21:649][649]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.01.19-16.14.21:650][649]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.01.19-16.14.21:655][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.01.19-16.14.21:678][651]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2024.01.19-16.14.23:344][848]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.01.19-16.14.27:115][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.01.19-16.15.49:967][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.01.19-16.15.49:970][156]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-16.15.50:005][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset" SILENT=true
+[2024.01.19-16.15.50:031][156]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/WBP_HUD
+[2024.01.19-16.15.50:032][156]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD6B30F60643044D82DD18C589F1EAC9F8.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/WBP_HUD.uasset'
+[2024.01.19-16.15.50:041][156]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 7.43 sec)
+[2024.01.19-16.15.50:045][156]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.01.19-16.15.50:045][156]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Cards/WBP_HUD.WBP_HUD
+[2024.01.19-16.15.58:428][130]BlueprintLog: New page: 编译WBP_HUD
+[2024.01.19-16.15.58:535][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.01.19-16.16.08:104][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.01.19-16.16.08:273][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.01.19-16.16.08:392][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
