@@ -2961,3 +2961,1067 @@ Last issue:
 [2024.02.17-17.45.12:814][987]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 351 ms)
 [2024.02.17-17.45.12:817][987]AssetCheck: New page: 资产保存：Map_StartMenu
 [2024.02.17-17.45.12:817][987]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/Maps/Menus/Map_StartMenu.Map_StartMenu
+[2024.02.17-17.45.58:132][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.02.17-17.46.01:584][246]LogTurnkeySupport: Project requires temp target (已启用ElectraCodecs插件)
+[2024.02.17-17.46.01:584][246]LogLauncherProfile: Unable to use promoted target - D:/UEProjects/MyProjects/KCardGameProject/Binaries/Win64/UnrealGame.target does not exist.
+[2024.02.17-17.46.01:597][246]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""E:/Program Files/Epic Games/UE_5.3/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/UEProjects/MyProjects/KCardGameProject/KCardGameProject.uproject" Turnkey -command=VerifySdk -platform=Win64 -UpdateIfNeeded -EditorIO -EditorIOPort=61872  -project="D:/UEProjects/MyProjects/KCardGameProject/KCardGameProject.uproject" BuildCookRun -nop4 -utf8output -nocompileeditor -skipbuildeditor -cook  -project="D:/UEProjects/MyProjects/KCardGameProject/KCardGameProject.uproject"  -unrealexe="E:\Program Files\Epic Games\UE_5.3\Engine\Binaries\Win64\UnrealEditor-Cmd.exe" -platform=Win64 -installed -stage -archive -package -build -pak -iostore -compressed -prereqs -archivedirectory="D:/ProjectsOutput/UE" -clientconfig=Development" -nocompile -nocompileuat ]
+[2024.02.17-17.46.01:631][246]LogAutomationController: Ignoring very large delta of 3.53 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.02.17-17.46.01:646][249]UATHelper: 打包 (Windows): Running AutomationTool...
+[2024.02.17-17.46.01:729][254]UATHelper: 打包 (Windows): Using bundled DotNet SDK version: 6.0.302
+[2024.02.17-17.46.01:804][259]UATHelper: 打包 (Windows): Starting AutomationTool...
+[2024.02.17-17.46.01:814][260]UATHelper: 打包 (Windows): Parsing command line: -ScriptsForProject=D:/UEProjects/MyProjects/KCardGameProject/KCardGameProject.uproject Turnkey -command=VerifySdk -platform=Win64 -UpdateIfNeeded -EditorIO -EditorIOPort=61872 -project=D:/UEProjects/MyProjects/KCardGameProject/KCardGameProject.uproject BuildCookRun -nop4 -utf8output -nocompileeditor -skipbuildeditor -cook -project=D:/UEProjects/MyProjects/KCardGameProject/KCardGameProject.uproject -unrealexe="E:\Program Files\Epic Games\UE_5.3\Engine\Binaries\Win64\UnrealEditor-Cmd.exe" -platform=Win64 -installed -stage -archive -package -build -pak -iostore -compressed -prereqs -archivedirectory=D:/ProjectsOutput/UE -clientconfig=Development -nocompile -nocompileuat
+[2024.02.17-17.46.01:866][264]UATHelper: 打包 (Windows): Initializing script modules...
+[2024.02.17-17.46.02:128][293]UATHelper: 打包 (Windows): Total script module initialization time: 0.26 s.
+[2024.02.17-17.46.02:422][329]UATHelper: 打包 (Windows): Executing commands...
+[2024.02.17-17.46.02:454][332]UATHelper: 打包 (Windows): Installed Sdk validity:
+[2024.02.17-17.46.02:454][332]UATHelper: 打包 (Windows): Win64: (Status=Valid, MinAllowed_Sdk=10.0.00000.0, MaxAllowed_Sdk=10.9.99999.0, Current_Sdk=10.0.22621.0, Allowed_AutoSdk=10.0.18362.0, Current_AutoSdk=, Flags="InstalledSdk_ValidVersionExists")
+[2024.02.17-17.46.02:454][332]UATHelper: 打包 (Windows): Scanning for envvar changes...
+[2024.02.17-17.46.02:454][332]UATHelper: 打包 (Windows): ... done! 
+[2024.02.17-17.46.02:454][332]UATHelper: 打包 (Windows): Cleaning Temp Paths...
+[2024.02.17-17.46.02:454][332]UATHelper: 打包 (Windows): BUILD SUCCESSFUL
+[2024.02.17-17.46.02:464][334]UATHelper: 打包 (Windows): Setting up ProjectParams for D:\UEProjects\MyProjects\KCardGameProject\KCardGameProject.uproject
+[2024.02.17-17.46.03:672][476]UATHelper: 打包 (Windows): ********** BUILD COMMAND STARTED **********
+[2024.02.17-17.46.03:703][479]UATHelper: 打包 (Windows): Running: E:\Program Files\Epic Games\UE_5.3\Engine\Binaries\ThirdParty\DotNet\6.0.302\windows\dotnet.exe "E:\Program Files\Epic Games\UE_5.3\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" KCardGameProject Win64 Development -Project=D:\UEProjects\MyProjects\KCardGameProject\KCardGameProject.uproject -Manifest=D:\UEProjects\MyProjects\KCardGameProject\Intermediate\Build\Manifest.xml  -remoteini="D:\UEProjects\MyProjects\KCardGameProject"  -skipdeploy  -log="C:\Users\Administrator\AppData\Roaming\Unreal Engine\AutomationTool\Logs\E+Program+Files+Epic+Games+UE_5.3\UBT-KCardGameProject-Win64-Development.txt"
+[2024.02.17-17.46.04:006][513]UATHelper: 打包 (Windows): Log file: C:\Users\Administrator\AppData\Roaming\Unreal Engine\AutomationTool\Logs\E+Program+Files+Epic+Games+UE_5.3\UBT-KCardGameProject-Win64-Development.txt
+[2024.02.17-17.46.04:328][551]UATHelper: 打包 (Windows): Using 'git status' to determine working set for adaptive non-unity build (D:\UEProjects\MyProjects\KCardGameProject).
+[2024.02.17-17.46.04:360][554]UATHelper: 打包 (Windows): Creating makefile for KCardGameProject (manifest 'D:\UEProjects\MyProjects\KCardGameProject\Intermediate\Build\Manifest.xml' not found)
+[2024.02.17-17.46.05:074][639]UATHelper: 打包 (Windows): Writing manifest to D:\UEProjects\MyProjects\KCardGameProject\Intermediate\Build\Manifest.xml
+[2024.02.17-17.46.05:147][647]UATHelper: 打包 (Windows): Target is up to date
+[2024.02.17-17.46.05:147][647]UATHelper: 打包 (Windows): Total execution time: 1.39 seconds
+[2024.02.17-17.46.05:158][649]UATHelper: 打包 (Windows): Took 1.48s to run dotnet.exe, ExitCode=0
+[2024.02.17-17.46.05:168][650]UATHelper: 打包 (Windows): Build command time: 1.49 s
+[2024.02.17-17.46.05:168][650]UATHelper: 打包 (Windows): ********** BUILD COMMAND COMPLETED **********
+[2024.02.17-17.46.05:168][650]UATHelper: 打包 (Windows): ********** COOK COMMAND STARTED **********
+[2024.02.17-17.46.05:168][650]UATHelper: 打包 (Windows): Running UnrealEditor Cook for project D:\UEProjects\MyProjects\KCardGameProject\KCardGameProject.uproject
+[2024.02.17-17.46.05:168][650]UATHelper: 打包 (Windows): Commandlet log file is E:\Program Files\Epic Games\UE_5.3\Engine\Programs\AutomationTool\Saved\Cook-2024.02.18-01.46.05.txt
+[2024.02.17-17.46.05:168][650]UATHelper: 打包 (Windows): Running: E:\Program Files\Epic Games\UE_5.3\Engine\Binaries\Win64\UnrealEditor-Cmd.exe "D:\UEProjects\MyProjects\KCardGameProject\KCardGameProject.uproject" -run=Cook  -TargetPlatform=Windows  -unversioned -fileopenlog -abslog="E:\Program Files\Epic Games\UE_5.3\Engine\Programs\AutomationTool\Saved\Cook-2024.02.18-01.46.05.txt" -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2024.02.17-17.46.05:652][708]UATHelper: 打包 (Windows): LogInit: Display: Running engine for game: KCardGameProject
+[2024.02.17-17.46.05:652][708]UATHelper: 打包 (Windows): LogCore: Display: Requested channels: 'cpu,gpu,frame,log,bookmark,screenshot,region'
+[2024.02.17-17.46.05:652][708]UATHelper: 打包 (Windows): LogCsvProfiler: Display: Metadata set : platform="Windows"
+[2024.02.17-17.46.05:652][708]UATHelper: 打包 (Windows): LogCsvProfiler: Display: Metadata set : config="Development"
+[2024.02.17-17.46.05:652][708]UATHelper: 打包 (Windows): LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.3-CL-29314046"
+[2024.02.17-17.46.05:652][708]UATHelper: 打包 (Windows): LogCsvProfiler: Display: Metadata set : engineversion="5.3.2-29314046+++UE5+Release-5.3"
+[2024.02.17-17.46.05:652][708]UATHelper: 打包 (Windows): LogCsvProfiler: Display: Metadata set : os="Windows 11 (22H2) [10.0.22621.3007] "
+[2024.02.17-17.46.05:652][708]UATHelper: 打包 (Windows): LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|13th Gen Intel(R) Core(TM) i5-13600KF"
+[2024.02.17-17.46.05:652][708]UATHelper: 打包 (Windows): LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+[2024.02.17-17.46.05:652][708]UATHelper: 打包 (Windows): LogCsvProfiler: Display: Metadata set : pgoprofilingenabled="0"
+[2024.02.17-17.46.05:652][708]UATHelper: 打包 (Windows): LogCsvProfiler: Display: Metadata set : ltoenabled="0"
+[2024.02.17-17.46.05:652][708]UATHelper: 打包 (Windows): LogCsvProfiler: Display: Metadata set : asan="0"
+[2024.02.17-17.46.05:652][708]UATHelper: 打包 (Windows): LogCsvProfiler: Display: Metadata set : commandline="" D:\UEProjects\MyProjects\KCardGameProject\KCardGameProject.uproject -run=Cook -TargetPlatform=Windows -unversioned -fileopenlog -abslog="E:\Program Files\Epic Games\UE_5.3\Engine\Programs\AutomationTool\Saved\Cook-2024.02.18-01.46.05.txt" -stdout -CrashForUAT -unattended -NoLogTimes -UTF8Output""
+[2024.02.17-17.46.05:652][708]UATHelper: 打包 (Windows): LogCsvProfiler: Display: Metadata set : loginid="481ef4c948300a3c848444865bb8e186"
+[2024.02.17-17.46.05:862][732]UATHelper: 打包 (Windows): LogCsvProfiler: Display: Metadata set : llm="0"
+[2024.02.17-17.46.05:862][732]UATHelper: 打包 (Windows): LogConfig: Display: Loading Android ini files took 0.02 seconds
+[2024.02.17-17.46.05:862][732]UATHelper: 打包 (Windows): LogConfig: Display: Loading Mac ini files took 0.03 seconds
+[2024.02.17-17.46.05:862][732]UATHelper: 打包 (Windows): LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+[2024.02.17-17.46.05:862][732]UATHelper: 打包 (Windows): LogConfig: Display: Loading IOS ini files took 0.03 seconds
+[2024.02.17-17.46.05:862][732]UATHelper: 打包 (Windows): LogAssetRegistry: Display: Asset registry cache read as 17.9 MiB from D:/UEProjects/MyProjects/KCardGameProject/Intermediate/CachedAssetRegistry_0.bin
+[2024.02.17-17.46.05:862][732]UATHelper: 打包 (Windows): LogConfig: Display: Loading Unix ini files took 0.03 seconds
+[2024.02.17-17.46.05:862][732]UATHelper: 打包 (Windows): LogConfig: Display: Loading Windows ini files took 0.03 seconds
+[2024.02.17-17.46.05:862][732]UATHelper: 打包 (Windows): LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+[2024.02.17-17.46.05:862][732]UATHelper: 打包 (Windows): LogConfig: Display: Loading Linux ini files took 0.04 seconds
+[2024.02.17-17.46.05:904][737]UATHelper: 打包 (Windows): LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
+[2024.02.17-17.46.05:904][737]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+[2024.02.17-17.46.05:904][737]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/TraceUtilities/Content/' mounted to '/TraceUtilities/'
+[2024.02.17-17.46.05:904][737]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+[2024.02.17-17.46.05:904][737]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+[2024.02.17-17.46.05:904][737]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/VirtualProduction/Takes/Content/' mounted to '/Takes/'
+[2024.02.17-17.46.05:904][737]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+[2024.02.17-17.46.05:904][737]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+[2024.02.17-17.46.05:904][737]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/BlueprintHeaderView/Content/' mounted to '/BlueprintHeaderView/'
+[2024.02.17-17.46.05:904][737]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/UVEditor/Content/' mounted to '/UVEditor/'
+[2024.02.17-17.46.05:904][737]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+[2024.02.17-17.46.05:904][737]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+[2024.02.17-17.46.05:904][737]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaPlate/Content/' mounted to '/MediaPlate/'
+[2024.02.17-17.46.05:904][737]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+[2024.02.17-17.46.05:904][737]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+[2024.02.17-17.46.05:904][737]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+[2024.02.17-17.46.05:904][737]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ACLPlugin/Content/' mounted to '/ACLPlugin/'
+[2024.02.17-17.46.05:904][737]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+[2024.02.17-17.46.05:904][737]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+[2024.02.17-17.46.05:904][737]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioWidgets/Content/' mounted to '/AudioWidgets/'
+[2024.02.17-17.46.05:904][737]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+[2024.02.17-17.46.05:904][737]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+[2024.02.17-17.46.05:904][737]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Metasound/Content/' mounted to '/Metasound/'
+[2024.02.17-17.46.05:904][737]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+[2024.02.17-17.46.05:904][737]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/RigVM/Content/' mounted to '/RigVM/'
+[2024.02.17-17.46.05:904][737]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+[2024.02.17-17.46.05:904][737]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/WaveTable/Content/' mounted to '/WaveTable/'
+[2024.02.17-17.46.05:904][737]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+[2024.02.17-17.46.05:905][737]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/GLTFExporter/Content/' mounted to '/GLTFExporter/'
+[2024.02.17-17.46.05:905][737]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosCaching/Content/' mounted to '/ChaosCaching/'
+[2024.02.17-17.46.05:905][737]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+[2024.02.17-17.46.05:905][737]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+[2024.02.17-17.46.05:915][738]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/Dataflow/Content/' mounted to '/Dataflow/'
+[2024.02.17-17.46.05:915][738]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+[2024.02.17-17.46.05:915][738]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+[2024.02.17-17.46.05:915][738]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+[2024.02.17-17.46.05:915][738]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+[2024.02.17-17.46.05:915][738]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+[2024.02.17-17.46.05:915][738]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+[2024.02.17-17.46.05:915][738]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+[2024.02.17-17.46.05:915][738]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ToolPresets/Content/' mounted to '/ToolPresets/'
+[2024.02.17-17.46.05:915][738]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Interchange/Runtime/Content/' mounted to '/Interchange/'
+[2024.02.17-17.46.05:915][738]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+[2024.02.17-17.46.05:915][738]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/LightMixer/Content/' mounted to '/LightMixer/'
+[2024.02.17-17.46.05:967][744]UATHelper: 打包 (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/ObjectMixer/Content/' mounted to '/ObjectMixer/'
+[2024.02.17-17.46.06:146][766]UATHelper: 打包 (Windows): RenderDocPlugin: Display: RenderDoc plugin will not be loaded. Use '-AttachRenderDoc' on the cmd line or enable 'renderdoc.AutoAttach' in the plugin settings.
+[2024.02.17-17.46.06:146][766]UATHelper: 打包 (Windows): LogHAL: Display: Platform has ~ 64 GB [68519952384 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.02.17-17.46.06:177][769]UATHelper: 打包 (Windows): LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2024.02.17-17.46.06:177][769]UATHelper: 打包 (Windows): LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatASTC
+[2024.02.17-17.46.06:177][769]UATHelper: 打包 (Windows): LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatDXT
+[2024.02.17-17.46.06:177][769]UATHelper: 打包 (Windows): LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatETC2
+[2024.02.17-17.46.06:188][771]UATHelper: 打包 (Windows): LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatIntelISPCTexComp
+[2024.02.17-17.46.06:188][771]UATHelper: 打包 (Windows): LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatUncompressed
+[2024.02.17-17.46.06:188][771]UATHelper: 打包 (Windows): LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.10
+[2024.02.17-17.46.06:188][771]UATHelper: 打包 (Windows): LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2024.02.17-17.46.06:188][771]UATHelper: 打包 (Windows): LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.6.dll
+[2024.02.17-17.46.06:188][771]UATHelper: 打包 (Windows): LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.7.dll
+[2024.02.17-17.46.06:188][771]UATHelper: 打包 (Windows): LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.8.dll
+[2024.02.17-17.46.06:188][771]UATHelper: 打包 (Windows): LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.9.dll
+[2024.02.17-17.46.06:188][771]UATHelper: 打包 (Windows): LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.10.dll
+[2024.02.17-17.46.06:188][771]UATHelper: 打包 (Windows): LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatOodle
+[2024.02.17-17.46.06:188][771]UATHelper: 打包 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2024.02.17-17.46.06:198][772]UATHelper: 打包 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2024.02.17-17.46.06:198][772]UATHelper: 打包 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2024.02.17-17.46.06:198][772]UATHelper: 打包 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2024.02.17-17.46.06:198][772]UATHelper: 打包 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2024.02.17-17.46.06:198][772]UATHelper: 打包 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2024.02.17-17.46.06:198][772]UATHelper: 打包 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2024.02.17-17.46.06:198][772]UATHelper: 打包 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2024.02.17-17.46.06:198][772]UATHelper: 打包 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2024.02.17-17.46.06:198][772]UATHelper: 打包 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2024.02.17-17.46.06:198][772]UATHelper: 打包 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2024.02.17-17.46.06:198][772]UATHelper: 打包 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2024.02.17-17.46.06:198][772]UATHelper: 打包 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2024.02.17-17.46.06:198][772]UATHelper: 打包 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2024.02.17-17.46.06:198][772]UATHelper: 打包 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2024.02.17-17.46.06:198][772]UATHelper: 打包 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2024.02.17-17.46.06:198][772]UATHelper: 打包 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2024.02.17-17.46.06:198][772]UATHelper: 打包 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2024.02.17-17.46.06:209][773]UATHelper: 打包 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2024.02.17-17.46.06:209][773]UATHelper: 打包 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2024.02.17-17.46.06:209][773]UATHelper: 打包 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacEditor'
+[2024.02.17-17.46.06:209][773]UATHelper: 打包 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2024.02.17-17.46.06:209][773]UATHelper: 打包 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2024.02.17-17.46.06:209][773]UATHelper: 打包 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2024.02.17-17.46.06:209][773]UATHelper: 打包 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2024.02.17-17.46.06:209][773]UATHelper: 打包 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2024.02.17-17.46.06:219][775]UATHelper: 打包 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2024.02.17-17.46.06:219][775]UATHelper: 打包 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2024.02.17-17.46.06:219][775]UATHelper: 打包 (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2024.02.17-17.46.06:219][775]UATHelper: 打包 (Windows): LogTargetPlatformManager: Display: Building Assets For Windows
+[2024.02.17-17.46.06:577][818]UATHelper: 打包 (Windows): LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.02.17-17.46.06:608][821]UATHelper: 打包 (Windows): LogDerivedDataCache: Display: Memory: Max Cache Size: -1 MB
+[2024.02.17-17.46.06:608][821]UATHelper: 打包 (Windows): LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (2383 MiB)
+[2024.02.17-17.46.06:619][823]UATHelper: 打包 (Windows): LogDerivedDataCache: Display: C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Performance: Latency=0.02ms. RandomReadSpeed=812.38MBs, RandomWriteSpeed=140.46MBs. Assigned SpeedClass 'Local'
+[2024.02.17-17.46.07:396][915]UATHelper: 打包 (Windows): LogShaderCompilers: Display: Using Local Shader Compiler with 17 workers.
+[2024.02.17-17.46.07:396][915]UATHelper: 打包 (Windows): LogShaderCompilers: Display: Compiling shader autogen file: D:/UEProjects/MyProjects/KCardGameProject/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2024.02.17-17.46.07:396][915]UATHelper: 打包 (Windows): LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2024.02.17-17.46.07:417][917]UATHelper: 打包 (Windows): LogAssetRegistry: Display: AssetDataGatherer spent 0.000s loading caches D:/UEProjects/MyProjects/KCardGameProject/Intermediate/CachedAssetRegistry_*.bin.
+[2024.02.17-17.46.07:563][935]UATHelper: 打包 (Windows): LogEditorDomain: Display: EditorDomain is Disabled
+[2024.02.17-17.46.07:563][935]UATHelper: 打包 (Windows): LogDeviceProfileManager: Display: Deviceprofile LinuxArm64Editor not found.
+[2024.02.17-17.46.07:678][949]UATHelper: 打包 (Windows): LogDeviceProfileManager: Display: Deviceprofile LinuxArm64 not found.
+[2024.02.17-17.46.07:678][949]UATHelper: 打包 (Windows): LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2024.02.17-17.46.07:678][949]UATHelper: 打包 (Windows): LogShaderCompilers: Display: Compiling shader autogen file: D:/UEProjects/MyProjects/KCardGameProject/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+[2024.02.17-17.46.07:699][951]UATHelper: 打包 (Windows): LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2024.02.17-17.46.07:699][951]UATHelper: 打包 (Windows): LogTextureEncodingSettings: Display: Texture Encode Speed: Final (cook).
+[2024.02.17-17.46.07:699][951]UATHelper: 打包 (Windows): LogTextureEncodingSettings: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2024.02.17-17.46.07:731][955]UATHelper: 打包 (Windows): LogTextureEncodingSettings: Display: Shared linear texture encoding: Disabled
+[2024.02.17-17.46.07:731][955]UATHelper: 打包 (Windows): LogMeshReduction: Display: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.02.17-17.46.07:731][955]UATHelper: 打包 (Windows): LogMeshReduction: Display: Using SkeletalMeshReduction for automatic skeletal mesh reduction
+[2024.02.17-17.46.07:731][955]UATHelper: 打包 (Windows): LogMeshReduction: Display: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.02.17-17.46.07:846][969]UATHelper: 打包 (Windows): LogMeshReduction: Display: No distributed automatic mesh merging module available
+[2024.02.17-17.46.07:846][969]UATHelper: 打包 (Windows): LogVirtualization: Display: VirtualizationSystem name found in ini file: None
+[2024.02.17-17.46.07:972][984]UATHelper: 打包 (Windows): LogVirtualization: Display: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2024.02.17-17.46.07:972][984]UATHelper: 打包 (Windows): LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize started...
+[2024.02.17-17.46.08:277][ 21]UATHelper: 打包 (Windows): LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize took 1 ms
+[2024.02.17-17.46.09:412][157]UATHelper: 打包 (Windows): LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2024.02.17-17.46.09:412][157]UATHelper: 打包 (Windows): LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.02.17-17.46.09:791][202]UATHelper: 打包 (Windows): LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.02.17-17.46.09:937][220]UATHelper: 打包 (Windows): LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2024.02.17-17.46.09:937][220]UATHelper: 打包 (Windows): LogCook: Display: CookProcessCount=1. CookMultiprocess is disabled and the cooker is running as a single process.
+[2024.02.17-17.46.09:958][222]UATHelper: 打包 (Windows): LogCook: Display: CookSettings for Memory:
+[2024.02.17-17.46.09:958][222]UATHelper: 打包 (Windows): 	MemoryMaxUsedVirtual 0MiB
+[2024.02.17-17.46.09:958][222]UATHelper: 打包 (Windows): 	MemoryMaxUsedPhysical 0MiB
+[2024.02.17-17.46.09:958][222]UATHelper: 打包 (Windows): 	MemoryMinFreeVirtual 2048MiB
+[2024.02.17-17.46.09:958][222]UATHelper: 打包 (Windows): 	MemoryMinFreePhysical 2048MiB
+[2024.02.17-17.46.09:958][222]UATHelper: 打包 (Windows): 	MemoryTriggerGCAtPressureLevel None
+[2024.02.17-17.46.09:958][222]UATHelper: 打包 (Windows): 	UseSoftGC true (5/10)
+[2024.02.17-17.46.09:979][225]UATHelper: 打包 (Windows): LogAssetRegistry: Display: Triggering cache save on discovery complete
+[2024.02.17-17.46.10:451][282]UATHelper: 打包 (Windows): LogCook: Display: Waiting for Asset Registry
+[2024.02.17-17.46.10:462][283]UATHelper: 打包 (Windows): LogAssetRegistry: Display: Asset registry cache written as 0.0 MiB to D:/UEProjects/MyProjects/KCardGameProject/Intermediate/CachedAssetRegistry_*.bin
+[2024.02.17-17.46.10:535][291]UATHelper: 打包 (Windows): LogCook: Display: Clearing all cooked content for platform Windows
+[2024.02.17-17.46.10:535][291]UATHelper: 打包 (Windows): LogCook: Display: Sandbox cleanup took 0.045 seconds for platforms Windows
+[2024.02.17-17.46.11:939][460]UATHelper: 打包 (Windows): LogCook: Display: Compiling global changed shaders for platform 'Windows'
+[2024.02.17-17.46.11:939][460]UATHelper: 打包 (Windows): LogShaderLibrary: Display:
+[2024.02.17-17.46.11:939][460]UATHelper: 打包 (Windows): LogShaderLibrary: Display: Shader Library 'Global' (PCD3D_SM6-PCD3D_SM6) Stats:
+[2024.02.17-17.46.11:939][460]UATHelper: 打包 (Windows): LogShaderLibrary: Display: =================
+[2024.02.17-17.46.11:939][460]UATHelper: 打包 (Windows): LogShaderLibrary: Display: Assets: 1, Unique Shadermaps: 326 (32600.00%)
+[2024.02.17-17.46.11:939][460]UATHelper: 打包 (Windows): LogShaderLibrary: Display: Total Shaders: 4161, Unique Shaders: 4161 (100.00%)
+[2024.02.17-17.46.11:939][460]UATHelper: 打包 (Windows): LogShaderLibrary: Display: Total Shader Size: 73.82mb, Unique Shaders Size: 73.82mb (100.00%)
+[2024.02.17-17.46.11:939][460]UATHelper: 打包 (Windows): LogShaderLibrary: Display: === Extended info:
+[2024.02.17-17.46.11:939][460]UATHelper: 打包 (Windows): LogShaderLibrary: Display: Minimum number of shaders in shadermap: 1
+[2024.02.17-17.46.11:939][460]UATHelper: 打包 (Windows): LogShaderLibrary: Display: Median number of shaders in shadermap: 3
+[2024.02.17-17.46.11:939][460]UATHelper: 打包 (Windows): LogShaderLibrary: Display: Maximum number of shaders in shadermap: 264
+[2024.02.17-17.46.11:939][460]UATHelper: 打包 (Windows): LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2024.02.17-17.46.11:939][460]UATHelper: 打包 (Windows): LogShaderLibrary: Display:     1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+[2024.02.17-17.46.11:939][460]UATHelper: 打包 (Windows): LogShaderLibrary: Display: Textual dump saved to 'D:/UEProjects/MyProjects/KCardGameProject/Saved/Shaders/PCD3D_SM6-PCD3D_SM6/ShaderDebug-Global-PCD3D_SM6-PCD3D_SM6/Dump.txt'
+[2024.02.17-17.46.12:097][478]UATHelper: 打包 (Windows): LogShaderLibrary: Display: =================
+[2024.02.17-17.46.12:097][478]UATHelper: 打包 (Windows): LogShaderLibrary: Display:
+[2024.02.17-17.46.12:097][478]UATHelper: 打包 (Windows): LogShaderLibrary: Display: Shader Library 'Global' (PCD3D_SM5-PCD3D_SM5) Stats:
+[2024.02.17-17.46.12:097][478]UATHelper: 打包 (Windows): LogShaderLibrary: Display: =================
+[2024.02.17-17.46.12:097][478]UATHelper: 打包 (Windows): LogShaderLibrary: Display: Assets: 1, Unique Shadermaps: 294 (29400.00%)
+[2024.02.17-17.46.12:097][478]UATHelper: 打包 (Windows): LogShaderLibrary: Display: Total Shaders: 3549, Unique Shaders: 3539 (99.72%)
+[2024.02.17-17.46.12:097][478]UATHelper: 打包 (Windows): LogShaderLibrary: Display: Total Shader Size: 11.82mb, Unique Shaders Size: 11.82mb (99.97%)
+[2024.02.17-17.46.12:097][478]UATHelper: 打包 (Windows): LogShaderLibrary: Display: === Extended info:
+[2024.02.17-17.46.12:097][478]UATHelper: 打包 (Windows): LogShaderLibrary: Display: Minimum number of shaders in shadermap: 1
+[2024.02.17-17.46.12:097][478]UATHelper: 打包 (Windows): LogShaderLibrary: Display: Median number of shaders in shadermap: 3
+[2024.02.17-17.46.12:097][478]UATHelper: 打包 (Windows): LogShaderLibrary: Display: Maximum number of shaders in shadermap: 264
+[2024.02.17-17.46.12:097][478]UATHelper: 打包 (Windows): LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2024.02.17-17.46.12:097][478]UATHelper: 打包 (Windows): LogShaderLibrary: Display:     4, 2, 2, 2, 2, 2, 2, 2, 1, 1
+[2024.02.17-17.46.12:097][478]UATHelper: 打包 (Windows): LogShaderLibrary: Display: Textual dump saved to 'D:/UEProjects/MyProjects/KCardGameProject/Saved/Shaders/PCD3D_SM5-PCD3D_SM5/ShaderDebug-Global-PCD3D_SM5-PCD3D_SM5/Dump.txt'
+[2024.02.17-17.46.12:245][493]UATHelper: 打包 (Windows): LogShaderLibrary: Display: =================
+[2024.02.17-17.46.12:413][513]UATHelper: 打包 (Windows): LogPackageUtilities: Warning: Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Marketplace/AsyncLoadingScreen/Content' is not mounted. Skipping it.
+[2024.02.17-17.46.12:413][513]UATHelper: 打包 (Windows): LogPackageUtilities: Warning: Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Marketplace/AsyncLoadingScreen/Content' is not mounted. Skipping it.
+[2024.02.17-17.46.12:413][513]UATHelper: 打包 (Windows): LogCook: Display: Discovering localized assets for cultures: en
+[2024.02.17-17.46.12:413][513]UATHelper: 打包 (Windows): LogCook: Display: Cooked packages 0 Packages Remain 520 Total 520
+[2024.02.17-17.46.12:413][513]PackagingResults: Warning: Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Marketplace/AsyncLoadingScreen/Content' is not mounted. Skipping it.
+[2024.02.17-17.46.12:413][513]PackagingResults: Warning: Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Marketplace/AsyncLoadingScreen/Content' is not mounted. Skipping it.
+[2024.02.17-17.46.12:434][515]UATHelper: 打包 (Windows): LogCook: Display: Cook Diagnostics: OpenFileHandles=220, VirtualMemory=1278MiB
+[2024.02.17-17.46.12:434][515]UATHelper: 打包 (Windows): LogCook: Display: Garbage collection triggered (Soft). Triggered by conditions:
+[2024.02.17-17.46.12:434][515]UATHelper: 打包 (Windows):   CookSettings.bUseSoftGC: Available physical memory 29266MiB is less than the current target for SoftGC 32672MiB.
+[2024.02.17-17.46.12:455][518]UATHelper: 打包 (Windows): LogCookCommandlet: Display: GarbageCollection... (Soft GC)
+[2024.02.17-17.46.12:706][548]UATHelper: 打包 (Windows): LogCook: Display: GarbageCollection Results:
+[2024.02.17-17.46.12:706][548]UATHelper: 打包 (Windows): 	Type: Soft
+[2024.02.17-17.46.12:706][548]UATHelper: 打包 (Windows): 	NumObjects:
+[2024.02.17-17.46.12:706][548]UATHelper: 打包 (Windows): 		Capacity:           25231360
+[2024.02.17-17.46.12:706][548]UATHelper: 打包 (Windows): 		Before GC:             37304
+[2024.02.17-17.46.12:706][548]UATHelper: 打包 (Windows): 		After GC:              37298
+[2024.02.17-17.46.12:706][548]UATHelper: 打包 (Windows): 		Freed by GC:               6
+[2024.02.17-17.46.12:706][548]UATHelper: 打包 (Windows): 	Virtual Memory:
+[2024.02.17-17.46.12:706][548]UATHelper: 打包 (Windows): 		Before GC:              1337 MB
+[2024.02.17-17.46.12:706][548]UATHelper: 打包 (Windows): 		After GC:               1343 MB
+[2024.02.17-17.46.12:706][548]UATHelper: 打包 (Windows): 		Freed by GC:              -5 MB
+[2024.02.17-17.46.12:706][548]UATHelper: 打包 (Windows): LogTexture: Display: /Engine/EngineMaterials/Black_1x1_EXR_Texture_VT.Black_1x1_EXR_Texture_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2024.02.17-17.46.12:706][548]UATHelper: 打包 (Windows): LogTexture: Display: /Engine/EngineMaterials/Black_1x1_EXR_Texture_VT.Black_1x1_EXR_Texture_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2024.02.17-17.46.12:706][548]UATHelper: 打包 (Windows): LogTexture: Display: /Engine/EngineMaterials/BaseFlattenNormalMap_VT.BaseFlattenNormalMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2024.02.17-17.46.12:707][548]UATHelper: 打包 (Windows): LogTexture: Display: /Engine/EngineMaterials/BaseFlattenNormalMap_VT.BaseFlattenNormalMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2024.02.17-17.46.12:707][548]UATHelper: 打包 (Windows): LogTexture: Display: /Engine/EngineMaterials/BaseFlattenLinearColor_VT.BaseFlattenLinearColor_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2024.02.17-17.46.12:707][548]UATHelper: 打包 (Windows): LogTexture: Display: /Engine/EngineMaterials/BaseFlattenLinearColor_VT.BaseFlattenLinearColor_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2024.02.17-17.46.12:707][548]UATHelper: 打包 (Windows): LogTexture: Display: /Engine/EngineMaterials/BaseFlattenGrayscaleMap_VT.BaseFlattenGrayscaleMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2024.02.17-17.46.12:707][548]UATHelper: 打包 (Windows): LogTexture: Display: /Engine/EngineMaterials/BaseFlattenGrayscaleMap_VT.BaseFlattenGrayscaleMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2024.02.17-17.46.12:707][548]UATHelper: 打包 (Windows): LogTexture: Display: /Engine/EngineMaterials/BaseFlattenEmissiveMap_VT.BaseFlattenEmissiveMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2024.02.17-17.46.12:707][548]UATHelper: 打包 (Windows): LogTexture: Display: /Engine/EngineMaterials/BaseFlattenEmissiveMap_VT.BaseFlattenEmissiveMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2024.02.17-17.46.12:707][548]UATHelper: 打包 (Windows): LogTexture: Display: /Engine/EngineMaterials/BaseFlattenDiffuseMap_VT.BaseFlattenDiffuseMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2024.02.17-17.46.12:895][570]UATHelper: 打包 (Windows): LogTexture: Display: /Engine/EngineMaterials/BaseFlattenDiffuseMap_VT.BaseFlattenDiffuseMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+[2024.02.17-17.46.12:895][570]UATHelper: 打包 (Windows): LogUObjectGlobals: Warning: [AssetLog] D:\UEProjects\MyProjects\KCardGameProject\Content\Resources\Textures\Frame\UI_Mask02.uasset: 未能加载“/Game/Resources/Textures/Frame/UI_Mask04”：无法找到文件。
+[2024.02.17-17.46.12:898][571]PackagingResults: Warning: [AssetLog] D:\UEProjects\MyProjects\KCardGameProject\Content\Resources\Textures\Frame\UI_Mask02.uasset: 未能加载“/Game/Resources/Textures/Frame/UI_Mask04”：无法找到文件。
+[2024.02.17-17.46.14:416][750]UATHelper: 打包 (Windows): LogLinker: Warning: [AssetLog] D:\UEProjects\MyProjects\KCardGameProject\Content\Resources\Textures\Frame\UI_Mask02.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Resources/Textures/Frame/UI_Mask04'
+[2024.02.17-17.46.14:418][750]PackagingResults: Warning: [AssetLog] D:\UEProjects\MyProjects\KCardGameProject\Content\Resources\Textures\Frame\UI_Mask02.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Resources/Textures/Frame/UI_Mask04'
+[2024.02.17-17.46.16:436][990]UATHelper: 打包 (Windows): LogCook: Display: Cooked packages 1528 Packages Remain 2091 Total 3619
+[2024.02.17-17.46.16:993][ 57]UATHelper: 打包 (Windows): LogCook: Display: Cooked packages 3560 Packages Remain 59 Total 3619
+[2024.02.17-17.46.16:993][ 57]UATHelper: 打包 (Windows): LogCook: Display: Cooked packages 3620 Packages Remain 0 Total 3620
+[2024.02.17-17.46.16:993][ 57]UATHelper: 打包 (Windows): LogCook: Display: Cook Diagnostics: OpenFileHandles=3624, VirtualMemory=1551MiB
+[2024.02.17-17.46.17:036][ 62]UATHelper: 打包 (Windows): LogCook: Display: Finishing up...
+[2024.02.17-17.46.17:120][ 72]UATHelper: 打包 (Windows): LogAssetRegistryGenerator: Display: Saving asset registry v17.
+[2024.02.17-17.46.17:162][ 77]UATHelper: 打包 (Windows): LogAssetRegistryGenerator: Display: Generated development asset registry D:/UEProjects/MyProjects/KCardGameProject/Saved/Cooked/Windows/KCardGameProject/Metadata/DevelopmentAssetRegistry.bin num assets 3662, size is 3099.35kb, XxHash64 = llu, waited on hash -1643389693057593465979103949121958187089754389833376654418684782718120100619289249890451763342423883776.00 seconds
+[2024.02.17-17.46.17:162][ 77]UATHelper: 打包 (Windows): LogAssetRegistryGenerator: Display: Generated asset registry num assets 3630, size is 964.12kb
+[2024.02.17-17.46.17:246][ 87]UATHelper: 打包 (Windows): LogAssetRegistryGenerator: Display: Done saving asset registry. Took 0.1 seconds.
+[2024.02.17-17.46.17:246][ 87]UATHelper: 打包 (Windows): LogShaderLibrary: Display:
+[2024.02.17-17.46.17:246][ 87]UATHelper: 打包 (Windows): LogShaderLibrary: Display: Shader Library 'KCardGameProject' (PCD3D_SM6-PCD3D_SM6) Stats:
+[2024.02.17-17.46.17:246][ 87]UATHelper: 打包 (Windows): LogShaderLibrary: Display: =================
+[2024.02.17-17.46.17:246][ 87]UATHelper: 打包 (Windows): LogShaderLibrary: Display: Assets: 82, Unique Shadermaps: 80 (97.56%)
+[2024.02.17-17.46.17:246][ 87]UATHelper: 打包 (Windows): LogShaderLibrary: Display: Total Shaders: 1924, Unique Shaders: 1489 (77.39%)
+[2024.02.17-17.46.17:246][ 87]UATHelper: 打包 (Windows): LogShaderLibrary: Display: Total Shader Size: 45.52mb, Unique Shaders Size: 37.02mb (81.33%)
+[2024.02.17-17.46.17:246][ 87]UATHelper: 打包 (Windows): LogShaderLibrary: Display: === Extended info:
+[2024.02.17-17.46.17:246][ 87]UATHelper: 打包 (Windows): LogShaderLibrary: Display: Minimum number of shaders in shadermap: 2
+[2024.02.17-17.46.17:246][ 87]UATHelper: 打包 (Windows): LogShaderLibrary: Display: Median number of shaders in shadermap: 13
+[2024.02.17-17.46.17:246][ 87]UATHelper: 打包 (Windows): LogShaderLibrary: Display: Maximum number of shaders in shadermap: 495
+[2024.02.17-17.46.17:246][ 87]UATHelper: 打包 (Windows): LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2024.02.17-17.46.17:246][ 87]UATHelper: 打包 (Windows): LogShaderLibrary: Display:     17, 17, 16, 16, 16, 12, 10, 10, 10, 10
+[2024.02.17-17.46.17:246][ 87]UATHelper: 打包 (Windows): LogShaderLibrary: Display: Textual dump saved to 'D:/UEProjects/MyProjects/KCardGameProject/Saved/Shaders/PCD3D_SM6-PCD3D_SM6/ShaderDebug-KCardGameProject-PCD3D_SM6-PCD3D_SM6/Dump.txt'
+[2024.02.17-17.46.17:256][ 88]UATHelper: 打包 (Windows): LogShaderLibrary: Display: =================
+[2024.02.17-17.46.17:256][ 88]UATHelper: 打包 (Windows): LogShaderLibrary: Display:
+[2024.02.17-17.46.17:256][ 88]UATHelper: 打包 (Windows): LogShaderLibrary: Display: Shader Library 'KCardGameProject' (PCD3D_SM5-PCD3D_SM5) Stats:
+[2024.02.17-17.46.17:256][ 88]UATHelper: 打包 (Windows): LogShaderLibrary: Display: =================
+[2024.02.17-17.46.17:256][ 88]UATHelper: 打包 (Windows): LogShaderLibrary: Display: Assets: 82, Unique Shadermaps: 80 (97.56%)
+[2024.02.17-17.46.17:256][ 88]UATHelper: 打包 (Windows): LogShaderLibrary: Display: Total Shaders: 1673, Unique Shaders: 1255 (75.01%)
+[2024.02.17-17.46.17:256][ 88]UATHelper: 打包 (Windows): LogShaderLibrary: Display: Total Shader Size: 4.46mb, Unique Shaders Size: 3.72mb (83.38%)
+[2024.02.17-17.46.17:256][ 88]UATHelper: 打包 (Windows): LogShaderLibrary: Display: === Extended info:
+[2024.02.17-17.46.17:256][ 88]UATHelper: 打包 (Windows): LogShaderLibrary: Display: Minimum number of shaders in shadermap: 2
+[2024.02.17-17.46.17:256][ 88]UATHelper: 打包 (Windows): LogShaderLibrary: Display: Median number of shaders in shadermap: 13
+[2024.02.17-17.46.17:256][ 88]UATHelper: 打包 (Windows): LogShaderLibrary: Display: Maximum number of shaders in shadermap: 363
+[2024.02.17-17.46.17:256][ 88]UATHelper: 打包 (Windows): LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2024.02.17-17.46.17:256][ 88]UATHelper: 打包 (Windows): LogShaderLibrary: Display:     26, 17, 17, 16, 16, 13, 13, 10, 10, 10
+[2024.02.17-17.46.17:256][ 88]UATHelper: 打包 (Windows): LogShaderLibrary: Display: Textual dump saved to 'D:/UEProjects/MyProjects/KCardGameProject/Saved/Shaders/PCD3D_SM5-PCD3D_SM5/ShaderDebug-KCardGameProject-PCD3D_SM5-PCD3D_SM5/Dump.txt'
+[2024.02.17-17.46.17:267][ 90]UATHelper: 打包 (Windows): LogShaderLibrary: Display: =================
+[2024.02.17-17.46.17:267][ 90]UATHelper: 打包 (Windows): LogCook: Display: Finalize package store(s)...
+[2024.02.17-17.46.17:267][ 90]UATHelper: 打包 (Windows): LogCook: Display: Done finalizing package store(s)
+[2024.02.17-17.46.17:267][ 90]UATHelper: 打包 (Windows): LogCook: Display: Cook by the book total time in tick 4.556134s total time 7.292692
+[2024.02.17-17.46.17:267][ 90]UATHelper: 打包 (Windows): LogCook: Display: Peak Used virtual 1767 MiB Peak Used physical 1765 MiB
+[2024.02.17-17.46.17:267][ 90]UATHelper: 打包 (Windows): LogCook: Display: Packages Cooked: 3595, Packages Iteratively Skipped: 0, Packages Skipped by Platform: 25, Total Packages: 3620
+[2024.02.17-17.46.17:267][ 90]UATHelper: 打包 (Windows): LogCook: Display: Hierarchy Timer Information:
+[2024.02.17-17.46.17:267][ 90]UATHelper: 打包 (Windows): LogCook: Display:   Root: 0.000s (0)
+[2024.02.17-17.46.17:267][ 90]UATHelper: 打包 (Windows): LogCook: Display:     CleanSandbox: 0.045s (1)
+[2024.02.17-17.46.17:267][ 90]UATHelper: 打包 (Windows): LogCook: Display:     CollectFilesToCook: 0.302s (1)
+[2024.02.17-17.46.17:267][ 90]UATHelper: 打包 (Windows): LogCook: Display:       CookModificationDelegate: 0.000s (1)
+[2024.02.17-17.46.17:267][ 90]UATHelper: 打包 (Windows): LogCook: Display:     GenerateLongPackageName: 0.001s (1)
+[2024.02.17-17.46.17:267][ 90]UATHelper: 打包 (Windows): LogCook: Display:     TickMainCookLoop: 4.556s (2)
+[2024.02.17-17.46.17:267][ 90]UATHelper: 打包 (Windows): LogCook: Display:       PumpPollables: 0.000s (2)
+[2024.02.17-17.46.17:267][ 90]UATHelper: 打包 (Windows): LogCook: Display:       PumpRequests: 0.019s (115)
+[2024.02.17-17.46.17:267][ 90]UATHelper: 打包 (Windows): LogCook: Display:       LoadPackageForCooking: 1.930s (3620)
+[2024.02.17-17.46.17:267][ 90]UATHelper: 打包 (Windows): LogCook: Display:       SavingPackages: 2.452s (280)
+[2024.02.17-17.46.17:267][ 90]UATHelper: 打包 (Windows): LogCook: Display:         PollPendingCookedPlatformDatas: 0.094s (36550)
+[2024.02.17-17.46.17:267][ 90]UATHelper: 打包 (Windows): LogCook: Display:         PrepareSave: 0.250s (33011)
+[2024.02.17-17.46.17:267][ 90]UATHelper: 打包 (Windows): LogCook: Display:         PrecachePlatformDataForNextPackage: 0.173s (3618)
+[2024.02.17-17.46.17:267][ 90]UATHelper: 打包 (Windows): LogCook: Display:           PrepareSave: 0.172s (3786)
+[2024.02.17-17.46.17:267][ 90]UATHelper: 打包 (Windows): LogCook: Display:         SaveCookedPackage: 1.678s (3620)
+[2024.02.17-17.46.17:267][ 90]UATHelper: 打包 (Windows): LogCook: Display:           GEditorSavePackage: 1.178s (3620)
+[2024.02.17-17.46.17:267][ 90]UATHelper: 打包 (Windows): LogCook: Display:             VerifyCanCookPackage: 0.009s (3595)
+[2024.02.17-17.46.17:267][ 90]UATHelper: 打包 (Windows): LogCook: Display:           TargetDomainDependencies: 0.001s (3620)
+[2024.02.17-17.46.17:267][ 90]UATHelper: 打包 (Windows): LogCook: Display:         ClearAllCachedCookedPlatformData: 0.072s (3620)
+[2024.02.17-17.46.17:267][ 90]UATHelper: 打包 (Windows): LogCook: Display:       WaitForAsync: 0.057s (4119)
+[2024.02.17-17.46.17:267][ 90]UATHelper: 打包 (Windows): LogCook: Display:       PostLoadPackageFixup: 0.000s (3)
+[2024.02.17-17.46.17:267][ 90]UATHelper: 打包 (Windows): LogCook: Display:     SavingCurrentIniSettings: 0.009s (1)
+[2024.02.17-17.46.17:267][ 90]UATHelper: 打包 (Windows): LogCook: Display:       ProcessingAccessedStrings: 0.001s (1)
+[2024.02.17-17.46.17:267][ 90]UATHelper: 打包 (Windows): LogCook: Display:     SavingAssetRegistry: 0.261s (1)
+[2024.02.17-17.46.17:267][ 90]UATHelper: 打包 (Windows): LogCook: Display:       BuildChunkManifest: 0.024s (1)
+[2024.02.17-17.46.17:267][ 90]UATHelper: 打包 (Windows): LogCook: Display:       SaveManifests: 0.000s (1)
+[2024.02.17-17.46.17:267][ 90]UATHelper: 打包 (Windows): LogCook: Display:       SaveRealAssetRegistry: 0.124s (1)
+[2024.02.17-17.46.17:267][ 90]UATHelper: 打包 (Windows): LogCook: Display:       WriteCookerOpenOrder: 0.044s (1)
+[2024.02.17-17.46.17:267][ 90]UATHelper: 打包 (Windows): LogCook: Display:     FinalizePackageStore: 0.006s (1)
+[2024.02.17-17.46.17:267][ 90]UATHelper: 打包 (Windows): LogCook: Display: Misc Cook Stats
+[2024.02.17-17.46.17:267][ 90]UATHelper: 打包 (Windows): LogCook: Display: ===============
+[2024.02.17-17.46.17:268][ 90]UATHelper: 打包 (Windows): LogCook: Display: NiagaraShader.Misc
+[2024.02.17-17.46.17:268][ 90]UATHelper: 打包 (Windows): LogCook: Display:     ShadersCompiled=0
+[2024.02.17-17.46.17:268][ 90]UATHelper: 打包 (Windows): LogCook: Display: ShaderCompiler
+[2024.02.17-17.46.17:268][ 90]UATHelper: 打包 (Windows): LogCook: Display:     BlockingTimeSec=0.000085
+[2024.02.17-17.46.17:268][ 90]UATHelper: 打包 (Windows): LogCook: Display:     AsyncCompileTimeSec=0.000000
+[2024.02.17-17.46.17:268][ 90]UATHelper: 打包 (Windows): LogCook: Display:     GlobalBeginCompileShaderTimeSec=0.000000
+[2024.02.17-17.46.17:268][ 90]UATHelper: 打包 (Windows): LogCook: Display:     GlobalBeginCompileShaderCalls=0
+[2024.02.17-17.46.17:268][ 90]UATHelper: 打包 (Windows): LogCook: Display:     ProcessAsyncResultsTimeSec=0.000128
+[2024.02.17-17.46.17:268][ 90]UATHelper: 打包 (Windows): LogCook: Display: GlobalShader.Misc
+[2024.02.17-17.46.17:268][ 90]UATHelper: 打包 (Windows): LogCook: Display:     ShadersCompiled=0
+[2024.02.17-17.46.17:268][ 90]UATHelper: 打包 (Windows): LogCook: Display: Material
+[2024.02.17-17.46.17:268][ 90]UATHelper: 打包 (Windows): LogCook: Display:     MeshMaterialShadersCompiled=0
+[2024.02.17-17.46.17:278][ 91]UATHelper: 打包 (Windows): LogCook: Display:     FinishCacheShadersSec=0.055024
+[2024.02.17-17.46.17:278][ 91]UATHelper: 打包 (Windows): LogCook: Display:     MaterialShadersCompiled=0
+[2024.02.17-17.46.17:278][ 91]UATHelper: 打包 (Windows): LogCook: Display:     MaterialShaderMapSubmitCompileJobsTime=0.000000
+[2024.02.17-17.46.17:278][ 91]UATHelper: 打包 (Windows): LogCook: Display:     MaterialShaderMapSubmitCompileCalls=0
+[2024.02.17-17.46.17:278][ 91]UATHelper: 打包 (Windows): LogCook: Display:     MaterialInstanceUpdateCachedExpressionDataSec=0.001198
+[2024.02.17-17.46.17:278][ 91]UATHelper: 打包 (Windows): LogCook: Display:     MaterialInstancePostLoadSec=0.001356
+[2024.02.17-17.46.17:278][ 91]UATHelper: 打包 (Windows): LogCook: Display:     MaterialUpdateCachedExpressionDataSec=0.003835
+[2024.02.17-17.46.17:278][ 91]UATHelper: 打包 (Windows): LogCook: Display:     MaterialTranslateCalls=0
+[2024.02.17-17.46.17:278][ 91]UATHelper: 打包 (Windows): LogCook: Display:     MaterialTranslateTimeSec=0.000000
+[2024.02.17-17.46.17:278][ 91]UATHelper: 打包 (Windows): LogCook: Display: Package.Load
+[2024.02.17-17.46.17:278][ 91]UATHelper: 打包 (Windows): LogCook: Display:     NumInlineLoads=3
+[2024.02.17-17.46.17:278][ 91]UATHelper: 打包 (Windows): LogCook: Display:     NumPackagesLoaded=3639
+[2024.02.17-17.46.17:278][ 91]UATHelper: 打包 (Windows): LogCook: Display:     LoadPackageTimeSec=2.227972
+[2024.02.17-17.46.17:278][ 91]UATHelper: 打包 (Windows): LogCook: Display: Package.Save
+[2024.02.17-17.46.17:278][ 91]UATHelper: 打包 (Windows): LogCook: Display:     NumPackagesIterativelySkipped=0
+[2024.02.17-17.46.17:278][ 91]UATHelper: 打包 (Windows): LogCook: Display:     NumPackagesSaved=3620
+[2024.02.17-17.46.17:278][ 91]UATHelper: 打包 (Windows): LogCook: Display:     SavePackageTimeSec=1.146224
+[2024.02.17-17.46.17:278][ 91]UATHelper: 打包 (Windows): LogCook: Display:     TagPackageExportsPresaveTimeSec=0.000000
+[2024.02.17-17.46.17:278][ 91]UATHelper: 打包 (Windows): LogCook: Display:     TagPackageExportsTimeSec=0.000000
+[2024.02.17-17.46.17:278][ 91]UATHelper: 打包 (Windows): LogCook: Display:     FullyLoadLoadersTimeSec=0.000000
+[2024.02.17-17.46.17:278][ 91]UATHelper: 打包 (Windows): LogCook: Display:     ResetLoadersTimeSec=0.000000
+[2024.02.17-17.46.17:278][ 91]UATHelper: 打包 (Windows): LogCook: Display:     TagPackageExportsGetObjectsWithOuter=0.000000
+[2024.02.17-17.46.17:278][ 91]UATHelper: 打包 (Windows): LogCook: Display:     TagPackageExportsGetObjectsWithMarks=0.000000
+[2024.02.17-17.46.17:278][ 91]UATHelper: 打包 (Windows): LogCook: Display:     SerializeImportsTimeSec=0.000000
+[2024.02.17-17.46.17:278][ 91]UATHelper: 打包 (Windows): LogCook: Display:     SortExportsSeekfreeInnerTimeSec=0.000000
+[2024.02.17-17.46.17:278][ 91]UATHelper: 打包 (Windows): LogCook: Display:     SerializeExportsTimeSec=0.000000
+[2024.02.17-17.46.17:278][ 91]UATHelper: 打包 (Windows): LogCook: Display:     SerializeBulkDataTimeSec=0.008912
+[2024.02.17-17.46.17:278][ 91]UATHelper: 打包 (Windows): LogCook: Display:     AsyncWriteTimeSec=0.000000
+[2024.02.17-17.46.17:278][ 91]UATHelper: 打包 (Windows): LogCook: Display:     MBWritten=0.000000
+[2024.02.17-17.46.17:278][ 91]UATHelper: 打包 (Windows): LogCook: Display: CookOnTheFlyServer
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display:     PeakRequestQueueSize=3619
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display:     PeakLoadQueueSize=739
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display:     PeakSaveQueueSize=552
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display: Package.DifferentPackagesSizeMBPerAsset
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display: Package.PackageDifferencesSizeMBPerAsset
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display: Package.DiffTotal
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display:     NumberOfDifferentPackages=0
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display:     DifferentPackagesSizeMB=0.000000
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display:     NumberOfDifferencesInPackages=0
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display:     PackageDifferencesSizeMB=0.000000
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display: UnversionedProperties
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display:     SavedStructs=0
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display:     SavedMB=0
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display:     EquivalentTaggedMB=0
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display:     CompressionRatio=-nan(ind)
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display:     BitfieldWasteKB=0
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display:
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display: Cook Profile
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display: ============
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display:  0.CookWallTimeSec=11.886704
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display:  0. 0.StartupWallTimeSec=4.555571
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display:  0. 1.CookByTheBookTimeSec=0.000000
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 0.StartCookByTheBookTimeSec=2.438679
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 0. 0.BlockOnAssetRegistryTimeSec=0.480722
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 0. 1.GameCookModificationDelegateTimeSec=0.000067
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 1.TickCookOnTheSideTimeSec=0.020117
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=1.930635
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=1.677896
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 1. 2.TickCookOnTheSidePrepareSaveTimeSec=0.423375
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 2.TickLoopGCTimeSec=0.017783
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=0.000000
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.000005
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.000002
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.000000
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 7.TickLoopFlushRenderingCommandsTimeSec=0.000064
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 8.TargetPlatforms=Windows
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 9.CookProject=KCardGameProject
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 10.CookCultures=
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 11.IsCookAll=false
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 12.IsCookOnTheFly=false
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 13.IsIterativeCook=false
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 14.IsUnversioned=true
+[2024.02.17-17.46.17:279][ 91]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 15.CookLabel=
+[2024.02.17-17.46.17:288][ 92]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 16.IsFastCook=false
+[2024.02.17-17.46.17:288][ 92]UATHelper: 打包 (Windows): LogCook: Display:
+[2024.02.17-17.46.17:288][ 92]UATHelper: 打包 (Windows): LogCook: Display: DDC Summary Stats
+[2024.02.17-17.46.17:288][ 92]UATHelper: 打包 (Windows): LogCook: Display: =================
+[2024.02.17-17.46.17:288][ 92]UATHelper: 打包 (Windows): LogCook: Display: BackEnd         =InstalledDerivedDataBackendGraph
+[2024.02.17-17.46.17:288][ 92]UATHelper: 打包 (Windows): LogCook: Display: HasLocalCache   =      true
+[2024.02.17-17.46.17:288][ 92]UATHelper: 打包 (Windows): LogCook: Display: HasSharedCache  =     false
+[2024.02.17-17.46.17:288][ 92]UATHelper: 打包 (Windows): LogCook: Display: HasCloudCache   =     false
+[2024.02.17-17.46.17:288][ 92]UATHelper: 打包 (Windows): LogCook: Display: HasZenCache     =     false
+[2024.02.17-17.46.17:288][ 92]UATHelper: 打包 (Windows): LogCook: Display: TotalGetHits    =     11328
+[2024.02.17-17.46.17:288][ 92]UATHelper: 打包 (Windows): LogCook: Display: TotalGetMisses  =         0
+[2024.02.17-17.46.17:288][ 92]UATHelper: 打包 (Windows): LogCook: Display: TotalGets       =     11328
+[2024.02.17-17.46.17:288][ 92]UATHelper: 打包 (Windows): LogCook: Display: TotalGetHitPct  =  1.000000
+[2024.02.17-17.46.17:288][ 92]UATHelper: 打包 (Windows): LogCook: Display: GetMissPct      =  0.000000
+[2024.02.17-17.46.17:288][ 92]UATHelper: 打包 (Windows): LogCook: Display: TotalPutHits    =         0
+[2024.02.17-17.46.17:288][ 92]UATHelper: 打包 (Windows): LogCook: Display: TotalPutMisses  =         0
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: TotalPuts       =         0
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: TotalPutHitPct  =  0.000000
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: PutMissPct      =  0.000000
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: LocalGetHits    =      3860
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: LocalGetTotal   =      3860
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: LocalGetHitPct  =  1.000000
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: SharedGetHits   =         0
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: SharedGetTotal  =         0
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: SharedGetHitPct =  0.000000
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: ZenLocalGetHits =         0
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: ZenLocalGetTotal=         0
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: ZenLocalGetHitPct=  0.000000
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: ZenRemoteGetHits=         0
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: ZenRemoteGetTotal=         0
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: ZenRemoteGetHitPct=  0.000000
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: CloudGetHits    =         0
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: CloudGetTotal   =         0
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: CloudGetHitPct  =  0.000000
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: LocalLatency    =  0.068455
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: LocalReadSpeed  =129.288689
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: LocalWriteSpeed =  0.000000
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: SharedLatency   =  0.000000
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: SharedReadSpeed =  0.000000
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: SharedWriteSpeed=  0.000000
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: CloudLatency    =  0.000000
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: CloudReadSpeed  =  0.000000
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: CloudWriteSpeed =  0.000000
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display:
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: DDC Resource Stats
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: =======================================================================================================
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: Texture                                         1.40                   0.00             0         41.84
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: BulkDataList                                    0.95                   0.00             0          1.15
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: Audio                                           0.23                   0.00             0         77.81
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: MaterialShader                                  0.06                   0.05             0         39.20
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: GlobalShader                                    0.05                   0.07             0         62.05
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: StaticMesh                                      0.00                   0.01             0          1.42
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: CardRepresentation                              0.00                   0.00             0          0.02
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: DistanceField                                   0.00                   0.00             0          0.27
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: NavCollision                                    0.00                   0.00             0          0.04
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: BulkDataPayloadId                               0.00                   0.00             0          0.00
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: BodySetup                                       0.00                   0.00             0          0.62
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogPackageBuildDependencyTracker: Display: Package Accesses (244 referencing packages with a total of 2224 unique accesses)
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: Done!
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogSavePackage: Display: Took 0.001081s to verify the EDL loading graph.
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: Misc Cook Stats
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: ===============
+[2024.02.17-17.46.17:289][ 92]UATHelper: 打包 (Windows): LogCook: Display: NiagaraShader.Misc
+[2024.02.17-17.46.17:299][ 93]UATHelper: 打包 (Windows): LogCook: Display:     ShadersCompiled=0
+[2024.02.17-17.46.17:299][ 93]UATHelper: 打包 (Windows): LogCook: Display: ShaderCompiler
+[2024.02.17-17.46.17:299][ 93]UATHelper: 打包 (Windows): LogCook: Display:     BlockingTimeSec=0.000085
+[2024.02.17-17.46.17:299][ 93]UATHelper: 打包 (Windows): LogCook: Display:     AsyncCompileTimeSec=0.000000
+[2024.02.17-17.46.17:299][ 93]UATHelper: 打包 (Windows): LogCook: Display:     GlobalBeginCompileShaderTimeSec=0.000000
+[2024.02.17-17.46.17:299][ 93]UATHelper: 打包 (Windows): LogCook: Display:     GlobalBeginCompileShaderCalls=0
+[2024.02.17-17.46.17:299][ 93]UATHelper: 打包 (Windows): LogCook: Display:     ProcessAsyncResultsTimeSec=0.000128
+[2024.02.17-17.46.17:299][ 93]UATHelper: 打包 (Windows): LogCook: Display: GlobalShader.Misc
+[2024.02.17-17.46.17:299][ 93]UATHelper: 打包 (Windows): LogCook: Display:     ShadersCompiled=0
+[2024.02.17-17.46.17:299][ 93]UATHelper: 打包 (Windows): LogCook: Display: Material
+[2024.02.17-17.46.17:299][ 93]UATHelper: 打包 (Windows): LogCook: Display:     MeshMaterialShadersCompiled=0
+[2024.02.17-17.46.17:299][ 93]UATHelper: 打包 (Windows): LogCook: Display:     FinishCacheShadersSec=0.055024
+[2024.02.17-17.46.17:299][ 93]UATHelper: 打包 (Windows): LogCook: Display:     MaterialShadersCompiled=0
+[2024.02.17-17.46.17:299][ 93]UATHelper: 打包 (Windows): LogCook: Display:     MaterialShaderMapSubmitCompileJobsTime=0.000000
+[2024.02.17-17.46.17:299][ 93]UATHelper: 打包 (Windows): LogCook: Display:     MaterialShaderMapSubmitCompileCalls=0
+[2024.02.17-17.46.17:299][ 93]UATHelper: 打包 (Windows): LogCook: Display:     MaterialInstanceUpdateCachedExpressionDataSec=0.001198
+[2024.02.17-17.46.17:299][ 93]UATHelper: 打包 (Windows): LogCook: Display:     MaterialInstancePostLoadSec=0.001356
+[2024.02.17-17.46.17:299][ 94]UATHelper: 打包 (Windows): LogCook: Display:     MaterialUpdateCachedExpressionDataSec=0.003835
+[2024.02.17-17.46.17:299][ 94]UATHelper: 打包 (Windows): LogCook: Display:     MaterialTranslateCalls=0
+[2024.02.17-17.46.17:299][ 94]UATHelper: 打包 (Windows): LogCook: Display:     MaterialTranslateTimeSec=0.000000
+[2024.02.17-17.46.17:299][ 94]UATHelper: 打包 (Windows): LogCook: Display: Package.Load
+[2024.02.17-17.46.17:299][ 94]UATHelper: 打包 (Windows): LogCook: Display:     NumInlineLoads=3
+[2024.02.17-17.46.17:299][ 94]UATHelper: 打包 (Windows): LogCook: Display:     NumPackagesLoaded=3639
+[2024.02.17-17.46.17:299][ 94]UATHelper: 打包 (Windows): LogCook: Display:     LoadPackageTimeSec=2.227972
+[2024.02.17-17.46.17:299][ 94]UATHelper: 打包 (Windows): LogCook: Display: Package.Save
+[2024.02.17-17.46.17:299][ 94]UATHelper: 打包 (Windows): LogCook: Display:     NumPackagesIterativelySkipped=0
+[2024.02.17-17.46.17:299][ 94]UATHelper: 打包 (Windows): LogCook: Display:     NumPackagesSaved=3620
+[2024.02.17-17.46.17:299][ 94]UATHelper: 打包 (Windows): LogCook: Display:     SavePackageTimeSec=1.146224
+[2024.02.17-17.46.17:299][ 94]UATHelper: 打包 (Windows): LogCook: Display:     TagPackageExportsPresaveTimeSec=0.000000
+[2024.02.17-17.46.17:299][ 94]UATHelper: 打包 (Windows): LogCook: Display:     TagPackageExportsTimeSec=0.000000
+[2024.02.17-17.46.17:299][ 94]UATHelper: 打包 (Windows): LogCook: Display:     FullyLoadLoadersTimeSec=0.000000
+[2024.02.17-17.46.17:299][ 94]UATHelper: 打包 (Windows): LogCook: Display:     ResetLoadersTimeSec=0.000000
+[2024.02.17-17.46.17:299][ 94]UATHelper: 打包 (Windows): LogCook: Display:     TagPackageExportsGetObjectsWithOuter=0.000000
+[2024.02.17-17.46.17:299][ 94]UATHelper: 打包 (Windows): LogCook: Display:     TagPackageExportsGetObjectsWithMarks=0.000000
+[2024.02.17-17.46.17:299][ 94]UATHelper: 打包 (Windows): LogCook: Display:     SerializeImportsTimeSec=0.000000
+[2024.02.17-17.46.17:299][ 94]UATHelper: 打包 (Windows): LogCook: Display:     SortExportsSeekfreeInnerTimeSec=0.000000
+[2024.02.17-17.46.17:299][ 94]UATHelper: 打包 (Windows): LogCook: Display:     SerializeExportsTimeSec=0.000000
+[2024.02.17-17.46.17:299][ 94]UATHelper: 打包 (Windows): LogCook: Display:     SerializeBulkDataTimeSec=0.008912
+[2024.02.17-17.46.17:299][ 94]UATHelper: 打包 (Windows): LogCook: Display:     AsyncWriteTimeSec=0.000000
+[2024.02.17-17.46.17:299][ 94]UATHelper: 打包 (Windows): LogCook: Display:     MBWritten=0.000000
+[2024.02.17-17.46.17:299][ 94]UATHelper: 打包 (Windows): LogCook: Display: CookOnTheFlyServer
+[2024.02.17-17.46.17:299][ 94]UATHelper: 打包 (Windows): LogCook: Display:     PeakRequestQueueSize=3619
+[2024.02.17-17.46.17:299][ 94]UATHelper: 打包 (Windows): LogCook: Display:     PeakLoadQueueSize=739
+[2024.02.17-17.46.17:299][ 94]UATHelper: 打包 (Windows): LogCook: Display:     PeakSaveQueueSize=552
+[2024.02.17-17.46.17:299][ 94]UATHelper: 打包 (Windows): LogCook: Display: Package.DifferentPackagesSizeMBPerAsset
+[2024.02.17-17.46.17:299][ 94]UATHelper: 打包 (Windows): LogCook: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2024.02.17-17.46.17:299][ 94]UATHelper: 打包 (Windows): LogCook: Display: Package.PackageDifferencesSizeMBPerAsset
+[2024.02.17-17.46.17:299][ 94]UATHelper: 打包 (Windows): LogCook: Display: Package.DiffTotal
+[2024.02.17-17.46.17:299][ 94]UATHelper: 打包 (Windows): LogCook: Display:     NumberOfDifferentPackages=0
+[2024.02.17-17.46.17:299][ 94]UATHelper: 打包 (Windows): LogCook: Display:     DifferentPackagesSizeMB=0.000000
+[2024.02.17-17.46.17:300][ 94]UATHelper: 打包 (Windows): LogCook: Display:     NumberOfDifferencesInPackages=0
+[2024.02.17-17.46.17:300][ 94]UATHelper: 打包 (Windows): LogCook: Display:     PackageDifferencesSizeMB=0.000000
+[2024.02.17-17.46.17:300][ 94]UATHelper: 打包 (Windows): LogCook: Display: UnversionedProperties
+[2024.02.17-17.46.17:300][ 94]UATHelper: 打包 (Windows): LogCook: Display:     SavedStructs=0
+[2024.02.17-17.46.17:300][ 94]UATHelper: 打包 (Windows): LogCook: Display:     SavedMB=0
+[2024.02.17-17.46.17:300][ 94]UATHelper: 打包 (Windows): LogCook: Display:     EquivalentTaggedMB=0
+[2024.02.17-17.46.17:300][ 94]UATHelper: 打包 (Windows): LogCook: Display:     CompressionRatio=-nan(ind)
+[2024.02.17-17.46.17:300][ 94]UATHelper: 打包 (Windows): LogCook: Display:     BitfieldWasteKB=0
+[2024.02.17-17.46.17:300][ 94]UATHelper: 打包 (Windows): LogCook: Display:
+[2024.02.17-17.46.17:300][ 94]UATHelper: 打包 (Windows): LogCook: Display: Cook Profile
+[2024.02.17-17.46.17:300][ 94]UATHelper: 打包 (Windows): LogCook: Display: ============
+[2024.02.17-17.46.17:300][ 94]UATHelper: 打包 (Windows): LogCook: Display:  0.CookWallTimeSec=11.890459
+[2024.02.17-17.46.17:300][ 94]UATHelper: 打包 (Windows): LogCook: Display:  0. 0.StartupWallTimeSec=4.555571
+[2024.02.17-17.46.17:300][ 94]UATHelper: 打包 (Windows): LogCook: Display:  0. 1.CookByTheBookTimeSec=7.332796
+[2024.02.17-17.46.17:300][ 94]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 0.StartCookByTheBookTimeSec=2.438679
+[2024.02.17-17.46.17:300][ 94]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 0. 0.BlockOnAssetRegistryTimeSec=0.480722
+[2024.02.17-17.46.17:300][ 94]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 0. 1.GameCookModificationDelegateTimeSec=0.000067
+[2024.02.17-17.46.17:300][ 94]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 1.TickCookOnTheSideTimeSec=4.838958
+[2024.02.17-17.46.17:300][ 94]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=1.930635
+[2024.02.17-17.46.17:300][ 94]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=1.677896
+[2024.02.17-17.46.17:300][ 94]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2024.02.17-17.46.17:300][ 94]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 1. 2.TickCookOnTheSidePrepareSaveTimeSec=0.423375
+[2024.02.17-17.46.17:300][ 94]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 2.TickLoopGCTimeSec=0.017783
+[2024.02.17-17.46.17:300][ 94]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=0.000000
+[2024.02.17-17.46.17:300][ 94]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.000005
+[2024.02.17-17.46.17:300][ 94]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.000002
+[2024.02.17-17.46.17:300][ 94]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.000000
+[2024.02.17-17.46.17:309][ 95]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 7.TickLoopFlushRenderingCommandsTimeSec=0.000064
+[2024.02.17-17.46.17:309][ 95]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 8.TargetPlatforms=Windows
+[2024.02.17-17.46.17:309][ 95]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 9.CookProject=KCardGameProject
+[2024.02.17-17.46.17:309][ 95]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 10.CookCultures=
+[2024.02.17-17.46.17:309][ 95]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 11.IsCookAll=false
+[2024.02.17-17.46.17:309][ 95]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 12.IsCookOnTheFly=false
+[2024.02.17-17.46.17:309][ 95]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 13.IsIterativeCook=false
+[2024.02.17-17.46.17:309][ 95]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 14.IsUnversioned=true
+[2024.02.17-17.46.17:309][ 95]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 15.CookLabel=
+[2024.02.17-17.46.17:309][ 95]UATHelper: 打包 (Windows): LogCook: Display:  0. 1. 16.IsFastCook=false
+[2024.02.17-17.46.17:309][ 95]UATHelper: 打包 (Windows): LogCook: Display:
+[2024.02.17-17.46.17:309][ 95]UATHelper: 打包 (Windows): LogCook: Display: DDC Summary Stats
+[2024.02.17-17.46.17:309][ 95]UATHelper: 打包 (Windows): LogCook: Display: =================
+[2024.02.17-17.46.17:309][ 95]UATHelper: 打包 (Windows): LogCook: Display: BackEnd         =InstalledDerivedDataBackendGraph
+[2024.02.17-17.46.17:309][ 95]UATHelper: 打包 (Windows): LogCook: Display: HasLocalCache   =      true
+[2024.02.17-17.46.17:309][ 95]UATHelper: 打包 (Windows): LogCook: Display: HasSharedCache  =     false
+[2024.02.17-17.46.17:309][ 95]UATHelper: 打包 (Windows): LogCook: Display: HasCloudCache   =     false
+[2024.02.17-17.46.17:309][ 95]UATHelper: 打包 (Windows): LogCook: Display: HasZenCache     =     false
+[2024.02.17-17.46.17:309][ 95]UATHelper: 打包 (Windows): LogCook: Display: TotalGetHits    =     11328
+[2024.02.17-17.46.17:309][ 95]UATHelper: 打包 (Windows): LogCook: Display: TotalGetMisses  =         0
+[2024.02.17-17.46.17:309][ 95]UATHelper: 打包 (Windows): LogCook: Display: TotalGets       =     11328
+[2024.02.17-17.46.17:309][ 95]UATHelper: 打包 (Windows): LogCook: Display: TotalGetHitPct  =  1.000000
+[2024.02.17-17.46.17:309][ 95]UATHelper: 打包 (Windows): LogCook: Display: GetMissPct      =  0.000000
+[2024.02.17-17.46.17:309][ 95]UATHelper: 打包 (Windows): LogCook: Display: TotalPutHits    =         0
+[2024.02.17-17.46.17:309][ 95]UATHelper: 打包 (Windows): LogCook: Display: TotalPutMisses  =         0
+[2024.02.17-17.46.17:309][ 95]UATHelper: 打包 (Windows): LogCook: Display: TotalPuts       =         0
+[2024.02.17-17.46.17:309][ 95]UATHelper: 打包 (Windows): LogCook: Display: TotalPutHitPct  =  0.000000
+[2024.02.17-17.46.17:310][ 95]UATHelper: 打包 (Windows): LogCook: Display: PutMissPct      =  0.000000
+[2024.02.17-17.46.17:310][ 95]UATHelper: 打包 (Windows): LogCook: Display: LocalGetHits    =      3860
+[2024.02.17-17.46.17:310][ 95]UATHelper: 打包 (Windows): LogCook: Display: LocalGetTotal   =      3860
+[2024.02.17-17.46.17:310][ 95]UATHelper: 打包 (Windows): LogCook: Display: LocalGetHitPct  =  1.000000
+[2024.02.17-17.46.17:310][ 95]UATHelper: 打包 (Windows): LogCook: Display: SharedGetHits   =         0
+[2024.02.17-17.46.17:310][ 95]UATHelper: 打包 (Windows): LogCook: Display: SharedGetTotal  =         0
+[2024.02.17-17.46.17:310][ 95]UATHelper: 打包 (Windows): LogCook: Display: SharedGetHitPct =  0.000000
+[2024.02.17-17.46.17:310][ 95]UATHelper: 打包 (Windows): LogCook: Display: ZenLocalGetHits =         0
+[2024.02.17-17.46.17:310][ 95]UATHelper: 打包 (Windows): LogCook: Display: ZenLocalGetTotal=         0
+[2024.02.17-17.46.17:310][ 95]UATHelper: 打包 (Windows): LogCook: Display: ZenLocalGetHitPct=  0.000000
+[2024.02.17-17.46.17:310][ 95]UATHelper: 打包 (Windows): LogCook: Display: ZenRemoteGetHits=         0
+[2024.02.17-17.46.17:310][ 95]UATHelper: 打包 (Windows): LogCook: Display: ZenRemoteGetTotal=         0
+[2024.02.17-17.46.17:310][ 95]UATHelper: 打包 (Windows): LogCook: Display: ZenRemoteGetHitPct=  0.000000
+[2024.02.17-17.46.17:310][ 95]UATHelper: 打包 (Windows): LogCook: Display: CloudGetHits    =         0
+[2024.02.17-17.46.17:310][ 95]UATHelper: 打包 (Windows): LogCook: Display: CloudGetTotal   =         0
+[2024.02.17-17.46.17:310][ 95]UATHelper: 打包 (Windows): LogCook: Display: CloudGetHitPct  =  0.000000
+[2024.02.17-17.46.17:310][ 95]UATHelper: 打包 (Windows): LogCook: Display: LocalLatency    =  0.068455
+[2024.02.17-17.46.17:310][ 95]UATHelper: 打包 (Windows): LogCook: Display: LocalReadSpeed  =129.288689
+[2024.02.17-17.46.17:310][ 95]UATHelper: 打包 (Windows): LogCook: Display: LocalWriteSpeed =  0.000000
+[2024.02.17-17.46.17:310][ 95]UATHelper: 打包 (Windows): LogCook: Display: SharedLatency   =  0.000000
+[2024.02.17-17.46.17:310][ 95]UATHelper: 打包 (Windows): LogCook: Display: SharedReadSpeed =  0.000000
+[2024.02.17-17.46.17:310][ 95]UATHelper: 打包 (Windows): LogCook: Display: SharedWriteSpeed=  0.000000
+[2024.02.17-17.46.17:310][ 95]UATHelper: 打包 (Windows): LogCook: Display: CloudLatency    =  0.000000
+[2024.02.17-17.46.17:310][ 95]UATHelper: 打包 (Windows): LogCook: Display: CloudReadSpeed  =  0.000000
+[2024.02.17-17.46.17:310][ 95]UATHelper: 打包 (Windows): LogCook: Display: CloudWriteSpeed =  0.000000
+[2024.02.17-17.46.17:310][ 95]UATHelper: 打包 (Windows): LogCook: Display:
+[2024.02.17-17.46.17:310][ 95]UATHelper: 打包 (Windows): LogCook: Display: DDC Resource Stats
+[2024.02.17-17.46.17:310][ 95]UATHelper: 打包 (Windows): LogCook: Display: =======================================================================================================
+[2024.02.17-17.46.17:310][ 95]UATHelper: 打包 (Windows): LogCook: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2024.02.17-17.46.17:310][ 95]UATHelper: 打包 (Windows): LogCook: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2024.02.17-17.46.17:310][ 95]UATHelper: 打包 (Windows): LogCook: Display: Texture                                         1.40                   0.00             0         41.84
+[2024.02.17-17.46.17:310][ 95]UATHelper: 打包 (Windows): LogCook: Display: BulkDataList                                    0.95                   0.00             0          1.15
+[2024.02.17-17.46.17:310][ 95]UATHelper: 打包 (Windows): LogCook: Display: Audio                                           0.23                   0.00             0         77.81
+[2024.02.17-17.46.17:310][ 95]UATHelper: 打包 (Windows): LogCook: Display: MaterialShader                                  0.06                   0.05             0         39.20
+[2024.02.17-17.46.17:310][ 95]UATHelper: 打包 (Windows): LogCook: Display: GlobalShader                                    0.05                   0.07             0         62.05
+[2024.02.17-17.46.17:310][ 95]UATHelper: 打包 (Windows): LogCook: Display: StaticMesh                                      0.00                   0.01             0          1.42
+[2024.02.17-17.46.17:310][ 95]UATHelper: 打包 (Windows): LogCook: Display: CardRepresentation                              0.00                   0.00             0          0.02
+[2024.02.17-17.46.17:310][ 95]UATHelper: 打包 (Windows): LogCook: Display: DistanceField                                   0.00                   0.00             0          0.27
+[2024.02.17-17.46.17:310][ 95]UATHelper: 打包 (Windows): LogCook: Display: NavCollision                                    0.00                   0.00             0          0.04
+[2024.02.17-17.46.17:310][ 95]UATHelper: 打包 (Windows): LogCook: Display: BulkDataPayloadId                               0.00                   0.00             0          0.00
+[2024.02.17-17.46.17:320][ 96]UATHelper: 打包 (Windows): LogCook: Display: BodySetup                                       0.00                   0.00             0          0.62
+[2024.02.17-17.46.17:320][ 96]UATHelper: 打包 (Windows): LogPackageBuildDependencyTracker: Display: Package Accesses (244 referencing packages with a total of 2224 unique accesses)
+[2024.02.17-17.46.17:320][ 96]UATHelper: 打包 (Windows): LogInit: Display:
+[2024.02.17-17.46.17:320][ 96]UATHelper: 打包 (Windows): LogInit: Display: Warning/Error Summary (Unique only)
+[2024.02.17-17.46.17:320][ 96]UATHelper: 打包 (Windows): LogInit: Display: -----------------------------------
+[2024.02.17-17.46.17:320][ 96]UATHelper: 打包 (Windows): LogInit: Display: LogPackageUtilities: Warning: Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Marketplace/AsyncLoadingScreen/Content' is not mounted. Skipping it.
+[2024.02.17-17.46.17:320][ 96]UATHelper: 打包 (Windows): LogInit: Display: LogUObjectGlobals: Warning: [AssetLog] D:\UEProjects\MyProjects\KCardGameProject\Content\Resources\Textures\Frame\UI_Mask02.uasset: 未能加载“/Game/Resources/Textures/Frame/UI_Mask04”：无法找到文件。
+[2024.02.17-17.46.17:320][ 96]UATHelper: 打包 (Windows): LogInit: Display: LogLinker: Warning: [AssetLog] D:\UEProjects\MyProjects\KCardGameProject\Content\Resources\Textures\Frame\UI_Mask02.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Resources/Textures/Frame/UI_Mask04'
+[2024.02.17-17.46.17:320][ 96]UATHelper: 打包 (Windows): LogInit: Display:
+[2024.02.17-17.46.17:320][ 96]UATHelper: 打包 (Windows): LogInit: Display: Success - 0 error(s), 4 warning(s)
+[2024.02.17-17.46.17:320][ 96]UATHelper: 打包 (Windows): LogInit: Display:
+[2024.02.17-17.46.17:320][ 96]UATHelper: 打包 (Windows): Execution of commandlet took:  7.34 seconds
+[2024.02.17-17.46.17:697][141]UATHelper: 打包 (Windows): LogShaderCompilers: Display: ================================================
+[2024.02.17-17.46.17:697][141]UATHelper: 打包 (Windows): LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.17-17.46.17:697][141]UATHelper: 打包 (Windows): LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2024.02.17-17.46.17:697][141]UATHelper: 打包 (Windows): LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2024.02.17-17.46.17:697][141]UATHelper: 打包 (Windows): LogShaderCompilers: Display: RAM used: 240.00 B of 3.20 GiB budget. Usage: 0.00%
+[2024.02.17-17.46.17:697][141]UATHelper: 打包 (Windows): LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.17-17.46.17:697][141]UATHelper: 打包 (Windows): LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.02.17-17.46.17:697][141]UATHelper: 打包 (Windows): LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.02.17-17.46.17:697][141]UATHelper: 打包 (Windows): LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.02.17-17.46.17:697][141]UATHelper: 打包 (Windows): LogShaderCompilers: Display: ================================================
+[2024.02.17-17.46.19:713][383]UATHelper: 打包 (Windows): Took 14.54s to run UnrealEditor-Cmd.exe, ExitCode=0
+[2024.02.17-17.46.19:713][383]UATHelper: 打包 (Windows): Cook command time: 14.55 s
+[2024.02.17-17.46.19:713][383]UATHelper: 打包 (Windows): ********** COOK COMMAND COMPLETED **********
+[2024.02.17-17.46.19:724][384]UATHelper: 打包 (Windows): ********** STAGE COMMAND STARTED **********
+[2024.02.17-17.46.19:755][388]UATHelper: 打包 (Windows): Creating Staging Manifest...
+[2024.02.17-17.46.19:765][389]UATHelper: 打包 (Windows): Patching bootstrap executable; D:\UEProjects\MyProjects\KCardGameProject\Intermediate\Staging\KCardGameProject.exe
+[2024.02.17-17.46.19:765][389]UATHelper: 打包 (Windows): Begin update resource 'D:\UEProjects\MyProjects\KCardGameProject\Intermediate\Staging\KCardGameProject.exe' (0)
+[2024.02.17-17.46.19:765][389]UATHelper: 打包 (Windows): Add resource 101, length 20 (True)
+[2024.02.17-17.46.19:765][389]UATHelper: 打包 (Windows): Add resource 1, length 116088 (True)
+[2024.02.17-17.46.19:765][389]UATHelper: 打包 (Windows): Add resource 201, length 106 (True)
+[2024.02.17-17.46.19:765][389]UATHelper: 打包 (Windows): Add resource 202, length 34 (True)
+[2024.02.17-17.46.19:786][392]UATHelper: 打包 (Windows): End update resource (True/0)
+[2024.02.17-17.46.19:786][392]UATHelper: 打包 (Windows): Including config file E:\Program Files\Epic Games\UE_5.3\Engine\Config\Base.ini
+[2024.02.17-17.46.19:786][392]UATHelper: 打包 (Windows): Including config file E:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseCompat.ini
+[2024.02.17-17.46.19:786][392]UATHelper: 打包 (Windows): Including config file E:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseDeviceProfiles.ini
+[2024.02.17-17.46.19:786][392]UATHelper: 打包 (Windows): Excluding config file E:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseEditor.ini
+[2024.02.17-17.46.19:786][392]UATHelper: 打包 (Windows): Excluding config file E:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseEditorKeyBindings.ini
+[2024.02.17-17.46.19:786][392]UATHelper: 打包 (Windows): Excluding config file E:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseEditorPerProjectUserSettings.ini
+[2024.02.17-17.46.19:786][392]UATHelper: 打包 (Windows): Excluding config file E:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseEditorSettings.ini
+[2024.02.17-17.46.19:786][392]UATHelper: 打包 (Windows): Including config file E:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseEngine.ini
+[2024.02.17-17.46.19:786][392]UATHelper: 打包 (Windows): Including config file E:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseGame.ini
+[2024.02.17-17.46.19:786][392]UATHelper: 打包 (Windows): Including config file E:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseGameUserSettings.ini
+[2024.02.17-17.46.19:786][392]UATHelper: 打包 (Windows): Including config file E:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseHardware.ini
+[2024.02.17-17.46.19:786][392]UATHelper: 打包 (Windows): Including config file E:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseInput.ini
+[2024.02.17-17.46.19:786][392]UATHelper: 打包 (Windows): Including config file E:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseInstallBundle.ini
+[2024.02.17-17.46.19:786][392]UATHelper: 打包 (Windows): Excluding config file E:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseLightmass.ini
+[2024.02.17-17.46.19:786][392]UATHelper: 打包 (Windows): Excluding config file E:\Program Files\Epic Games\UE_5.3\Engine\Config\BasePakFileRules.ini
+[2024.02.17-17.46.19:786][392]UATHelper: 打包 (Windows): Including config file E:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseRuntimeOptions.ini
+[2024.02.17-17.46.19:786][392]UATHelper: 打包 (Windows): Including config file E:\Program Files\Epic Games\UE_5.3\Engine\Config\BaseScalability.ini
+[2024.02.17-17.46.19:786][392]UATHelper: 打包 (Windows): Including config file E:\Program Files\Epic Games\UE_5.3\Engine\Config\ConfigRedirects.ini
+[2024.02.17-17.46.19:786][392]UATHelper: 打包 (Windows): Including config file E:\Program Files\Epic Games\UE_5.3\Engine\Config\ConsoleVariables.ini
+[2024.02.17-17.46.19:786][392]UATHelper: 打包 (Windows): Including config file E:\Program Files\Epic Games\UE_5.3\Engine\Config\Layouts\DefaultLayout.ini
+[2024.02.17-17.46.19:786][392]UATHelper: 打包 (Windows): Including config file E:\Program Files\Epic Games\UE_5.3\Engine\Config\Layouts\UE4ClassicLayout.ini
+[2024.02.17-17.46.19:786][392]UATHelper: 打包 (Windows): Excluding config file E:\Program Files\Epic Games\UE_5.3\Engine\Config\Localization\Category.ini
+[2024.02.17-17.46.19:797][393]UATHelper: 打包 (Windows): Excluding config file E:\Program Files\Epic Games\UE_5.3\Engine\Config\Localization\Editor.ini
+[2024.02.17-17.46.19:797][393]UATHelper: 打包 (Windows): Excluding config file E:\Program Files\Epic Games\UE_5.3\Engine\Config\Localization\EditorTutorials.ini
+[2024.02.17-17.46.19:797][393]UATHelper: 打包 (Windows): Excluding config file E:\Program Files\Epic Games\UE_5.3\Engine\Config\Localization\Engine.ini
+[2024.02.17-17.46.19:797][393]UATHelper: 打包 (Windows): Excluding config file E:\Program Files\Epic Games\UE_5.3\Engine\Config\Localization\Keywords.ini
+[2024.02.17-17.46.19:797][393]UATHelper: 打包 (Windows): Excluding config file E:\Program Files\Epic Games\UE_5.3\Engine\Config\Localization\PortableObjectExport.ini
+[2024.02.17-17.46.19:797][393]UATHelper: 打包 (Windows): Excluding config file E:\Program Files\Epic Games\UE_5.3\Engine\Config\Localization\PortableObjectImport.ini
+[2024.02.17-17.46.19:797][393]UATHelper: 打包 (Windows): Excluding config file E:\Program Files\Epic Games\UE_5.3\Engine\Config\Localization\PropertyNames.ini
+[2024.02.17-17.46.19:797][393]UATHelper: 打包 (Windows): Excluding config file E:\Program Files\Epic Games\UE_5.3\Engine\Config\Localization\RepairData.ini
+[2024.02.17-17.46.19:797][393]UATHelper: 打包 (Windows): Excluding config file E:\Program Files\Epic Games\UE_5.3\Engine\Config\Localization\ToolTips.ini
+[2024.02.17-17.46.19:797][393]UATHelper: 打包 (Windows): Excluding config file E:\Program Files\Epic Games\UE_5.3\Engine\Config\Localization\WordCount.ini
+[2024.02.17-17.46.19:797][393]UATHelper: 打包 (Windows): Including config file E:\Program Files\Epic Games\UE_5.3\Engine\Config\VulkanPC\DataDrivenPlatformInfo.ini
+[2024.02.17-17.46.19:797][393]UATHelper: 打包 (Windows): Including config file E:\Program Files\Epic Games\UE_5.3\Engine\Config\Windows\BaseWindowsEngine.ini
+[2024.02.17-17.46.19:797][393]UATHelper: 打包 (Windows): Including config file E:\Program Files\Epic Games\UE_5.3\Engine\Config\Windows\DataDrivenPlatformInfo.ini
+[2024.02.17-17.46.19:797][393]UATHelper: 打包 (Windows): Excluding config file E:\Program Files\Epic Games\UE_5.3\Engine\Config\Windows\WindowsEditorPerProjectUserSettings.ini
+[2024.02.17-17.46.19:797][393]UATHelper: 打包 (Windows): Including config file E:\Program Files\Epic Games\UE_5.3\Engine\Config\Windows\WindowsEngine.ini
+[2024.02.17-17.46.19:797][393]UATHelper: 打包 (Windows): Including config file E:\Program Files\Epic Games\UE_5.3\Engine\Config\Windows\WindowsGame.ini
+[2024.02.17-17.46.19:797][393]UATHelper: 打包 (Windows): Including config file E:\Program Files\Epic Games\UE_5.3\Engine\Config\Windows\WindowsInput.ini
+[2024.02.17-17.46.19:797][393]UATHelper: 打包 (Windows): Excluding config file D:\UEProjects\MyProjects\KCardGameProject\Config\DefaultEditor.ini
+[2024.02.17-17.46.19:797][393]UATHelper: 打包 (Windows): Including config file D:\UEProjects\MyProjects\KCardGameProject\Config\DefaultEngine.ini
+[2024.02.17-17.46.19:797][393]UATHelper: 打包 (Windows): Including config file D:\UEProjects\MyProjects\KCardGameProject\Config\DefaultGame.ini
+[2024.02.17-17.46.19:797][393]UATHelper: 打包 (Windows): Including config file D:\UEProjects\MyProjects\KCardGameProject\Config\DefaultInput.ini
+[2024.02.17-17.46.19:892][405]UATHelper: 打包 (Windows): Cleaning Stage Directory: D:\UEProjects\MyProjects\KCardGameProject\Saved\StagedBuilds\Windows
+[2024.02.17-17.46.19:923][408]UATHelper: 打包 (Windows): Creating pak using staging manifest.
+[2024.02.17-17.46.19:923][408]UATHelper: 打包 (Windows): DumpManifest: C:\Users\Administrator\AppData\Roaming\Unreal Engine\AutomationTool\Logs\E+Program+Files+Epic+Games+UE_5.3\PrePak_Windows_NonUFSFiles.txt, NumItems: 21
+[2024.02.17-17.46.19:923][408]UATHelper: 打包 (Windows): DumpManifest: C:\Users\Administrator\AppData\Roaming\Unreal Engine\AutomationTool\Logs\E+Program+Files+Epic+Games+UE_5.3\PrePak_Windows_NonUFSFilesDebug.txt, NumItems: 8
+[2024.02.17-17.46.19:923][408]UATHelper: 打包 (Windows): DumpManifest: C:\Users\Administrator\AppData\Roaming\Unreal Engine\AutomationTool\Logs\E+Program+Files+Epic+Games+UE_5.3\PrePak_Windows_UFSFiles.txt, NumItems: 8894
+[2024.02.17-17.46.20:071][426]UATHelper: 打包 (Windows): No matching platform for PakFileRules for Section ExcludeContentForMobile : Windows
+[2024.02.17-17.46.20:103][430]UATHelper: 打包 (Windows): Using 0 pak order files:
+[2024.02.17-17.46.20:134][434]UATHelper: 打包 (Windows): Running: E:\Program Files\Epic Games\UE_5.3\Engine\Binaries\Win64\UnrealPak.exe "D:\UEProjects\MyProjects\KCardGameProject\KCardGameProject.uproject"  -cryptokeys="D:\UEProjects\MyProjects\KCardGameProject\Saved\Cooked\Windows\KCardGameProject\Metadata\Crypto.json" -patchpaddingalign=2048 -compressionformats=Oodle -compresslevel=4 -compressmethod=Kraken  -platform=Windows  -CreateMultiple="C:\Users\Administrator\AppData\Roaming\Unreal Engine\AutomationTool\Logs\E+Program+Files+Epic+Games+UE_5.3\PakCommands.txt"
+[2024.02.17-17.46.20:304][446]UATHelper: 打包 (Windows): LogPakFile: Display: Parsing crypto keys from a crypto key cache file
+[2024.02.17-17.46.20:304][446]UATHelper: 打包 (Windows): LogPakFile: Display: CompressionFormats in priority order: Oodle, Zlib
+[2024.02.17-17.46.20:304][446]UATHelper: 打包 (Windows): LogPakFile: Display: Oodle enabled on 'NoPluginCompression' files
+[2024.02.17-17.46.20:304][446]UATHelper: 打包 (Windows): LogPakFile: Display: Loading response file E:\Program Files\Epic Games\UE_5.3\Engine\Programs\AutomationTool\Saved\ResponseFiles\PakList_KCardGameProject-Windows.txt
+[2024.02.17-17.46.20:304][446]UATHelper: 打包 (Windows): LogPakFile: Display: Added 1534 entries to add to pak file.
+[2024.02.17-17.46.20:317][446]UATHelper: 打包 (Windows): LogPakFile: Display: Collecting files to add to pak file...
+[2024.02.17-17.46.20:317][446]UATHelper: 打包 (Windows): LogPakFile: Display: Collected 1534 files in 0.01s.
+[2024.02.17-17.46.20:317][446]UATHelper: 打包 (Windows): LogPakFile: Display: Creating pak D:\UEProjects\MyProjects\KCardGameProject\Saved\StagedBuilds\Windows\KCardGameProject\Content\Paks\KCardGameProject-Windows.pak.
+[2024.02.17-17.46.20:391][446]UATHelper: 打包 (Windows): OodleDataCompression: Display: Oodle v2.9.10 format for pak/iostore with method=Kraken, level=4=Normal
+[2024.02.17-17.46.20:401][446]UATHelper: 打包 (Windows): LogPakFile: Display: Created pak file: D:\UEProjects\MyProjects\KCardGameProject\Saved\StagedBuilds\Windows\KCardGameProject\Content\Paks\KCardGameProject-Windows.pak
+[2024.02.17-17.46.20:401][446]UATHelper: 打包 (Windows): LogPakFile: Display: CompressionFormat 0 [Oodle] : 333 files, 29759509 -> 12048629 bytes
+[2024.02.17-17.46.20:401][446]UATHelper: 打包 (Windows): LogPakFile: Display: CompressionFormat 2 [None] : 1201 files, 711360 -> 711360 bytes
+[2024.02.17-17.46.20:401][446]UATHelper: 打包 (Windows): LogPakFile: Display: Added 1534 files, 13355057 bytes total
+[2024.02.17-17.46.20:401][446]UATHelper: 打包 (Windows): LogPakFile: Display: PrimaryIndex size: 21594 bytes
+[2024.02.17-17.46.20:402][446]UATHelper: 打包 (Windows): LogPakFile: Display: PathHashIndex size: 45346 bytes
+[2024.02.17-17.46.20:402][446]UATHelper: 打包 (Windows): LogPakFile: Display: FullDirectoryIndex size: 48446 bytes
+[2024.02.17-17.46.20:402][446]UATHelper: 打包 (Windows): LogPakFile: Display: Compression summary: 40.49% of original size. Compressed Size 12048629 bytes, Original Size 29759509 bytes.
+[2024.02.17-17.46.20:402][446]UATHelper: 打包 (Windows): LogPakFile: Display: Encryption - DISABLED
+[2024.02.17-17.46.20:402][446]UATHelper: 打包 (Windows): LogPakFile: Display:
+[2024.02.17-17.46.20:402][446]UATHelper: 打包 (Windows): LogPakFile: Display: Writer and Compression Threads exited.
+[2024.02.17-17.46.20:444][446]UATHelper: 打包 (Windows): LogPakFile: Display: UnrealPak executed in 0.095704 seconds
+[2024.02.17-17.46.20:444][446]UATHelper: 打包 (Windows): Took 0.31s to run UnrealPak.exe, ExitCode=0
+[2024.02.17-17.46.20:444][446]UATHelper: 打包 (Windows): Running UnrealPak with arguments: -CreateGlobalContainer="D:\UEProjects\MyProjects\KCardGameProject\Saved\StagedBuilds\Windows\KCardGameProject\Content\Paks\global.utoc" -CookedDirectory="D:\UEProjects\MyProjects\KCardGameProject\Saved\Cooked\Windows" -PackageStoreManifest="D:\UEProjects\MyProjects\KCardGameProject\Saved\Cooked\Windows\KCardGameProject\Metadata\packagestore.manifest" -Commands="C:\Users\Administrator\AppData\Roaming\Unreal Engine\AutomationTool\Logs\E+Program+Files+Epic+Games+UE_5.3\IoStoreCommands.txt" -ScriptObjects="D:\UEProjects\MyProjects\KCardGameProject\Saved\Cooked\Windows\KCardGameProject\Metadata\scriptobjects.bin" -patchpaddingalign=2048 -compressionformats=Oodle -compresslevel=4 -compressmethod=Kraken   -cryptokeys="D:\UEProjects\MyProjects\KCardGameProject\Saved\Cooked\Windows\KCardGameProject\Metadata\Crypto.json" -compressionMinBytesSaved=1024 -compressionMinPercentSaved=5 -WriteBackMetadataToAssetRegistry=Disabled 
+[2024.02.17-17.46.20:444][446]UATHelper: 打包 (Windows): Running: E:\Program Files\Epic Games\UE_5.3\Engine\Binaries\Win64\UnrealPak.exe -CreateGlobalContainer="D:\UEProjects\MyProjects\KCardGameProject\Saved\StagedBuilds\Windows\KCardGameProject\Content\Paks\global.utoc" -CookedDirectory="D:\UEProjects\MyProjects\KCardGameProject\Saved\Cooked\Windows" -PackageStoreManifest="D:\UEProjects\MyProjects\KCardGameProject\Saved\Cooked\Windows\KCardGameProject\Metadata\packagestore.manifest" -Commands="C:\Users\Administrator\AppData\Roaming\Unreal Engine\AutomationTool\Logs\E+Program+Files+Epic+Games+UE_5.3\IoStoreCommands.txt" -ScriptObjects="D:\UEProjects\MyProjects\KCardGameProject\Saved\Cooked\Windows\KCardGameProject\Metadata\scriptobjects.bin" -patchpaddingalign=2048 -compressionformats=Oodle -compresslevel=4 -compressmethod=Kraken   -cryptokeys="D:\UEProjects\MyProjects\KCardGameProject\Saved\Cooked\Windows\KCardGameProject\Metadata\Crypto.json" -compressionMinBytesSaved=1024 -compressionMinPercentSaved=5 -WriteBackMetadataToAssetRegistry=Disabled
+[2024.02.17-17.46.20:685][447]UATHelper: 打包 (Windows): LogIoStore: Display: ==================== IoStore Utils ====================
+[2024.02.17-17.46.20:685][447]UATHelper: 打包 (Windows): LogIoStore: Display: Parsing crypto keys from a crypto key cache file 'D:\UEProjects\MyProjects\KCardGameProject\Saved\Cooked\Windows\KCardGameProject\Metadata\Crypto.json'
+[2024.02.17-17.46.20:685][447]UATHelper: 打包 (Windows): LogIoStore: Display: Container signing - DISABLED
+[2024.02.17-17.46.20:685][447]UATHelper: 打包 (Windows): LogIoStore: Display: Directory index - ENABLED
+[2024.02.17-17.46.20:685][447]UATHelper: 打包 (Windows): LogIoStore: Display: Using compression format 'Oodle'
+[2024.02.17-17.46.20:685][447]UATHelper: 打包 (Windows): LogIoStore: Display: Using memory mapping alignment '16384'
+[2024.02.17-17.46.20:685][447]UATHelper: 打包 (Windows): LogIoStore: Display: Using compression block size '65536'
+[2024.02.17-17.46.20:685][447]UATHelper: 打包 (Windows): LogIoStore: Display: Using compression block alignment '2048'
+[2024.02.17-17.46.20:685][447]UATHelper: 打包 (Windows): LogIoStore: Display: Using compression min bytes saved '1024'
+[2024.02.17-17.46.20:685][447]UATHelper: 打包 (Windows): LogIoStore: Display: Using compression min percent saved '5'
+[2024.02.17-17.46.20:685][447]UATHelper: 打包 (Windows): LogIoStore: Display: Using max partition size '0'
+[2024.02.17-17.46.20:685][447]UATHelper: 打包 (Windows): LogIoStore: Display: Not using DDC for compression
+[2024.02.17-17.46.20:685][447]UATHelper: 打包 (Windows): LogIoStore: Display: Using command list file: 'C:\Users\Administrator\AppData\Roaming\Unreal Engine\AutomationTool\Logs\E+Program+Files+Epic+Games+UE_5.3\IoStoreCommands.txt'
+[2024.02.17-17.46.20:696][447]UATHelper: 打包 (Windows): LogIoStore: Display: Selected Oodle level 4 (Normal) from command line for shaders
+[2024.02.17-17.46.20:706][447]UATHelper: 打包 (Windows): LogIoStore: Display: Searching for cooked assets in folder 'D:\UEProjects\MyProjects\KCardGameProject\Saved\Cooked\Windows'
+[2024.02.17-17.46.20:717][447]UATHelper: 打包 (Windows): LogIoStore: Display: Found '7364' files
+[2024.02.17-17.46.20:717][447]UATHelper: 打包 (Windows): LogIoStore: Display: Using input asset registry: D:\UEProjects\MyProjects\KCardGameProject\Saved\Cooked\Windows/KCardGameProject/Metadata/DevelopmentAssetRegistry.bin
+[2024.02.17-17.46.20:727][447]UATHelper: 打包 (Windows): LogIoStore: Display: Added 166 hashes to the hash database, init took 0.000099 seconds
+[2024.02.17-17.46.20:738][447]UATHelper: 打包 (Windows): LogIoStore: Display: Creating container targets...
+[2024.02.17-17.46.20:769][447]UATHelper: 打包 (Windows): OodleDataCompression: Display: Oodle v2.9.10 format for pak/iostore with method=Kraken, level=4=Normal
+[2024.02.17-17.46.20:769][447]UATHelper: 打包 (Windows): LogIoStore: Display: Parsing packages...
+[2024.02.17-17.46.20:769][447]UATHelper: 打包 (Windows): LogIoStore: Display: Reading package assets...
+[2024.02.17-17.46.20:782][447]UATHelper: 打包 (Windows): LogIoStore: Display: Reading 1000/3595: 'D:/UEProjects/MyProjects/KCardGameProject/Saved/Cooked/Windows/Engine/Content/EngineMaterials/Substrate/Glints2/dict_0000_0222.uasset'
+[2024.02.17-17.46.20:782][447]UATHelper: 打包 (Windows): LogIoStore: Display: Reading 2000/3595: 'D:/UEProjects/MyProjects/KCardGameProject/Saved/Cooked/Windows/Engine/Content/EngineMaterials/Substrate/GLints/dict_16_192_64_0p5_0p02_0019_0001.uasset'
+[2024.02.17-17.46.20:782][447]UATHelper: 打包 (Windows): LogIoStore: Display: Reading 3000/3595: 'D:/UEProjects/MyProjects/KCardGameProject/Saved/Cooked/Windows/Engine/Content/EngineMaterials/Substrate/Glints2/dict_0007_0085.uasset'
+[2024.02.17-17.46.20:794][447]UATHelper: 打包 (Windows): LogIoStore: Display: Packages read 3,595 files in 0.02 seconds, 4,191,193 total bytes, 239,518,641 bytes per second
+[2024.02.17-17.46.20:794][447]UATHelper: 打包 (Windows): LogIoStore: Display: Processing shader libraries, compressing with Oodle Mermaid, level 4 (Normal)
+[2024.02.17-17.46.20:846][447]UATHelper: 打包 (Windows): LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 329 groups (119 of them didn't need new indices), average uncompressed size 157809 bytes, min 172 bytes, max 1026946 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2024.02.17-17.46.20:846][447]UATHelper: 打包 (Windows): LogIoStore: Display: Global-PCD3D_SM5(PCD3D_SM5): Recompressed 3539 shaders as 329 groups. Library size changed from 12101 KB (4.19 : 1 ratio) to 5740 KB (8.83 : 1 ratio), 47.43% of previous.
+[2024.02.17-17.46.21:271][449]UATHelper: 打包 (Windows): LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 404 groups (129 of them didn't need new indices), average uncompressed size 303250 bytes, min 2166 bytes, max 1033458 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2024.02.17-17.46.21:271][449]UATHelper: 打包 (Windows): LogIoStore: Display: Global-PCD3D_SM6(PCD3D_SM6): Recompressed 4161 shaders as 404 groups. Library size changed from 75590 KB (1.58 : 1 ratio) to 42126 KB (2.84 : 1 ratio), 55.73% of previous.
+[2024.02.17-17.46.21:292][449]UATHelper: 打包 (Windows): LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 138 groups (49 of them didn't need new indices), average uncompressed size 101172 bytes, min 436 bytes, max 823829 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2024.02.17-17.46.21:292][449]UATHelper: 打包 (Windows): LogIoStore: Display: KCardGameProject-PCD3D_SM5(PCD3D_SM5): Recompressed 1255 shaders as 138 groups. Library size changed from 3804 KB (3.58 : 1 ratio) to 1269 KB (10.74 : 1 ratio), 33.36% of previous.
+[2024.02.17-17.46.21:509][449]UATHelper: 打包 (Windows): LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 173 groups (45 of them didn't need new indices), average uncompressed size 389218 bytes, min 4086 bytes, max 1041076 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2024.02.17-17.46.21:509][449]UATHelper: 打包 (Windows): LogIoStore: Display: KCardGameProject-PCD3D_SM6(PCD3D_SM6): Recompressed 1489 shaders as 173 groups. Library size changed from 37908 KB (1.73 : 1 ratio) to 24535 KB (2.68 : 1 ratio), 64.72% of previous.
+[2024.02.17-17.46.21:509][449]UATHelper: 打包 (Windows): LogIoStore: Display: Shaders processed in 0.72 seconds
+[2024.02.17-17.46.21:509][449]UATHelper: 打包 (Windows): LogIoStore: Display: Processing redirects...
+[2024.02.17-17.46.21:520][449]UATHelper: 打包 (Windows): LogIoStore: Display: Creating disk layout...
+[2024.02.17-17.46.21:520][449]UATHelper: 打包 (Windows): LogIoStore: Display: Ordered 3595 packages using fallback bundle order
+[2024.02.17-17.46.21:930][451]UATHelper: 打包 (Windows): LogIoStore: Display: Serializing container(s)...
+[2024.02.17-17.46.21:930][451]UATHelper: 打包 (Windows): LogIoStore: Display: Writing and compressing took 0.33 seconds, writes to disk took 0.09 seconds for 166,264,304 bytes @ 1,930,264,571 bytes per second.
+[2024.02.17-17.46.21:930][451]UATHelper: 打包 (Windows): LogIoStore: Display: global: Found perfect hashmap for 1 items.
+[2024.02.17-17.46.22:025][451]UATHelper: 打包 (Windows): LogIoStore: Display: KCardGameProject-Windows: Found perfect hashmap for 4808 items.
+[2024.02.17-17.46.22:025][451]UATHelper: 打包 (Windows): LogIoStore: Display: Finalize took 0.1 seconds for 2 writers to write 564,381 bytes, 6,097,382 bytes per second
+[2024.02.17-17.46.22:025][451]UATHelper: 打包 (Windows): LogIoStore: Display: 166 / 4,809 hashes were loaded from the hash database, by type:
+[2024.02.17-17.46.22:025][451]UATHelper: 打包 (Windows): LogIoStore: Display:     BulkData                   166
+[2024.02.17-17.46.22:025][451]UATHelper: 打包 (Windows): LogIoStore: Display: 3,761 / 4,809 chunks attempted to compress, by type:
+[2024.02.17-17.46.22:025][451]UATHelper: 打包 (Windows): LogIoStore: Display:     ExportBundleData           3,595 / 3,595
+[2024.02.17-17.46.22:025][451]UATHelper: 打包 (Windows): LogIoStore: Display:     BulkData                   166 / 166
+[2024.02.17-17.46.22:025][451]UATHelper: 打包 (Windows): LogIoStore: Display:     ScriptObjects              0 / 1
+[2024.02.17-17.46.22:025][451]UATHelper: 打包 (Windows): LogIoStore: Display:     ContainerHeader            0 / 1
+[2024.02.17-17.46.22:025][451]UATHelper: 打包 (Windows): LogIoStore: Display:     ShaderCodeLibrary          0 / 4
+[2024.02.17-17.46.22:025][451]UATHelper: 打包 (Windows): LogIoStore: Display:     ShaderCode                 0 / 1,042
+[2024.02.17-17.46.22:025][451]UATHelper: 打包 (Windows): LogIoStore: Display: Source bytes read:
+[2024.02.17-17.46.22:025][451]UATHelper: 打包 (Windows): LogIoStore: Display:     Zen:                                  0
+[2024.02.17-17.46.22:025][451]UATHelper: 打包 (Windows): LogIoStore: Display:     Loose File:                 518,925,720
+[2024.02.17-17.46.22:025][451]UATHelper: 打包 (Windows): LogIoStore: Display:         ExportBundleData        444,142,522 bytes over 7,190 reads
+[2024.02.17-17.46.22:025][451]UATHelper: 打包 (Windows): LogIoStore: Display:         BulkData                 74,783,198 bytes over 166 reads
+[2024.02.17-17.46.22:025][451]UATHelper: 打包 (Windows): LogIoStore: Display:     Memory:                     151,701,136
+[2024.02.17-17.46.22:025][451]UATHelper: 打包 (Windows): LogIoStore: Display:         ShaderCodeLibrary           857,880 bytes over 8 reads
+[2024.02.17-17.46.22:025][451]UATHelper: 打包 (Windows): LogIoStore: Display:         ShaderCode              150,843,256 bytes over 2,084 reads
+[2024.02.17-17.46.22:025][451]UATHelper: 打包 (Windows): LogIoStore: Display: Calculating stats...
+[2024.02.17-17.46.22:025][451]UATHelper: 打包 (Windows): LogIoStore: Display: --------------------------------------------------- IoDispatcher --------------------------------------------------------
+[2024.02.17-17.46.22:025][451]UATHelper: 打包 (Windows): LogIoStore: Display:
+[2024.02.17-17.46.22:025][451]UATHelper: 打包 (Windows): LogIoStore: Display: Container                           Flags   TOC Size (KB)     TOC Entries       Size (MB)           Compressed (MB)
+[2024.02.17-17.46.22:025][451]UATHelper: 打包 (Windows): LogIoStore: Display: -------------------------------------------------------------------------------------------------------------------------
+[2024.02.17-17.46.22:025][451]UATHelper: 打包 (Windows): LogIoStore: Display: global                          -/-/-/-/-            0.56               1            1.93                         -
+[2024.02.17-17.46.22:025][451]UATHelper: 打包 (Windows): LogIoStore: Display: KCardGameProject-Windows        C/-/-/I/-          550.59            4808          360.13     156.63 (56.51% Oodle)
+[2024.02.17-17.46.22:025][451]UATHelper: 打包 (Windows): LogIoStore: Display: TOTAL                                              551.15            4809          362.06                         -
+[2024.02.17-17.46.22:025][451]UATHelper: 打包 (Windows): LogIoStore: Display:
+[2024.02.17-17.46.22:025][451]UATHelper: 打包 (Windows): LogIoStore: Display: ** Flags: (C)ompressed / (E)ncrypted / (S)igned) / (I)ndexed) / (O)nDemand **
+[2024.02.17-17.46.22:025][451]UATHelper: 打包 (Windows): LogIoStore: Display:
+[2024.02.17-17.46.22:025][451]UATHelper: 打包 (Windows): LogIoStore: Display: Compression block padding:     2.38 MB
+[2024.02.17-17.46.22:025][451]UATHelper: 打包 (Windows): LogIoStore: Display:
+[2024.02.17-17.46.22:025][451]UATHelper: 打包 (Windows): LogIoStore: Display: -------------------------------------------- Container Directory Index --------------------------------------------------
+[2024.02.17-17.46.22:025][451]UATHelper: 打包 (Windows): LogIoStore: Display: Container                            Size (KB)
+[2024.02.17-17.46.22:025][451]UATHelper: 打包 (Windows): LogIoStore: Display: global                                    0.00
+[2024.02.17-17.46.22:025][451]UATHelper: 打包 (Windows): LogIoStore: Display: KCardGameProject-Windows                165.42
+[2024.02.17-17.46.22:025][451]UATHelper: 打包 (Windows): LogIoStore: Display:
+[2024.02.17-17.46.22:025][451]UATHelper: 打包 (Windows): LogIoStore: Display: ---------------------------------------------- Container Patch Report ---------------------------------------------------
+[2024.02.17-17.46.22:025][451]UATHelper: 打包 (Windows): LogIoStore: Display: Container                         Total (count) Modified (count)    Added (count)    Modified (MB)       Added (MB)
+[2024.02.17-17.46.22:025][451]UATHelper: 打包 (Windows): LogIoStore: Display: global                                        1                0                0             0.00             0.00
+[2024.02.17-17.46.22:026][451]UATHelper: 打包 (Windows): LogIoStore: Display: KCardGameProject-Windows                   4808                0             4808             0.00           154.26
+[2024.02.17-17.46.22:026][451]UATHelper: 打包 (Windows): LogIoStore: Display:
+[2024.02.17-17.46.22:026][451]UATHelper: 打包 (Windows): LogIoStore: Display:
+[2024.02.17-17.46.22:026][451]UATHelper: 打包 (Windows): LogIoStore: Display: --------------------------------------------------- PackageStore (KB) ---------------------------------------------------
+[2024.02.17-17.46.22:026][451]UATHelper: 打包 (Windows): LogIoStore: Display:
+[2024.02.17-17.46.22:026][451]UATHelper: 打包 (Windows): LogIoStore: Display: Container                                Store Size             Packages            Localized
+[2024.02.17-17.46.22:026][451]UATHelper: 打包 (Windows): LogIoStore: Display: -------------------------------------------------------------------------------------------------------------------------
+[2024.02.17-17.46.22:026][451]UATHelper: 打包 (Windows): LogIoStore: Display: KCardGameProject-Windows                         64                 3595                    0
+[2024.02.17-17.46.22:026][451]UATHelper: 打包 (Windows): LogIoStore: Display: TOTAL                                            64                 3595                    0
+[2024.02.17-17.46.22:035][451]UATHelper: 打包 (Windows): LogIoStore: Display:
+[2024.02.17-17.46.22:035][451]UATHelper: 打包 (Windows): LogIoStore: Display:
+[2024.02.17-17.46.22:035][451]UATHelper: 打包 (Windows): LogIoStore: Display: Input:      3595 Packages
+[2024.02.17-17.46.22:035][451]UATHelper: 打包 (Windows): LogIoStore: Display: Input:      0.21 GB UExp
+[2024.02.17-17.46.22:035][451]UATHelper: 打包 (Windows): LogIoStore: Display: Input:      0.00 GB UAsset
+[2024.02.17-17.46.22:035][451]UATHelper: 打包 (Windows): LogIoStore: Display: Input:      0.07 GB UBulk
+[2024.02.17-17.46.22:035][451]UATHelper: 打包 (Windows): LogIoStore: Display: Input:     46.74 MB for 733 Global shaders
+[2024.02.17-17.46.22:035][451]UATHelper: 打包 (Windows): LogIoStore: Display: Input:      2.99 MB for 120 Shared shaders
+[2024.02.17-17.46.22:035][451]UATHelper: 打包 (Windows): LogIoStore: Display: Input:      0.00 MB for 0 Unique shaders
+[2024.02.17-17.46.22:035][451]UATHelper: 打包 (Windows): LogIoStore: Display: Input:     22.19 MB for 189 Inline shaders
+[2024.02.17-17.46.22:035][451]UATHelper: 打包 (Windows): LogIoStore: Display:
+[2024.02.17-17.46.22:035][451]UATHelper: 打包 (Windows): LogIoStore: Display: Output:    17686 Name map entries
+[2024.02.17-17.46.22:035][451]UATHelper: 打包 (Windows): LogIoStore: Display: Output:      581 Imported package entries
+[2024.02.17-17.46.22:035][451]UATHelper: 打包 (Windows): LogIoStore: Display: Output:     3388 Packages without imports
+[2024.02.17-17.46.22:035][451]UATHelper: 打包 (Windows): LogIoStore: Display: Output:        0 Public runtime script objects
+[2024.02.17-17.46.22:035][451]UATHelper: 打包 (Windows): LogIoStore: Display: Output:     0.00 GB HeaderData
+[2024.02.17-17.46.22:035][451]UATHelper: 打包 (Windows): LogIoStore: Display: Output:     1.93 MB InitialLoadData
+[2024.02.17-17.46.22:035][451]UATHelper: 打包 (Windows): LogIoStore: Display:
+[2024.02.17-17.46.22:067][451]UATHelper: 打包 (Windows): LogPakFile: Display: UnrealPak executed in 1.344191 seconds
+[2024.02.17-17.46.22:067][451]UATHelper: 打包 (Windows): Took 1.62s to run UnrealPak.exe, ExitCode=0
+[2024.02.17-17.46.22:067][451]UATHelper: 打包 (Windows): DumpManifest: C:\Users\Administrator\AppData\Roaming\Unreal Engine\AutomationTool\Logs\E+Program+Files+Epic+Games+UE_5.3\FinalCopyWin64_UFSFiles.txt, NumItems: 8895
+[2024.02.17-17.46.22:078][451]UATHelper: 打包 (Windows): DumpManifest: C:\Users\Administrator\AppData\Roaming\Unreal Engine\AutomationTool\Logs\E+Program+Files+Epic+Games+UE_5.3\FinalCopyWin64_NonUFSFiles.txt, NumItems: 21
+[2024.02.17-17.46.22:078][451]UATHelper: 打包 (Windows): DumpManifest: C:\Users\Administrator\AppData\Roaming\Unreal Engine\AutomationTool\Logs\E+Program+Files+Epic+Games+UE_5.3\FinalCopyWin64_NonUFSFilesDebug.txt, NumItems: 8
+[2024.02.17-17.46.22:078][451]UATHelper: 打包 (Windows): Copying NonUFSFiles to staging directory: D:\UEProjects\MyProjects\KCardGameProject\Saved\StagedBuilds\Windows
+[2024.02.17-17.46.27:799][468]UATHelper: 打包 (Windows): Copying DebugFiles to staging directory: D:\UEProjects\MyProjects\KCardGameProject\Saved\StagedBuilds\Windows
+[2024.02.17-17.46.39:389][503]UATHelper: 打包 (Windows): Stage command time: 19.67 s
+[2024.02.17-17.46.39:389][503]UATHelper: 打包 (Windows): ********** STAGE COMMAND COMPLETED **********
+[2024.02.17-17.46.39:399][503]UATHelper: 打包 (Windows): ********** PACKAGE COMMAND STARTED **********
+[2024.02.17-17.46.39:399][503]UATHelper: 打包 (Windows): Package command time: 0.00 s
+[2024.02.17-17.46.39:399][503]UATHelper: 打包 (Windows): ********** PACKAGE COMMAND COMPLETED **********
+[2024.02.17-17.46.39:399][503]UATHelper: 打包 (Windows): ********** ARCHIVE COMMAND STARTED **********
+[2024.02.17-17.46.39:399][503]UATHelper: 打包 (Windows): Archiving to D:/ProjectsOutput/UE
+[2024.02.17-17.46.39:935][505]UATHelper: 打包 (Windows): Archive command time: 0.54 s
+[2024.02.17-17.46.39:935][505]UATHelper: 打包 (Windows): ********** ARCHIVE COMMAND COMPLETED **********
+[2024.02.17-17.46.39:935][505]UATHelper: 打包 (Windows): BuildCookRun time: 37.48 s
+[2024.02.17-17.46.39:935][505]UATHelper: 打包 (Windows): BUILD SUCCESSFUL
+[2024.02.17-17.46.39:935][505]UATHelper: 打包 (Windows): AutomationTool executed for 0h 0m 38s
+[2024.02.17-17.46.39:935][505]UATHelper: 打包 (Windows): AutomationTool exiting with ExitCode=0 (Success)
+[2024.02.17-17.54.57:668][246]LogDerivedDataCache: C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:12.123 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 6786 files in 8038 folders with total size 569 MiB.
+[2024.02.17-18.02.31:274][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.02.17-18.02.31:276][368]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.17-18.02.31:310][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Player/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Player/WBP_HUD.uasset" SILENT=true
+[2024.02.17-18.02.31:389][368]LogSavePackage: Moving output files for package: /Game/Buleprints/Player/WBP_HUD
+[2024.02.17-18.02.31:390][368]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUD0A7BA4D948F4C868CBD118A948D137CB.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Player/WBP_HUD.uasset'
+[2024.02.17-18.02.31:400][368]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 475 ms)
+[2024.02.17-18.02.31:403][368]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.02.17-18.02.31:403][368]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Player/WBP_HUD.WBP_HUD
+[2024.02.17-18.02.32:402][486]BlueprintLog: New page: 编译WBP_HUD
+[2024.02.17-18.02.32:462][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.02.17-18.02.36:155][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.02.17-18.02.36:576][957]BlueprintLog: New page: 编译WBP_HUD
+[2024.02.17-18.02.36:629][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.02.17-18.02.42:512][623]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Buleprints/Player/WBP_GameOver.WBP_GameOver
+[2024.02.17-18.02.42:513][623]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.17-18.02.42:513][623]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.17-18.02.42:517][623]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.17-18.02.42:517][623]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.17-18.02.45:000][899]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.02.17-18.02.45:000][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.17-18.02.45:005][899]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.02.17-18.02.45:005][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.17-18.04.29:467][548]AssetReimport: New page: 出色的源内容修改上午10:04:29
+[2024.02.17-18.04.29:473][548]LogCSVImportFactory: Imported DataTable 'DT_CardOptions' - 0 Problems
+[2024.02.17-18.04.29:485][548]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.02.17-18.04.29:501][549]LogCSVImportFactory: Imported DataTable 'DT_CardLogic' - 0 Problems
+[2024.02.17-18.04.29:503][549]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.17-18.04.29:580][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/DT_CardOptions" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/DT_CardOptions.uasset" SILENT=true
+[2024.02.17-18.04.29:583][549]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/DT_CardOptions
+[2024.02.17-18.04.29:583][549]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/DT_CardOptions554070484A08B429B738F6A5A785EFB5.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/DT_CardOptions.uasset'
+[2024.02.17-18.04.29:584][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Cards/DT_CardLogic" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/DT_CardLogic.uasset" SILENT=true
+[2024.02.17-18.04.29:586][549]LogSavePackage: Moving output files for package: /Game/Buleprints/Cards/DT_CardLogic
+[2024.02.17-18.04.29:586][549]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/DT_CardLogic424F03104F068BF055DD379AAB26C762.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Cards/DT_CardLogic.uasset'
+[2024.02.17-18.04.29:628][549]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 599 ms)
+[2024.02.17-18.04.29:646][550]AssetCheck: New page: 资产保存：多个资产
+[2024.02.17-18.04.29:646][550]LogContentValidation: Display: 正在验证/Script/Engine.DataTable /Game/Buleprints/Cards/DT_CardOptions.DT_CardOptions
+[2024.02.17-18.04.29:646][550]LogContentValidation: Display: 正在验证/Script/Engine.DataTable /Game/Buleprints/Cards/DT_CardLogic.DT_CardLogic
+[2024.02.17-18.04.32:631][883]AssetReimport: 从D:/UEProjects/MyProjects/KCardGameProject/Content/Configs/JsonFiles/卡牌选项表.json重新导入资产DT_CardOptions。
+[2024.02.17-18.04.32:631][883]AssetReimport: 从D:/UEProjects/MyProjects/KCardGameProject/Content/Configs/JsonFiles/卡牌逻辑表.json重新导入资产DT_CardLogic。
+[2024.02.17-18.04.36:437][331]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.17-18.04.36:474][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Menus/Map_StartMenu" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Maps/Menus/Map_StartMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.17-18.04.36:502][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.02.17-18.04.36:506][331]LogSavePackage: Moving output files for package: /Game/Maps/Menus/Map_StartMenu
+[2024.02.17-18.04.36:506][331]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/Map_StartMenu2D6AD4FB4408F92563299297E7C82A87.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Maps/Menus/Map_StartMenu.umap'
+[2024.02.17-18.04.36:510][331]LogFileHelpers: Saving map 'Map_StartMenu' took 0.036
+[2024.02.17-18.04.36:520][331]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 681 ms)
+[2024.02.17-18.04.36:521][331]AssetCheck: New page: 资产保存：Map_StartMenu
+[2024.02.17-18.04.36:521][331]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/Maps/Menus/Map_StartMenu.Map_StartMenu
+[2024.02.17-18.04.38:901][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.02.17-18.04.47:148][592]LogDebuggerCommands: Repeating last play command: 新建编辑器窗口（PIE）
+[2024.02.17-18.04.47:153][592]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.17-18.04.47:153][592]PIE: New page: PIE会话：Map_StartMenu（2024年2月18日 上午10:04:47）
+[2024.02.17-18.04.47:153][592]LogPlayLevel: Display: Creating online subsystem for client :Context_21
+[2024.02.17-18.04.47:155][592]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2024.02.17-18.04.47:161][593]LogPlayLevel: Creating play world package: /Game/Maps/Menus/UEDPIE_0_Map_StartMenu
+[2024.02.17-18.04.47:161][593]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000665s)
+[2024.02.17-18.04.47:161][593]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Menus/Map_StartMenu.Map_StartMenu to /Game/Maps/Menus/UEDPIE_0_Map_StartMenu.Map_StartMenu (0.000700s)
+[2024.02.17-18.04.47:167][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.02.17-18.04.47:168][593]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.17-18.04.47:168][593]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.17-18.04.47:169][593]LogAIModule: Creating AISystem for world Map_StartMenu
+[2024.02.17-18.04.47:169][593]LogPlayLevel: PIE: World Init took: (0.000779s)
+[2024.02.17-18.04.47:169][593]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.02.17-18.04.47:169][593]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.17-18.04.47:169][593]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.17-18.04.47:169][593]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.17-18.04.47:169][593]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.17-18.04.47:169][593]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.17-18.04.47:169][593]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.17-18.04.47:169][593]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.17-18.04.47:169][593]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.17-18.04.47:169][593]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.17-18.04.47:169][593]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.17-18.04.47:169][593]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.17-18.04.47:171][593]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.17-18.04.47:208][593]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (Realtek(R) Audio)
+[2024.02.17-18.04.47:208][593]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.17-18.04.47:209][593]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.17-18.04.47:209][593]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.17-18.04.47:209][593]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.02.17-18.04.47:209][593]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.02.17-18.04.47:211][593]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.02.17-18.04.47:211][593]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.02.17-18.04.47:211][593]LogInit: FAudioDevice initialized with ID 8.
+[2024.02.17-18.04.47:211][593]LogAudio: Display: Audio Device (ID: 8) registered with world 'Map_StartMenu'.
+[2024.02.17-18.04.47:211][593]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.02.17-18.04.47:235][593]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.17-18.04.47:236][593]LogLoad: Game class is 'KCGPGameModeBase_C'
+[2024.02.17-18.04.47:236][593]LogWorld: Bringing World /Game/Maps/Menus/UEDPIE_0_Map_StartMenu.Map_StartMenu up for play (max tick rate 0) at 2024.02.18-02.04.47
+[2024.02.17-18.04.47:236][593]LogWorld: Bringing up level for play took: 0.000388
+[2024.02.17-18.04.47:239][593]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.17-18.04.47:239][593]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.02.17-18.04.47:239][593]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.02.17-18.04.47:240][593]PIE: 登陆的服务器
+[2024.02.17-18.04.47:242][593]PIE: PIE总开始时间：0.089秒。
+[2024.02.17-18.04.47:255][593]LogViewport: Scene viewport resized to 2554x1352, mode Windowed.
+[2024.02.17-18.04.49:597][867]LogNet: Browse: /Game/Maps/Player/Map_Player
+[2024.02.17-18.04.49:598][867]LogLoad: LoadMap: /Game/Maps/Player/Map_Player
+[2024.02.17-18.04.49:598][867]LogWorld: BeginTearingDown for /Game/Maps/Menus/UEDPIE_0_Map_StartMenu
+[2024.02.17-18.04.49:598][867]LogWorld: UWorld::CleanupWorld for Map_StartMenu, bSessionEnded=true, bCleanupResources=true
+[2024.02.17-18.04.49:598][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.17-18.04.49:647][867]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.17-18.04.49:648][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.02.17-18.04.49:661][867]LogAudio: Display: Audio Device (ID: 8) registered with world 'Map_Player'.
+[2024.02.17-18.04.49:661][867]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.17-18.04.49:661][867]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.17-18.04.49:661][867]LogAIModule: Creating AISystem for world Map_Player
+[2024.02.17-18.04.49:661][867]LogPlayLevel: PIE: World Init took: (0.000591s)
+[2024.02.17-18.04.49:661][867]LogLoad: Game class is 'KCGPGameModeBase_C'
+[2024.02.17-18.04.49:662][867]LogWorld: Bringing World /Game/Maps/Player/UEDPIE_0_Map_Player.Map_Player up for play (max tick rate 0) at 2024.02.18-02.04.49
+[2024.02.17-18.04.49:662][867]LogWorld: Bringing up level for play took: 0.000876
+[2024.02.17-18.04.49:663][867]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.02.17-18.04.49:665][867]LogElectraPlayer: [000007B5C1558500] FElectraPlayer() created.
+[2024.02.17-18.04.49:665][867]LogElectraPlayerPlugin: [000007B5FE928000] IMediaPlayer::Open: Options@000007B5A6395A30
+[2024.02.17-18.04.49:668][867]LogElectraPlayer: [000007B5C1558500][000007B6041B9AD0] IMediaPlayer::Open(file://D:/UEProjects/MyProjects/KCardGameProject/Content/Movies/YSKeLi.mp4)
+[2024.02.17-18.04.49:668][867]LogElectraPlayerPlugin: [000007B5FE928000] IMediaControls::SetRate(0.000000)
+[2024.02.17-18.04.49:668][867]LogLoad: Took 0.070557 seconds to LoadMap(/Game/Maps/Player/Map_Player)
+[2024.02.17-18.04.49:684][868]LogElectraPlayer: [000007B5C1558500][000007B6041B9AD0] Opening stream at "file://D:/UEProjects/MyProjects/KCardGameProject/Content/Movies/YSKeLi.mp4"
+[2024.02.17-18.04.49:895][892]LogElectraPlayer: [000007B5C1558500][000007B6041B9AD0] MP4 playlist reader: The mp4 at "file://D:/UEProjects/MyProjects/KCardGameProject/Content/Movies/YSKeLi.mp4" is not fast-startable. Consider moving the 'moov' box in front of the 'mdat' for faster startup times.
+[2024.02.17-18.04.49:895][892]LogElectraPlayer: [000007B5C1558500][000007B6041B9AD0] Received master playlist from "file://D:/UEProjects/MyProjects/KCardGameProject/Content/Movies/YSKeLi.mp4"
+[2024.02.17-18.04.49:895][892]LogElectraPlayer: [000007B5C1558500][000007B6041B9AD0] Received initial stream playlists
+[2024.02.17-18.04.49:895][892]LogElectraPlayer: [000007B5C1558500][000007B6041B9AD0] Found 1920 * 1080 video stream at bitrate 5207812
+[2024.02.17-18.04.49:895][892]LogElectraPlayerPlugin: [000007B5FE928000] IMediaControls::SetRate(1.000000)
+[2024.02.17-18.04.49:903][893]LogElectraPlayer: [000007B5C1558500][000007B6041B9AD0] Initial buffering starts
+[2024.02.17-18.04.49:903][893]LogElectraPlayer: [000007B5C1558500][000007B6041B9AD0] Player switched video quality to 5207812 bps from 0 bps. 0 upswitches, 0 downswitches (0 drastic ones)
+[2024.02.17-18.04.49:937][897]LogElectraPlayer: [000007B5C1558500][000007B6041B9AD0] Initial buffering ended after 0.034s
+[2024.02.17-18.04.49:937][897]LogElectraPlayer: [000007B5C1558500][000007B6041B9AD0] Player starts prerolling to warm decoders and renderers
+[2024.02.17-18.04.50:067][912]LogElectraPlayer: [000007B5C1558500][000007B6041B9AD0] Player prerolling complete
+[2024.02.17-18.04.50:091][915]LogElectraPlayer: [000007B5C1558500][000007B6041B9AD0] Playback started at play position 0.000
+[2024.02.17-18.04.50:091][915]LogElectraPlayer: [000007B5C1558500][000007B6041B9AD0] Playback resumed at play position 0.000
+[2024.02.17-18.04.52:192][165]LogScript: Warning: Script Msg: Attempted to swap elements [0] and [16] in array 需要洗牌的卡组. Available index range: [0 15)!
+[2024.02.17-18.04.52:192][165]LogScript: Warning: Script Msg called by: WBP_CardHand_C /Engine/Transient.UnrealEdEngine_0:GI_GlobalManager_C_6.WBP_HUD_C_0.WidgetTree_0.发牌区域控件
+[2024.02.17-18.04.52:193][165]LogScript: Warning: Script Msg: Attempted to swap elements [14] and [16] in array 需要洗牌的卡组. Available index range: [0 15)!
+[2024.02.17-18.04.52:193][165]LogScript: Warning: Script Msg called by: WBP_CardHand_C /Engine/Transient.UnrealEdEngine_0:GI_GlobalManager_C_6.WBP_HUD_C_0.WidgetTree_0.发牌区域控件
+[2024.02.17-18.04.52:193][165]LogScript: Warning: Script Msg: Attempted to swap elements [15] and [16] in array 需要洗牌的卡组. Available index range: [0 15)!
+[2024.02.17-18.04.52:193][165]LogScript: Warning: Script Msg called by: WBP_CardHand_C /Engine/Transient.UnrealEdEngine_0:GI_GlobalManager_C_6.WBP_HUD_C_0.WidgetTree_0.发牌区域控件
+[2024.02.17-18.05.07:751][ 11]LogElectraPlayer: [000007B5C1558500][000007B6041B9AD0] IMediaPlayer::Close()
+[2024.02.17-18.05.07:751][ 11]LogElectraPlayer: [000007B5C1558500][000007B6041B9AD0] Playback stopped. Last play position 17.706
+[2024.02.17-18.05.07:751][ 11]LogElectraPlayer: [000007B5C1558500][000007B6041B9AD0] Electra player statistics:
+OS: Windows 11 (22H2) [10.0.22621.3007]
+GPU Adapter: NVIDIA GeForce RTX 4070 Ti
+URL: file://D:/UEProjects/MyProjects/KCardGameProject/Content/Movies/YSKeLi.mp4
+Time after master playlist loaded: 0.211s
+Time after stream playlists loaded: 0.211s
+Time for initial buffering: 0.034s
+Initial video stream bitrate: 5207812 bps
+Initial buffering bandwidth bps: 778035294.118
+Initial buffering latency: 0.000s
+Time for initial preroll: 0.131s
+Number of times moved forward: 0
+Number of times moved backward: 0
+Number of times looped: 0
+Number of times rebuffered: 0
+Total time spent rebuffering: 0.000s
+Longest rebuffering time: 0.000s
+First media timeline start: 0.000s
+First media timeline end: 126.699s
+Last media timeline start: 0.000s
+Last media timeline end: 126.699s
+Media duration: 126.699s
+Play position at start: 0.000s
+Play position at end: 17.706s
+Number of quality upswitches: 0
+Number of quality downswitches: 0
+Number of drastic downswitches: 0
+Bytes of video data streamed: 13770687
+Bytes of audio data streamed: 0
+Number of segments fetched across all quality levels:
+5207812 : 7
+Currently active playlist URL: 1
+Currently active resolution: 1920 * 1080
+Current state: Playing
+Last issue: 
+
+[2024.02.17-18.05.07:754][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.17-18.05.07:754][ 11]LogWorld: BeginTearingDown for /Game/Maps/Player/UEDPIE_0_Map_Player
+[2024.02.17-18.05.07:754][ 11]LogSlate: Window 'KCardGameProject 预览 [NetMode: Standalone 0]  （64-bit/PC D3D SM6）' being destroyed
+[2024.02.17-18.05.07:759][ 11]LogWorld: UWorld::CleanupWorld for Map_Player, bSessionEnded=true, bCleanupResources=true
+[2024.02.17-18.05.07:759][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.17-18.05.07:763][ 11]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.17-18.05.07:765][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.17-18.05.07:772][ 11]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.02.17-18.05.07:772][ 11]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.02.17-18.05.07:773][ 11]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.02.17-18.05.07:779][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.02.17-18.05.07:794][ 12]LogElectraPlayer: [000007B5C1558500] ~FElectraPlayer() finished.
+[2024.02.17-18.05.07:813][ 14]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.02.17-18.05.07:847][ 17]LogElectraPlayer: [000007B6041B9AD0] DoCloseAsync() finished after 95.669 msec!
+[2024.02.17-18.05.16:098][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.02.17-18.05.16:102][992]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.17-18.05.16:132][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Player/WBP_HUD" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Player/WBP_HUD.uasset" SILENT=true
+[2024.02.17-18.05.16:213][992]LogSavePackage: Moving output files for package: /Game/Buleprints/Player/WBP_HUD
+[2024.02.17-18.05.16:213][992]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_HUDE03873C145FD3D370E16C9A5956E6D8E.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Player/WBP_HUD.uasset'
+[2024.02.17-18.05.16:222][992]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 802 ms)
+[2024.02.17-18.05.16:225][992]AssetCheck: New page: 资产保存：WBP_HUD
+[2024.02.17-18.05.16:225][992]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Player/WBP_HUD.WBP_HUD
+[2024.02.17-18.05.16:901][ 72]BlueprintLog: New page: 编译WBP_HUD
+[2024.02.17-18.05.16:958][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
