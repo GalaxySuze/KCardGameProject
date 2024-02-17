@@ -1187,3 +1187,910 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.17-09.21.00:132][ 73]LogSlateStyle: Warning: 缺失来自“CoreStyle”的资源 样式：“未能找到Slate颜色“Foreground”。”
 [2024.02.17-09.21.00:132][ 73]LogSlate: Took 0.000530 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
 [2024.02.17-09.23.02:786][498]LogDerivedDataCache: C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:11.142 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 6466 files in 7713 folders with total size 555 MiB.
+[2024.02.17-09.26.35:321][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.02.17-09.26.47:111][747]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.17-09.26.47:122][747]LogShaderCompilers: Display: ================================================
+[2024.02.17-09.26.47:122][747]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.17-09.26.47:122][747]LogShaderCompilers: Display: Total job queries 2, among them cache hits 0 (0.00%)
+[2024.02.17-09.26.47:122][747]LogShaderCompilers: Display: Tracking 2 distinct input hashes that result in 2 distinct outputs (100.00%)
+[2024.02.17-09.26.47:122][747]LogShaderCompilers: Display: RAM used: 8.80 KiB of 3.20 GiB budget. Usage: 0.00%
+[2024.02.17-09.26.47:122][747]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.17-09.26.47:122][747]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.02.17-09.26.47:122][747]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.02.17-09.26.47:122][747]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.02.17-09.26.47:122][747]LogShaderCompilers: Display: ================================================
+[2024.02.17-09.27.16:041][150]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/UI/Loading/M_RadialCut.M_RadialCut
+[2024.02.17-09.27.16:045][150]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.17-09.27.16:045][150]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.17-09.27.16:170][150]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+[2024.02.17-09.27.16:170][150]MaterialEditorStats: Default UI Vertex Shader: 0 instructions
+[2024.02.17-09.27.16:170][150]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+[2024.02.17-09.27.16:170][150]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.17-09.27.16:170][150]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.02.17-09.27.16:170][150]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.17-09.27.16:170][150]MaterialEditorStats: Shader Count: 0
+[2024.02.17-09.27.16:243][153]MaterialEditorStats: Default UI Pixel Shader: 50 instructions
+[2024.02.17-09.27.16:244][153]MaterialEditorStats: Default UI Vertex Shader: 47 instructions
+[2024.02.17-09.27.16:244][153]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+[2024.02.17-09.27.16:244][153]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.17-09.27.16:244][153]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.02.17-09.27.16:244][153]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.17-09.27.16:244][153]MaterialEditorStats: Shader Count: 2
+[2024.02.17-09.27.18:282][381]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.02.17-09.27.18:282][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.17-09.27.21:950][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.02.17-09.27.23:779][814]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.17-09.27.23:799][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.02.17-09.27.23:806][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.02.17-09.27.23:813][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.02.17-09.27.25:454][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.02.17-09.27.27:973][  7]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.17-09.27.33:355][648]LogLinker: Warning: [AssetLog] D:\UEProjects\MyProjects\KCardGameProject\Content\UI\Loading\WB_LoadingScreenImg.uasset: 未能加载“/Game/Resources/Textures/Background/bg04”：无法找到文件。
+[2024.02.17-09.27.33:355][648]LogLinker: Warning: [AssetLog] D:\UEProjects\MyProjects\KCardGameProject\Content\UI\Loading\WB_LoadingScreenImg.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Resources/Textures/Background/bg04'
+[2024.02.17-09.27.33:359][648]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Loading/WB_LoadingScreenImg.WB_LoadingScreenImg
+[2024.02.17-09.27.33:359][648]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.17-09.27.33:359][648]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.17-09.27.33:363][648]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.17-09.27.33:363][648]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.17-09.27.37:474][126]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.02.17-09.27.37:474][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.17-09.27.37:479][126]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.02.17-09.27.37:479][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.17-09.27.39:549][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.02.17-09.27.40:319][364]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.17-09.27.40:338][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.02.17-09.27.40:344][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.02.17-09.27.40:350][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.02.17-09.27.48:757][361]LogLinker: Warning: [AssetLog] D:\UEProjects\MyProjects\KCardGameProject\Content\UI\Loading\WB_LoadingScreen.uasset: 未能加载“/Game/Resources/Textures/Background/bg01”：无法找到文件。
+[2024.02.17-09.27.48:757][361]LogLinker: Warning: [AssetLog] D:\UEProjects\MyProjects\KCardGameProject\Content\UI\Loading\WB_LoadingScreen.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Resources/Textures/Background/bg01'
+[2024.02.17-09.27.48:762][361]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Loading/WB_LoadingScreen.WB_LoadingScreen
+[2024.02.17-09.27.48:762][361]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.17-09.27.48:762][361]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.17-09.27.48:766][361]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.17-09.27.48:766][361]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.17-09.27.54:952][ 87]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.02.17-09.27.54:952][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.17-09.27.54:957][ 87]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.02.17-09.27.54:957][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.17-09.28.19:583][289]LogViewport: Scene viewport resized to 1896x359, mode Windowed.
+[2024.02.17-09.28.19:594][290]LogViewport: Scene viewport resized to 1896x360, mode Windowed.
+[2024.02.17-09.28.19:621][291]LogViewport: Scene viewport resized to 1896x371, mode Windowed.
+[2024.02.17-09.28.19:639][292]LogViewport: Scene viewport resized to 1896x377, mode Windowed.
+[2024.02.17-09.28.19:665][293]LogViewport: Scene viewport resized to 1896x389, mode Windowed.
+[2024.02.17-09.28.19:689][294]LogViewport: Scene viewport resized to 1896x410, mode Windowed.
+[2024.02.17-09.28.19:717][295]LogViewport: Scene viewport resized to 1896x444, mode Windowed.
+[2024.02.17-09.28.19:745][296]LogViewport: Scene viewport resized to 1896x463, mode Windowed.
+[2024.02.17-09.28.19:772][297]LogViewport: Scene viewport resized to 1896x478, mode Windowed.
+[2024.02.17-09.28.19:801][298]LogViewport: Scene viewport resized to 1896x496, mode Windowed.
+[2024.02.17-09.28.19:826][299]LogViewport: Scene viewport resized to 1896x515, mode Windowed.
+[2024.02.17-09.28.19:856][300]LogViewport: Scene viewport resized to 1896x531, mode Windowed.
+[2024.02.17-09.28.19:884][301]LogViewport: Scene viewport resized to 1896x544, mode Windowed.
+[2024.02.17-09.28.19:910][302]LogViewport: Scene viewport resized to 1896x550, mode Windowed.
+[2024.02.17-09.28.19:939][303]LogViewport: Scene viewport resized to 1896x551, mode Windowed.
+[2024.02.17-09.28.20:047][314]LogViewport: Scene viewport resized to 1896x552, mode Windowed.
+[2024.02.17-09.28.20:059][315]LogViewport: Scene viewport resized to 1896x555, mode Windowed.
+[2024.02.17-09.28.20:082][316]LogViewport: Scene viewport resized to 1896x560, mode Windowed.
+[2024.02.17-09.28.20:107][317]LogViewport: Scene viewport resized to 1896x568, mode Windowed.
+[2024.02.17-09.28.20:125][318]LogViewport: Scene viewport resized to 1896x572, mode Windowed.
+[2024.02.17-09.28.20:153][319]LogViewport: Scene viewport resized to 1896x575, mode Windowed.
+[2024.02.17-09.28.20:168][320]LogViewport: Scene viewport resized to 1896x579, mode Windowed.
+[2024.02.17-09.28.20:194][321]LogViewport: Scene viewport resized to 1896x585, mode Windowed.
+[2024.02.17-09.28.20:211][322]LogViewport: Scene viewport resized to 1896x590, mode Windowed.
+[2024.02.17-09.28.20:239][323]LogViewport: Scene viewport resized to 1896x597, mode Windowed.
+[2024.02.17-09.28.20:267][324]LogViewport: Scene viewport resized to 1896x600, mode Windowed.
+[2024.02.17-09.28.23:164][660]LogViewport: Scene viewport resized to 598x189, mode Windowed.
+[2024.02.17-09.28.24:085][747]LogViewport: Scene viewport resized to 598x189, mode Windowed.
+[2024.02.17-09.28.24:956][828]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.17-09.28.35:000][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.02.17-09.28.36:635][925]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.17-09.28.37:370][995]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/UI/Scene/M_PlayerScene.M_PlayerScene
+[2024.02.17-09.28.37:373][995]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.17-09.28.37:373][995]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.17-09.28.37:470][995]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.17-09.28.37:470][995]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.02.17-09.28.37:470][995]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.17-09.28.37:470][995]MaterialEditorStats: Shader Count: 0
+[2024.02.17-09.28.37:473][995]LogViewport: Scene viewport resized to 504x624, mode Windowed.
+[2024.02.17-09.28.37:603][997]MaterialEditorStats: Base pass shader without light map: 122 instructions
+[2024.02.17-09.28.37:603][997]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.02.17-09.28.37:603][997]MaterialEditorStats: Texture samplers: 3/16
+[2024.02.17-09.28.37:603][997]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.02.17-09.28.37:603][997]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.17-09.28.37:603][997]MaterialEditorStats: Shader Count: 2
+[2024.02.17-09.28.40:530][341]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.02.17-09.28.40:530][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.17-09.28.47:620][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.02.17-09.28.49:033][156]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.17-09.28.49:054][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.02.17-09.28.49:061][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.02.17-09.28.49:071][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.02.17-09.28.59:626][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.02.17-09.29.02:587][384]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.17-09.29.05:553][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.02.17-09.29.07:024][727]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.17-09.29.07:928][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.02.17-09.29.08:868][827]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.17-09.29.09:486][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.02.17-09.29.10:582][896]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.17-09.29.19:920][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.02.17-09.29.21:541][978]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.17-09.29.21:560][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.02.17-09.29.21:567][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.02.17-09.29.21:575][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.02.17-09.29.22:662][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.02.17-09.29.23:456][ 95]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.17-09.29.23:475][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.02.17-09.29.23:482][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.02.17-09.29.23:493][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.02.17-09.29.24:387][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.02.17-09.29.25:379][189]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.17-09.29.25:398][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.02.17-09.29.25:405][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.02.17-09.29.25:412][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.02.17-09.29.26:439][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.02.17-09.29.28:018][302]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.17-09.29.29:751][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.02.17-09.29.30:704][501]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.17-09.29.30:724][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.02.17-09.29.30:734][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.02.17-09.29.30:740][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.02.17-09.29.31:588][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.02.17-09.29.42:768][599]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.17-09.29.42:774][599]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Buleprints/Cards/WBP_CardOptionPanel.WBP_CardOptionPanel
+[2024.02.17-09.29.42:774][599]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.17-09.29.42:774][599]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.17-09.29.42:781][599]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.17-09.29.42:781][599]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.17-09.29.47:749][177]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.02.17-09.29.47:750][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.17-09.29.47:754][177]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.02.17-09.29.47:754][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.17-09.29.51:263][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.02.17-09.29.55:484][584]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.17-09.29.56:230][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.02.17-09.29.57:966][666]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.17-09.29.58:623][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.02.17-09.30.02:735][741]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.17-09.30.09:367][522]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/UI/WCards/DT_Cards.DT_Cards
+[2024.02.17-09.30.22:133][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.02.17-09.30.22:136][ 41]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.17-09.30.22:170][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WCards/DT_Cards" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/UI/WCards/DT_Cards.uasset" SILENT=true
+[2024.02.17-09.30.22:175][ 41]LogPackageLocalizationCache: Processed 46 localized package path(s) for 2 prioritized culture(s) in 0.004446 seconds
+[2024.02.17-09.30.22:176][ 41]LogSavePackage: Moving output files for package: /Game/UI/WCards/DT_Cards
+[2024.02.17-09.30.22:176][ 41]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/DT_Cards014E8D31495D5B93CE16C8865F22BDB0.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/UI/WCards/DT_Cards.uasset'
+[2024.02.17-09.30.22:183][ 41]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms
+[2024.02.17-09.30.22:184][ 41]AssetCheck: New page: 资产保存：DT_Cards
+[2024.02.17-09.30.22:185][ 41]LogContentValidation: Display: 正在验证/Script/Engine.DataTable /Game/UI/WCards/DT_Cards.DT_Cards
+[2024.02.17-09.30.42:420][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.02.17-09.30.43:585][272]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.17-09.30.44:785][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.02.17-09.30.45:890][405]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.17-09.30.46:590][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.02.17-09.30.47:464][482]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.17-09.30.48:145][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.02.17-09.30.49:331][557]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.17-09.30.50:015][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.02.17-09.30.50:804][631]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.17-09.30.51:406][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.02.17-09.30.52:374][696]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.17-09.30.53:070][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.02.17-09.30.54:548][770]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.17-09.30.55:361][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.02.17-09.30.56:936][860]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.17-09.30.57:846][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.02.17-09.30.58:800][959]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.17-09.30.59:295][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.02.17-09.30.59:878][ 11]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.17-09.31.00:421][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.02.17-09.31.02:483][ 70]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.17-09.31.03:659][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.02.17-09.31.05:844][201]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.17-09.31.18:031][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.02.17-09.31.20:536][578]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.17-09.31.20:597][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.02.17-09.31.20:605][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.02.17-09.31.20:612][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.02.17-09.31.30:243][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.02.17-09.31.31:238][694]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.17-09.31.31:314][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.02.17-09.31.31:324][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.02.17-09.31.31:331][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.02.17-09.31.32:166][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.02.17-09.31.33:058][786]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.17-09.31.33:832][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.02.17-09.31.34:969][873]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.17-09.32.45:545][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.02.17-09.32.46:935][755]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.17-09.32.55:917][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.02.17-09.32.59:109][809]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.17-09.32.59:117][809]LogAssetEditorSubsystem: Opening Asset editor for ObjectRedirector /Game/Resources/Textures/Frame/UI_Frame04.UI_Frame04
+[2024.02.17-09.33.04:644][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.02.17-09.33.08:820][450]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.17-09.33.14:604][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.02.17-09.33.17:095][125]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.17-09.33.17:116][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.02.17-09.33.17:122][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.02.17-09.33.17:129][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.02.17-09.33.22:137][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.02.17-09.33.26:194][710]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.17-09.33.30:757][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.02.17-09.33.33:277][236]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.02.17-09.34.13:149][236]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.17-09.34.13:154][236]LogAssetEditorSubsystem: Opening Asset editor for ObjectRedirector /Game/Resources/Textures/Frame/UI_Frame04.UI_Frame04
+[2024.02.17-09.34.39:021][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.02.17-09.34.40:109][258]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.17-09.34.40:128][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.02.17-09.34.40:135][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.02.17-09.34.40:142][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.02.17-09.34.43:695][678]LogContentBrowser: Attempting asset rename: 16cff1c00f651f98427fc3fbab7fc855_1013342926215826750 -> 16cff1c00f651f98427fc3fbab7fc855_1013342926215826750
+[2024.02.17-09.34.47:615][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.02.17-09.34.48:558][142]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.17-09.34.48:565][142]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Buleprints/Player/WBP_RoundStartPrompt.WBP_RoundStartPrompt
+[2024.02.17-09.34.48:565][142]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.17-09.34.48:566][142]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.17-09.34.48:571][142]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.17-09.34.48:571][142]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.17-09.34.51:648][486]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.02.17-09.34.51:648][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.17-09.34.51:653][486]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.02.17-09.34.51:653][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.17-09.35.03:863][934]LogContentBrowser: Attempting asset rename: 16cff1c00f651f98427fc3fbab7fc855_1013342926215826750 -> UI_KeliCharacters
+[2024.02.17-09.35.03:888][934]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.17-09.35.03:921][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buleprints/Player/WBP_RoundStartPrompt" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Player/WBP_RoundStartPrompt.uasset" SILENT=true
+[2024.02.17-09.35.03:933][934]LogSavePackage: Moving output files for package: /Game/Buleprints/Player/WBP_RoundStartPrompt
+[2024.02.17-09.35.03:933][934]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/WBP_RoundStartPromptA6E48FD841C0B4F81AAA88ACD7D0D6BA.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Buleprints/Player/WBP_RoundStartPrompt.uasset'
+[2024.02.17-09.35.03:942][934]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Characters/UI_KeliCharacters
+[2024.02.17-09.35.03:942][934]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/UI_KeliCharacters24AC45354E797497D361098CA30C6CC3.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Characters/UI_KeliCharacters.uasset'
+[2024.02.17-09.35.03:951][934]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 111 ms)
+[2024.02.17-09.35.03:965][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.02.17-09.35.03:973][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.02.17-09.35.03:980][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.02.17-09.35.03:982][934]AssetCheck: New page: 资产保存：多个资产
+[2024.02.17-09.35.03:982][934]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/Buleprints/Player/WBP_RoundStartPrompt.WBP_RoundStartPrompt
+[2024.02.17-09.35.03:982][934]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Characters/UI_KeliCharacters.UI_KeliCharacters
+[2024.02.17-09.35.06:774][263]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.17-09.35.06:805][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Player/Map_Player" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Maps/Player/Map_Player.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.17-09.35.06:823][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.02.17-09.35.06:830][263]LogSavePackage: Moving output files for package: /Game/Maps/Player/Map_Player
+[2024.02.17-09.35.06:831][263]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/Map_PlayerD145981B41AE104A0D001094543F6612.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Maps/Player/Map_Player.umap'
+[2024.02.17-09.35.06:835][263]LogFileHelpers: Saving map 'Map_Player' took 0.030
+[2024.02.17-09.35.06:843][263]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 179 ms)
+[2024.02.17-09.35.06:844][263]AssetCheck: New page: 资产保存：Map_Player
+[2024.02.17-09.35.06:844][263]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/Maps/Player/Map_Player.Map_Player
+[2024.02.17-09.35.08:353][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.02.17-09.35.21:560][959]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Resources/Textures/Background/bg1.bg1
+[2024.02.17-09.35.21:636][959]LogViewport: Scene viewport resized to 1905x1250, mode Windowed.
+[2024.02.17-09.36.12:531][485]LogTexture: Display: 正在构建纹理：/Game/Resources/Textures/Background/bg1.bg1 （TFO_AutoDXT, 2560x1440 x1x1x1）（预计所需内存：260.6875 MB），编码速度：Final
+[2024.02.17-09.36.19:173][282]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.17-09.36.19:205][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Background/bg1" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Background/bg1.uasset" SILENT=true
+[2024.02.17-09.36.19:221][282]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Background/bg1
+[2024.02.17-09.36.19:221][282]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/bg19FF568BE4E4A9174A621C68D379888F9.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Background/bg1.uasset'
+[2024.02.17-09.36.19:229][282]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 235 ms)
+[2024.02.17-09.36.19:231][282]AssetCheck: New page: 资产保存：bg1
+[2024.02.17-09.36.19:231][282]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Background/bg1.bg1
+[2024.02.17-09.36.32:285][837]LogTexture: Display: 正在构建纹理：/Game/Resources/Textures/Background/bg1.bg1 （TFO_AutoDXT, 2560x1440 x1x1x1）（预计所需内存：260.6875 MB），编码速度：Final
+[2024.02.17-09.36.51:812][179]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.17-09.36.51:849][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Background/bg1" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Background/bg1.uasset" SILENT=true
+[2024.02.17-09.36.51:864][179]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Background/bg1
+[2024.02.17-09.36.51:864][179]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/bg12C2D2FDE4ED7F4B4CE7169BAEDDF3FD3.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Background/bg1.uasset'
+[2024.02.17-09.36.51:871][179]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 295 ms)
+[2024.02.17-09.36.51:873][179]AssetCheck: New page: 资产保存：bg1
+[2024.02.17-09.36.51:873][179]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Background/bg1.bg1
+[2024.02.17-09.37.06:406][872]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Resources/Textures/Frame/UI_Mask01.UI_Mask01
+[2024.02.17-09.37.06:476][872]LogViewport: Scene viewport resized to 1905x1250, mode Windowed.
+[2024.02.17-09.37.23:106][852]LogTexture: Display: 正在构建纹理：/Game/Resources/Textures/Frame/UI_Mask01.UI_Mask01 （TFO_AutoDXT, 2048x1080 x1x1x1）（预计所需内存：196.9375 MB），编码速度：Final
+[2024.02.17-09.37.26:102][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.02.17-09.37.26:104][210]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.17-09.37.26:141][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Frame/UI_Mask01" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Frame/UI_Mask01.uasset" SILENT=true
+[2024.02.17-09.37.26:155][210]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Frame/UI_Mask01
+[2024.02.17-09.37.26:156][210]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/UI_Mask01DCB399E244694E8DA4EAB48E9167A1B2.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Frame/UI_Mask01.uasset'
+[2024.02.17-09.37.26:165][210]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 355 ms)
+[2024.02.17-09.37.26:166][210]AssetCheck: New page: 资产保存：UI_Mask01
+[2024.02.17-09.37.26:166][210]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Frame/UI_Mask01.UI_Mask01
+[2024.02.17-09.37.40:728][881]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Resources/Textures/Cards/一切智慧具足之城.一切智慧具足之城
+[2024.02.17-09.37.40:791][881]LogViewport: Scene viewport resized to 1905x1250, mode Windowed.
+[2024.02.17-09.37.55:310][310]LogViewport: Scene viewport resized to 1905x1250, mode Windowed.
+[2024.02.17-09.38.01:781][ 77]LogViewport: Scene viewport resized to 1905x1250, mode Windowed.
+[2024.02.17-09.51.22:427][867]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Resources/Textures/Cards/一切智慧具足之城.一切智慧具足之城
+[2024.02.17-09.51.22:489][867]LogViewport: Scene viewport resized to 1905x1250, mode Windowed.
+[2024.02.17-09.51.30:846][858]LogTexture: Display: 正在构建纹理：/Game/Resources/Textures/Cards/一切智慧具足之城.一切智慧具足之城 （TFO_AutoDXT, 1024x512 x1x1x1）（预计所需内存：84.604147 MB），编码速度：Final
+[2024.02.17-09.51.59:882][165]LogTexture: Display: 正在构建纹理：/Game/Resources/Textures/Cards/代官司寝子大人的居所.代官司寝子大人的居所 （TFO_AutoDXT, 1024x512 x1x1x1）（预计所需内存：84.604147 MB），编码速度：Final
+[2024.02.17-09.51.59:886][165]LogTexture: Display: 正在构建纹理：/Game/Resources/Textures/Cards/千船万商云集之地.千船万商云集之地 （TFO_AutoDXT, 1024x512 x1x1x1）（预计所需内存：84.604147 MB），编码速度：Final
+[2024.02.17-09.51.59:892][165]LogTexture: Display: 正在构建纹理：/Game/Resources/Textures/Cards/双树控扼的港湾.双树控扼的港湾 （TFO_AutoDXT, 1024x512 x1x1x1）（预计所需内存：84.604147 MB），编码速度：Final
+[2024.02.17-09.51.59:895][165]LogTexture: Display: 正在构建纹理：/Game/Resources/Textures/Cards/厄里那斯深处的风景.厄里那斯深处的风景 （TFO_AutoDXT, 1024x512 x1x1x1）（预计所需内存：84.604147 MB），编码速度：Final
+[2024.02.17-09.51.59:896][165]LogTexture: Display: 正在构建纹理：/Game/Resources/Textures/Cards/守护神像的湖泽.守护神像的湖泽 （TFO_AutoDXT, 1024x512 x1x1x1）（预计所需内存：84.604147 MB），编码速度：Final
+[2024.02.17-09.51.59:897][165]LogTexture: Display: 正在构建纹理：/Game/Resources/Textures/Cards/影向山鸣神大社.影向山鸣神大社 （TFO_AutoDXT, 1024x512 x1x1x1）（预计所需内存：84.604147 MB），编码速度：Final
+[2024.02.17-09.51.59:898][165]LogTexture: Display: 正在构建纹理：/Game/Resources/Textures/Cards/悠古的千风神殿.悠古的千风神殿 （TFO_AutoDXT, 1024x512 x1x1x1）（预计所需内存：84.604147 MB），编码速度：Final
+[2024.02.17-09.51.59:899][165]LogTexture: Display: 正在构建纹理：/Game/Resources/Textures/Cards/归离城墟.归离城墟 （TFO_AutoDXT, 1024x512 x1x1x1）（预计所需内存：84.604147 MB），编码速度：Final
+[2024.02.17-09.51.59:899][165]LogTexture: Display: 正在构建纹理：/Game/Resources/Textures/Cards/层岩巨渊.层岩巨渊 （TFO_AutoDXT, 1024x512 x1x1x1）（预计所需内存：84.604147 MB），编码速度：Final
+[2024.02.17-09.51.59:943][165]LogTexture: Display: 正在构建纹理：/Game/Resources/Textures/Cards/水仙十字王国.水仙十字王国 （TFO_AutoDXT, 1024x512 x1x1x1）（预计所需内存：84.604147 MB），编码速度：Final
+[2024.02.17-09.51.59:943][165]LogTexture: Display: 正在构建纹理：/Game/Resources/Textures/Cards/曙光初照的庄园.曙光初照的庄园 （TFO_AutoDXT, 1024x512 x1x1x1）（预计所需内存：84.604147 MB），编码速度：Final
+[2024.02.17-09.51.59:949][165]LogTexture: Display: 正在构建纹理：/Game/Resources/Textures/Cards/永恒宁静的乐园.永恒宁静的乐园 （BGRA8, 1024x511 x1x1x1）（预计所需内存：15.365879 MB），编码速度：Final
+[2024.02.17-09.51.59:949][165]LogTexture: Display: 正在构建纹理：/Game/Resources/Textures/Cards/法留纳法宝.法留纳法宝 （TFO_AutoDXT, 1024x512 x1x1x1）（预计所需内存：84.604147 MB），编码速度：Final
+[2024.02.17-09.51.59:951][165]LogTexture: Display: 正在构建纹理：/Game/Resources/Textures/Cards/海沫之乡.海沫之乡 （TFO_AutoDXT, 1024x512 x1x1x1）（预计所需内存：84.604147 MB），编码速度：Final
+[2024.02.17-09.51.59:951][165]LogTexture: Display: 正在构建纹理：/Game/Resources/Textures/Cards/沙暴不息的达马山.沙暴不息的达马山 （BGRA8, 1024x511 x1x1x1）（预计所需内存：15.365879 MB），编码速度：Final
+[2024.02.17-09.51.59:951][165]LogTexture: Display: 正在构建纹理：/Game/Resources/Textures/Cards/流逐之海.流逐之海 （TFO_AutoDXT, 1024x512 x1x1x1）（预计所需内存：84.604147 MB），编码速度：Final
+[2024.02.17-09.51.59:951][165]LogTexture: Display: 正在构建纹理：/Game/Resources/Textures/Cards/沉思的花园.沉思的花园 （TFO_AutoDXT, 1024x512 x1x1x1）（预计所需内存：84.604147 MB），编码速度：Final
+[2024.02.17-09.51.59:951][165]LogTexture: Display: 正在构建纹理：/Game/Resources/Textures/Cards/水泽荻原.水泽荻原 （TFO_AutoDXT, 1024x512 x1x1x1）（预计所需内存：84.604147 MB），编码速度：Final
+[2024.02.17-09.51.59:997][165]LogTexture: Display: 正在构建纹理：/Game/Resources/Textures/Cards/源水之国.源水之国 （TFO_AutoDXT, 1024x512 x1x1x1）（预计所需内存：84.604147 MB），编码速度：Final
+[2024.02.17-09.51.59:997][165]LogTexture: Display: 正在构建纹理：/Game/Resources/Textures/Cards/清泉静流之地.清泉静流之地 （TFO_AutoDXT, 1024x512 x1x1x1）（预计所需内存：84.604147 MB），编码速度：Final
+[2024.02.17-09.52.00:002][165]LogTexture: Display: 正在构建纹理：/Game/Resources/Textures/Cards/甘露滋养的归巢.甘露滋养的归巢 （BGRA8, 1024x511 x1x1x1）（预计所需内存：15.365879 MB），编码速度：Final
+[2024.02.17-09.52.00:003][165]LogTexture: Display: 正在构建纹理：/Game/Resources/Textures/Cards/璀璨才智的留遗.璀璨才智的留遗 （TFO_AutoDXT, 1024x512 x1x1x1）（预计所需内存：84.604147 MB），编码速度：Final
+[2024.02.17-09.52.00:003][165]LogTexture: Display: 正在构建纹理：/Game/Resources/Textures/Cards/盈泪的故园.盈泪的故园 （TFO_AutoDXT, 1024x512 x1x1x1）（预计所需内存：84.604147 MB），编码速度：Final
+[2024.02.17-09.52.00:004][165]LogTexture: Display: 正在构建纹理：/Game/Resources/Textures/Cards/瀚海孤云.瀚海孤云 （TFO_AutoDXT, 1024x512 x1x1x1）（预计所需内存：84.604147 MB），编码速度：Final
+[2024.02.17-09.52.00:005][165]LogTexture: Display: 正在构建纹理：/Game/Resources/Textures/Cards/芒索斯山麓的回忆.芒索斯山麓的回忆 （TFO_AutoDXT, 1024x512 x1x1x1）（预计所需内存：84.604147 MB），编码速度：Final
+[2024.02.17-09.52.00:005][165]LogTexture: Display: 正在构建纹理：/Game/Resources/Textures/Cards/珠光弥布的官阙.珠光弥布的官阙 （TFO_AutoDXT, 1024x512 x1x1x1）（预计所需内存：84.604147 MB），编码速度：Final
+[2024.02.17-09.52.00:009][165]LogTexture: Display: 正在构建纹理：/Game/Resources/Textures/Cards/稻妻城天领.稻妻城天领 （TFO_AutoDXT, 1024x512 x1x1x1）（预计所需内存：84.604147 MB），编码速度：Final
+[2024.02.17-09.52.00:054][165]LogTexture: Display: 正在构建纹理：/Game/Resources/Textures/Cards/西风大教堂.西风大教堂 （TFO_AutoDXT, 1024x512 x1x1x1）（预计所需内存：84.604147 MB），编码速度：Final
+[2024.02.17-09.52.00:055][165]LogTexture: Display: 正在构建纹理：/Game/Resources/Textures/Cards/蚀影与浊流之地.蚀影与浊流之地 （TFO_AutoDXT, 1024x512 x1x1x1）（预计所需内存：84.604147 MB），编码速度：Final
+[2024.02.17-09.52.00:059][165]LogTexture: Display: 正在构建纹理：/Game/Resources/Textures/Cards/轻策山间.轻策山间 （TFO_AutoDXT, 1024x512 x1x1x1）（预计所需内存：84.604147 MB），编码速度：Final
+[2024.02.17-09.52.00:059][165]LogTexture: Display: 正在构建纹理：/Game/Resources/Textures/Cards/远眺高车之所.远眺高车之所 （TFO_AutoDXT, 1024x512 x1x1x1）（预计所需内存：84.604147 MB），编码速度：Final
+[2024.02.17-09.52.00:059][165]LogTexture: Display: 正在构建纹理：/Game/Resources/Textures/Cards/赛莫德绿洲.赛莫德绿洲 （TFO_AutoDXT, 1024x512 x1x1x1）（预计所需内存：84.604147 MB），编码速度：Final
+[2024.02.17-09.52.00:059][165]LogTexture: Display: 正在构建纹理：/Game/Resources/Textures/Cards/远眺踏鞘之岛.远眺踏鞘之岛 （TFO_AutoDXT, 1024x512 x1x1x1）（预计所需内存：84.604147 MB），编码速度：Final
+[2024.02.17-09.52.00:060][165]LogTexture: Display: 正在构建纹理：/Game/Resources/Textures/Cards/风啸的古代废都.风啸的古代废都 （TFO_AutoDXT, 1024x512 x1x1x1）（预计所需内存：84.604147 MB），编码速度：Final
+[2024.02.17-09.52.00:061][165]LogTexture: Display: 正在构建纹理：/Game/Resources/Textures/Cards/雷云旋聚之处.雷云旋聚之处 （TFO_AutoDXT, 1024x512 x1x1x1）（预计所需内存：84.604147 MB），编码速度：Final
+[2024.02.17-09.52.00:061][165]LogTexture: Display: 正在构建纹理：/Game/Resources/Textures/Cards/风之城.风之城 （TFO_AutoDXT, 1024x512 x1x1x1）（预计所需内存：84.604147 MB），编码速度：Final
+[2024.02.17-09.52.00:111][167]LogTexture: Display: 正在构建纹理：/Game/Resources/Textures/Cards/鸣神离岛.鸣神离岛 （TFO_AutoDXT, 1024x512 x1x1x1）（预计所需内存：84.604147 MB），编码速度：Final
+[2024.02.17-09.52.00:111][167]LogTexture: Display: 正在构建纹理：/Game/Resources/Textures/Cards/风洗的原野.风洗的原野 （TFO_AutoDXT, 1024x512 x1x1x1）（预计所需内存：84.604147 MB），编码速度：Final
+[2024.02.17-09.52.00:112][167]LogTexture: Display: 正在构建纹理：/Game/Resources/Textures/Cards/鹤观.鹤观 （TFO_AutoDXT, 1024x512 x1x1x1）（预计所需内存：84.604147 MB），编码速度：Final
+[2024.02.17-09.52.01:649][347]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.17-09.52.01:755][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/一切智慧具足之城" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/一切智慧具足之城.uasset" SILENT=true
+[2024.02.17-09.52.01:764][347]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/一切智慧具足之城
+[2024.02.17-09.52.01:764][347]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/一切智慧具足之城2DF0C9E64F83854A20F619B7481FE023.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/一切智慧具足之城.uasset'
+[2024.02.17-09.52.01:797][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/代官司寝子大人的居所" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/代官司寝子大人的居所.uasset" SILENT=true
+[2024.02.17-09.52.01:805][347]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/代官司寝子大人的居所
+[2024.02.17-09.52.01:806][347]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/代官司寝子大人的居所4C46F9FF45008BDD878BEEA816D0EE93.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/代官司寝子大人的居所.uasset'
+[2024.02.17-09.52.01:839][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/千船万商云集之地" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/千船万商云集之地.uasset" SILENT=true
+[2024.02.17-09.52.01:846][347]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/千船万商云集之地
+[2024.02.17-09.52.01:847][347]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/千船万商云集之地408191504498A30AE48658968CEB3008.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/千船万商云集之地.uasset'
+[2024.02.17-09.52.01:880][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/厄里那斯深处的风景" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/厄里那斯深处的风景.uasset" SILENT=true
+[2024.02.17-09.52.01:888][347]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/厄里那斯深处的风景
+[2024.02.17-09.52.01:889][347]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/厄里那斯深处的风景1407EB3F4884FB4682D171B5956E4DED.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/厄里那斯深处的风景.uasset'
+[2024.02.17-09.52.01:923][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/双树控扼的港湾" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/双树控扼的港湾.uasset" SILENT=true
+[2024.02.17-09.52.01:929][347]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/双树控扼的港湾
+[2024.02.17-09.52.01:929][347]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/双树控扼的港湾360DE0CE47C1CD245452028D51D08579.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/双树控扼的港湾.uasset'
+[2024.02.17-09.52.01:964][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/守护神像的湖泽" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/守护神像的湖泽.uasset" SILENT=true
+[2024.02.17-09.52.01:970][347]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/守护神像的湖泽
+[2024.02.17-09.52.01:971][347]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/守护神像的湖泽055C5DFC41EBD949C9DAA9910F07D883.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/守护神像的湖泽.uasset'
+[2024.02.17-09.52.02:005][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/层岩巨渊" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/层岩巨渊.uasset" SILENT=true
+[2024.02.17-09.52.02:011][347]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/层岩巨渊
+[2024.02.17-09.52.02:011][347]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/层岩巨渊F70102E645EBEED5901DB58A3C6F0BCE.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/层岩巨渊.uasset'
+[2024.02.17-09.52.02:045][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/归离城墟" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/归离城墟.uasset" SILENT=true
+[2024.02.17-09.52.02:051][347]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/归离城墟
+[2024.02.17-09.52.02:052][347]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/归离城墟E6F7714641E1AE71643726BA9256F316.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/归离城墟.uasset'
+[2024.02.17-09.52.02:085][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/影向山鸣神大社" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/影向山鸣神大社.uasset" SILENT=true
+[2024.02.17-09.52.02:093][347]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/影向山鸣神大社
+[2024.02.17-09.52.02:093][347]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/影向山鸣神大社39323DCA438330378254CEB051F45B3A.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/影向山鸣神大社.uasset'
+[2024.02.17-09.52.02:127][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/悠古的千风神殿" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/悠古的千风神殿.uasset" SILENT=true
+[2024.02.17-09.52.02:134][347]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/悠古的千风神殿
+[2024.02.17-09.52.02:134][347]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/悠古的千风神殿30695A494ACF2AB731DAE8A21E66C909.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/悠古的千风神殿.uasset'
+[2024.02.17-09.52.02:168][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/曙光初照的庄园" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/曙光初照的庄园.uasset" SILENT=true
+[2024.02.17-09.52.02:174][347]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/曙光初照的庄园
+[2024.02.17-09.52.02:174][347]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/曙光初照的庄园AA273B8C4FF6DCD6D52F2C80D666FB72.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/曙光初照的庄园.uasset'
+[2024.02.17-09.52.02:207][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/水仙十字王国" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/水仙十字王国.uasset" SILENT=true
+[2024.02.17-09.52.02:214][347]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/水仙十字王国
+[2024.02.17-09.52.02:215][347]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/水仙十字王国3AA5134F4D985CC42E30B1BCE605C970.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/水仙十字王国.uasset'
+[2024.02.17-09.52.02:248][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/水泽荻原" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/水泽荻原.uasset" SILENT=true
+[2024.02.17-09.52.02:255][347]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/水泽荻原
+[2024.02.17-09.52.02:255][347]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/水泽荻原113A748E41120EAB5385A7A33DBB502F.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/水泽荻原.uasset'
+[2024.02.17-09.52.02:257][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/永恒宁静的乐园" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/永恒宁静的乐园.uasset" SILENT=true
+[2024.02.17-09.52.02:264][347]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/永恒宁静的乐园
+[2024.02.17-09.52.02:265][347]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/永恒宁静的乐园EEDBDC204A24E7478C5EF097D3251AA6.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/永恒宁静的乐园.uasset'
+[2024.02.17-09.52.02:298][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/沉思的花园" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/沉思的花园.uasset" SILENT=true
+[2024.02.17-09.52.02:306][347]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/沉思的花园
+[2024.02.17-09.52.02:306][347]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/沉思的花园9A1A2BAB4A84DE36139F789B28F97323.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/沉思的花园.uasset'
+[2024.02.17-09.52.02:309][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/沙暴不息的达马山" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/沙暴不息的达马山.uasset" SILENT=true
+[2024.02.17-09.52.02:315][347]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/沙暴不息的达马山
+[2024.02.17-09.52.02:315][347]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/沙暴不息的达马山B1427B094809C5286C578EB1F0ACEDB5.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/沙暴不息的达马山.uasset'
+[2024.02.17-09.52.02:349][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/法留纳法宝" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/法留纳法宝.uasset" SILENT=true
+[2024.02.17-09.52.02:356][347]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/法留纳法宝
+[2024.02.17-09.52.02:356][347]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/法留纳法宝F4A3D9F8421F327123721F8A360135FE.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/法留纳法宝.uasset'
+[2024.02.17-09.52.02:390][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/流逐之海" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/流逐之海.uasset" SILENT=true
+[2024.02.17-09.52.02:397][347]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/流逐之海
+[2024.02.17-09.52.02:397][347]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/流逐之海2DD85830437EAEC23255B38770E92127.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/流逐之海.uasset'
+[2024.02.17-09.52.02:430][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/海沫之乡" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/海沫之乡.uasset" SILENT=true
+[2024.02.17-09.52.02:437][347]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/海沫之乡
+[2024.02.17-09.52.02:438][347]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/海沫之乡45A07F1C4DC35119727F4AB3182BDB0A.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/海沫之乡.uasset'
+[2024.02.17-09.52.02:471][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/清泉静流之地" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/清泉静流之地.uasset" SILENT=true
+[2024.02.17-09.52.02:477][347]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/清泉静流之地
+[2024.02.17-09.52.02:478][347]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/清泉静流之地C01B63BD4590EC8C2365A983892CFF6E.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/清泉静流之地.uasset'
+[2024.02.17-09.52.02:511][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/源水之国" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/源水之国.uasset" SILENT=true
+[2024.02.17-09.52.02:518][347]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/源水之国
+[2024.02.17-09.52.02:519][347]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/源水之国FC25447745264606A64B2A80A79351F7.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/源水之国.uasset'
+[2024.02.17-09.52.02:553][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/瀚海孤云" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/瀚海孤云.uasset" SILENT=true
+[2024.02.17-09.52.02:559][347]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/瀚海孤云
+[2024.02.17-09.52.02:559][347]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/瀚海孤云7D531C5D4678DAA2E21D9EA5A2E68381.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/瀚海孤云.uasset'
+[2024.02.17-09.52.02:594][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/珠光弥布的官阙" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/珠光弥布的官阙.uasset" SILENT=true
+[2024.02.17-09.52.02:600][347]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/珠光弥布的官阙
+[2024.02.17-09.52.02:600][347]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/珠光弥布的官阙8C18168543EC24F82A68ACAABB6E3CE6.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/珠光弥布的官阙.uasset'
+[2024.02.17-09.52.02:634][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/璀璨才智的留遗" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/璀璨才智的留遗.uasset" SILENT=true
+[2024.02.17-09.52.02:640][347]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/璀璨才智的留遗
+[2024.02.17-09.52.02:641][347]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/璀璨才智的留遗E28FF944463BBC7389DD62A1892E275D.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/璀璨才智的留遗.uasset'
+[2024.02.17-09.52.02:643][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/甘露滋养的归巢" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/甘露滋养的归巢.uasset" SILENT=true
+[2024.02.17-09.52.02:649][347]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/甘露滋养的归巢
+[2024.02.17-09.52.02:650][347]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/甘露滋养的归巢E798D3044F593224768D06930CB19385.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/甘露滋养的归巢.uasset'
+[2024.02.17-09.52.02:684][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/盈泪的故园" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/盈泪的故园.uasset" SILENT=true
+[2024.02.17-09.52.02:691][347]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/盈泪的故园
+[2024.02.17-09.52.02:691][347]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/盈泪的故园03BC206B4AD5D8B97DB152B69EB94E9D.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/盈泪的故园.uasset'
+[2024.02.17-09.52.02:725][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/稻妻城天领" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/稻妻城天领.uasset" SILENT=true
+[2024.02.17-09.52.02:732][347]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/稻妻城天领
+[2024.02.17-09.52.02:733][347]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/稻妻城天领8900547E4AAD8250CB3453A2C90FCECA.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/稻妻城天领.uasset'
+[2024.02.17-09.52.02:766][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/芒索斯山麓的回忆" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/芒索斯山麓的回忆.uasset" SILENT=true
+[2024.02.17-09.52.02:774][347]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/芒索斯山麓的回忆
+[2024.02.17-09.52.02:774][347]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/芒索斯山麓的回忆3A3EDF1D46E9FAE0D4A65AB9714B8382.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/芒索斯山麓的回忆.uasset'
+[2024.02.17-09.52.02:808][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/蚀影与浊流之地" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/蚀影与浊流之地.uasset" SILENT=true
+[2024.02.17-09.52.02:814][347]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/蚀影与浊流之地
+[2024.02.17-09.52.02:814][347]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/蚀影与浊流之地794C88CC4E4BFBEE7E0F5A8AA64E5852.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/蚀影与浊流之地.uasset'
+[2024.02.17-09.52.02:847][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/西风大教堂" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/西风大教堂.uasset" SILENT=true
+[2024.02.17-09.52.02:853][347]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/西风大教堂
+[2024.02.17-09.52.02:854][347]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/西风大教堂228251DA4594AFAC716334B731F3FAEA.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/西风大教堂.uasset'
+[2024.02.17-09.52.02:888][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/赛莫德绿洲" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/赛莫德绿洲.uasset" SILENT=true
+[2024.02.17-09.52.02:896][347]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/赛莫德绿洲
+[2024.02.17-09.52.02:896][347]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/赛莫德绿洲0098F2304469588AC8FEE29924577596.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/赛莫德绿洲.uasset'
+[2024.02.17-09.52.02:930][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/轻策山间" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/轻策山间.uasset" SILENT=true
+[2024.02.17-09.52.02:937][347]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/轻策山间
+[2024.02.17-09.52.02:938][347]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/轻策山间D26AF6BE4FD7F25BB09631A93C12BFD2.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/轻策山间.uasset'
+[2024.02.17-09.52.02:971][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/远眺踏鞘之岛" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/远眺踏鞘之岛.uasset" SILENT=true
+[2024.02.17-09.52.02:978][347]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/远眺踏鞘之岛
+[2024.02.17-09.52.02:978][347]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/远眺踏鞘之岛E9CC4CBD45C242E2532C0F971D16DCBD.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/远眺踏鞘之岛.uasset'
+[2024.02.17-09.52.03:012][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/远眺高车之所" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/远眺高车之所.uasset" SILENT=true
+[2024.02.17-09.52.03:018][347]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/远眺高车之所
+[2024.02.17-09.52.03:019][347]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/远眺高车之所6EFB3B354A4C9326D3B291ABA3430AAF.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/远眺高车之所.uasset'
+[2024.02.17-09.52.03:053][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/雷云旋聚之处" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/雷云旋聚之处.uasset" SILENT=true
+[2024.02.17-09.52.03:060][347]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/雷云旋聚之处
+[2024.02.17-09.52.03:060][347]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/雷云旋聚之处9DED339440A7A9D6FDD934894E3E2EE6.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/雷云旋聚之处.uasset'
+[2024.02.17-09.52.03:095][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/风之城" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/风之城.uasset" SILENT=true
+[2024.02.17-09.52.03:101][347]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/风之城
+[2024.02.17-09.52.03:101][347]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/风之城7F8376B344741B5499B660AD15EC43B6.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/风之城.uasset'
+[2024.02.17-09.52.03:134][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/风啸的古代废都" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/风啸的古代废都.uasset" SILENT=true
+[2024.02.17-09.52.03:141][347]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/风啸的古代废都
+[2024.02.17-09.52.03:141][347]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/风啸的古代废都3690EBCE41ECE004FEC6A6B54CFEC468.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/风啸的古代废都.uasset'
+[2024.02.17-09.52.03:176][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/风洗的原野" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/风洗的原野.uasset" SILENT=true
+[2024.02.17-09.52.03:181][347]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/风洗的原野
+[2024.02.17-09.52.03:182][347]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/风洗的原野E15A06E74673009B4623409F3362A3B8.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/风洗的原野.uasset'
+[2024.02.17-09.52.03:216][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/鸣神离岛" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/鸣神离岛.uasset" SILENT=true
+[2024.02.17-09.52.03:221][347]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/鸣神离岛
+[2024.02.17-09.52.03:222][347]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/鸣神离岛2D96D4FC42B47CD44C2C6FB71A785DCF.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/鸣神离岛.uasset'
+[2024.02.17-09.52.03:257][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/鹤观" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/鹤观.uasset" SILENT=true
+[2024.02.17-09.52.03:263][347]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/鹤观
+[2024.02.17-09.52.03:264][347]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/鹤观08DA1E3C4E17A6778A3AD5AB5424BCB8.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/鹤观.uasset'
+[2024.02.17-09.52.03:274][347]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.62 sec (total: 1.98 sec)
+[2024.02.17-09.52.03:279][347]AssetCheck: New page: 资产保存：多个资产
+[2024.02.17-09.52.03:279][347]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/一切智慧具足之城.一切智慧具足之城
+[2024.02.17-09.52.03:279][347]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/代官司寝子大人的居所.代官司寝子大人的居所
+[2024.02.17-09.52.03:279][347]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/千船万商云集之地.千船万商云集之地
+[2024.02.17-09.52.03:279][347]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/厄里那斯深处的风景.厄里那斯深处的风景
+[2024.02.17-09.52.03:279][347]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/双树控扼的港湾.双树控扼的港湾
+[2024.02.17-09.52.03:279][347]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/守护神像的湖泽.守护神像的湖泽
+[2024.02.17-09.52.03:279][347]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/层岩巨渊.层岩巨渊
+[2024.02.17-09.52.03:279][347]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/归离城墟.归离城墟
+[2024.02.17-09.52.03:279][347]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/影向山鸣神大社.影向山鸣神大社
+[2024.02.17-09.52.03:279][347]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/悠古的千风神殿.悠古的千风神殿
+[2024.02.17-09.52.03:279][347]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/曙光初照的庄园.曙光初照的庄园
+[2024.02.17-09.52.03:279][347]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/水仙十字王国.水仙十字王国
+[2024.02.17-09.52.03:279][347]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/水泽荻原.水泽荻原
+[2024.02.17-09.52.03:279][347]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/永恒宁静的乐园.永恒宁静的乐园
+[2024.02.17-09.52.03:279][347]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/沉思的花园.沉思的花园
+[2024.02.17-09.52.03:279][347]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/沙暴不息的达马山.沙暴不息的达马山
+[2024.02.17-09.52.03:279][347]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/法留纳法宝.法留纳法宝
+[2024.02.17-09.52.03:279][347]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/流逐之海.流逐之海
+[2024.02.17-09.52.03:279][347]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/海沫之乡.海沫之乡
+[2024.02.17-09.52.03:279][347]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/清泉静流之地.清泉静流之地
+[2024.02.17-09.52.03:279][347]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/源水之国.源水之国
+[2024.02.17-09.52.03:279][347]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/瀚海孤云.瀚海孤云
+[2024.02.17-09.52.03:279][347]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/珠光弥布的官阙.珠光弥布的官阙
+[2024.02.17-09.52.03:279][347]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/璀璨才智的留遗.璀璨才智的留遗
+[2024.02.17-09.52.03:279][347]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/甘露滋养的归巢.甘露滋养的归巢
+[2024.02.17-09.52.03:279][347]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/盈泪的故园.盈泪的故园
+[2024.02.17-09.52.03:279][347]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/稻妻城天领.稻妻城天领
+[2024.02.17-09.52.03:279][347]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/芒索斯山麓的回忆.芒索斯山麓的回忆
+[2024.02.17-09.52.03:279][347]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/蚀影与浊流之地.蚀影与浊流之地
+[2024.02.17-09.52.03:279][347]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/西风大教堂.西风大教堂
+[2024.02.17-09.52.03:279][347]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/赛莫德绿洲.赛莫德绿洲
+[2024.02.17-09.52.03:279][347]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/轻策山间.轻策山间
+[2024.02.17-09.52.03:279][347]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/远眺踏鞘之岛.远眺踏鞘之岛
+[2024.02.17-09.52.03:279][347]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/远眺高车之所.远眺高车之所
+[2024.02.17-09.52.03:280][347]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/雷云旋聚之处.雷云旋聚之处
+[2024.02.17-09.52.03:280][347]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/风之城.风之城
+[2024.02.17-09.52.03:280][347]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/风啸的古代废都.风啸的古代废都
+[2024.02.17-09.52.03:280][347]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/风洗的原野.风洗的原野
+[2024.02.17-09.52.03:280][347]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/鸣神离岛.鸣神离岛
+[2024.02.17-09.52.03:280][347]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/鹤观.鹤观
+[2024.02.17-09.52.08:478][956]LogDebuggerCommands: Repeating last play command: 新建编辑器窗口（PIE）
+[2024.02.17-09.52.08:485][956]BlueprintLog: New page: 运行前自动重新编译
+[2024.02.17-09.52.08:488][956]LogPlayLevel: [PlayLevel] Compiling WBP_RoundStartPrompt before play...
+[2024.02.17-09.52.08:514][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.02.17-09.52.08:516][956]LogPlayLevel: PlayLevel: Blueprint regeneration took 31 ms (1 blueprints)
+[2024.02.17-09.52.08:516][956]PIE: New page: PIE会话：Map_Player（2024年2月18日 上午1:52:08）
+[2024.02.17-09.52.08:516][956]LogPlayLevel: Display: Creating online subsystem for client :Context_24
+[2024.02.17-09.52.08:518][956]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2024.02.17-09.52.08:528][957]LogPlayLevel: Creating play world package: /Game/Maps/Player/UEDPIE_0_Map_Player
+[2024.02.17-09.52.08:529][957]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001316s)
+[2024.02.17-09.52.08:529][957]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Player/Map_Player.Map_Player to /Game/Maps/Player/UEDPIE_0_Map_Player.Map_Player (0.001373s)
+[2024.02.17-09.52.08:540][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.02.17-09.52.08:541][957]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.17-09.52.08:541][957]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.17-09.52.08:541][957]LogAIModule: Creating AISystem for world Map_Player
+[2024.02.17-09.52.08:542][957]LogPlayLevel: PIE: World Init took: (0.000677s)
+[2024.02.17-09.52.08:542][957]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.02.17-09.52.08:542][957]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.17-09.52.08:542][957]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.17-09.52.08:542][957]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.17-09.52.08:542][957]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.17-09.52.08:542][957]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.17-09.52.08:542][957]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.17-09.52.08:542][957]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.17-09.52.08:542][957]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.17-09.52.08:542][957]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.17-09.52.08:542][957]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.17-09.52.08:542][957]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.17-09.52.08:544][957]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.17-09.52.08:578][957]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (Realtek(R) Audio)
+[2024.02.17-09.52.08:578][957]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.17-09.52.08:578][957]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.17-09.52.08:578][957]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.17-09.52.08:579][957]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.02.17-09.52.08:579][957]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.02.17-09.52.08:580][957]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.02.17-09.52.08:580][957]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.02.17-09.52.08:580][957]LogInit: FAudioDevice initialized with ID 2.
+[2024.02.17-09.52.08:580][957]LogAudio: Display: Audio Device (ID: 2) registered with world 'Map_Player'.
+[2024.02.17-09.52.08:580][957]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.02.17-09.52.08:609][957]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.17-09.52.08:615][957]LogLoad: Game class is 'KCGPGameModeBase_C'
+[2024.02.17-09.52.08:616][957]LogWorld: Bringing World /Game/Maps/Player/UEDPIE_0_Map_Player.Map_Player up for play (max tick rate 0) at 2024.02.17-17.52.08
+[2024.02.17-09.52.08:616][957]LogWorld: Bringing up level for play took: 0.000865
+[2024.02.17-09.52.08:622][957]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.17-09.52.08:622][957]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.02.17-09.52.08:622][957]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.02.17-09.52.08:622][957]LogElectraPlayer: [000007639C067700] FElectraPlayer() created.
+[2024.02.17-09.52.08:622][957]LogElectraPlayerPlugin: [0000076360FBC300] IMediaPlayer::Open: Options@00000763102F4530
+[2024.02.17-09.52.08:625][957]LogElectraPlayer: [000007639C067700][000007638ED75610] IMediaPlayer::Open(file://D:/UEProjects/MyProjects/KCardGameProject/Content/Movies/YSKeLi.mp4)
+[2024.02.17-09.52.08:625][957]LogElectraPlayerPlugin: [0000076360FBC300] IMediaControls::SetRate(0.000000)
+[2024.02.17-09.52.08:629][957]PIE: 登陆的服务器
+[2024.02.17-09.52.08:631][957]PIE: PIE总开始时间：0.147秒。
+[2024.02.17-09.52.08:680][957]LogElectraPlayer: [000007639C067700][000007638ED75610] Opening stream at "file://D:/UEProjects/MyProjects/KCardGameProject/Content/Movies/YSKeLi.mp4"
+[2024.02.17-09.52.08:693][957]LogViewport: Scene viewport resized to 2554x1352, mode Windowed.
+[2024.02.17-09.52.08:876][967]LogElectraPlayer: [000007639C067700][000007638ED75610] MP4 playlist reader: The mp4 at "file://D:/UEProjects/MyProjects/KCardGameProject/Content/Movies/YSKeLi.mp4" is not fast-startable. Consider moving the 'moov' box in front of the 'mdat' for faster startup times.
+[2024.02.17-09.52.08:876][967]LogElectraPlayer: [000007639C067700][000007638ED75610] Received master playlist from "file://D:/UEProjects/MyProjects/KCardGameProject/Content/Movies/YSKeLi.mp4"
+[2024.02.17-09.52.08:876][967]LogElectraPlayer: [000007639C067700][000007638ED75610] Received initial stream playlists
+[2024.02.17-09.52.08:876][967]LogElectraPlayer: [000007639C067700][000007638ED75610] Found 1920 * 1080 video stream at bitrate 5207812
+[2024.02.17-09.52.08:876][967]LogElectraPlayerPlugin: [0000076360FBC300] IMediaControls::SetRate(1.000000)
+[2024.02.17-09.52.08:884][968]LogElectraPlayer: [000007639C067700][000007638ED75610] Initial buffering starts
+[2024.02.17-09.52.08:884][968]LogElectraPlayer: [000007639C067700][000007638ED75610] Player switched video quality to 5207812 bps from 0 bps. 0 upswitches, 0 downswitches (0 drastic ones)
+[2024.02.17-09.52.08:903][970]LogElectraPlayer: [000007639C067700][000007638ED75610] Initial buffering ended after 0.019s
+[2024.02.17-09.52.08:903][970]LogElectraPlayer: [000007639C067700][000007638ED75610] Player starts prerolling to warm decoders and renderers
+[2024.02.17-09.52.09:058][988]LogElectraPlayer: [000007639C067700][000007638ED75610] Player prerolling complete
+[2024.02.17-09.52.09:075][990]LogElectraPlayer: [000007639C067700][000007638ED75610] Playback started at play position 0.000
+[2024.02.17-09.52.09:075][990]LogElectraPlayer: [000007639C067700][000007638ED75610] Playback resumed at play position 0.000
+[2024.02.17-09.52.11:786][314]LogScript: Warning: Script Msg: Attempted to swap elements [15] and [16] in array 需要洗牌的卡组. Available index range: [0 15)!
+[2024.02.17-09.52.11:786][314]LogScript: Warning: Script Msg called by: WBP_CardHand_C /Engine/Transient.UnrealEdEngine_0:GI_GlobalManager_C_0.WBP_HUD_C_0.WidgetTree_0.发牌区域控件
+[2024.02.17-09.52.26:323][  3]LogElectraPlayer: [000007639C067700][000007638ED75610] IMediaPlayer::Close()
+[2024.02.17-09.52.26:323][  3]LogElectraPlayer: [000007639C067700][000007638ED75610] Playback stopped. Last play position 17.288
+[2024.02.17-09.52.26:323][  3]LogElectraPlayer: [000007639C067700][000007638ED75610] Electra player statistics:
+OS: Windows 11 (22H2) [10.0.22621.3007]
+GPU Adapter: NVIDIA GeForce RTX 4070 Ti
+URL: file://D:/UEProjects/MyProjects/KCardGameProject/Content/Movies/YSKeLi.mp4
+Time after master playlist loaded: 0.195s
+Time after stream playlists loaded: 0.195s
+Time for initial buffering: 0.019s
+Initial video stream bitrate: 5207812 bps
+Initial buffering bandwidth bps: 1889514285.714
+Initial buffering latency: 0.000s
+Time for initial preroll: 0.155s
+Number of times moved forward: 0
+Number of times moved backward: 0
+Number of times looped: 0
+Number of times rebuffered: 0
+Total time spent rebuffering: 0.000s
+Longest rebuffering time: 0.000s
+First media timeline start: 0.000s
+First media timeline end: 126.699s
+Last media timeline start: 0.000s
+Last media timeline end: 126.699s
+Media duration: 126.699s
+Play position at start: 0.000s
+Play position at end: 17.288s
+Number of quality upswitches: 0
+Number of quality downswitches: 0
+Number of drastic downswitches: 0
+Bytes of video data streamed: 13770687
+Bytes of audio data streamed: 0
+Number of segments fetched across all quality levels:
+5207812 : 7
+Currently active playlist URL: 1
+Currently active resolution: 1920 * 1080
+Current state: Playing
+Last issue: 
+
+[2024.02.17-09.52.26:325][  3]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.17-09.52.26:325][  3]LogWorld: BeginTearingDown for /Game/Maps/Player/UEDPIE_0_Map_Player
+[2024.02.17-09.52.26:325][  3]LogSlate: Window 'KCardGameProject 预览 [NetMode: Standalone 0]  （64-bit/PC D3D SM6）' being destroyed
+[2024.02.17-09.52.26:337][  3]LogWorld: UWorld::CleanupWorld for Map_Player, bSessionEnded=true, bCleanupResources=true
+[2024.02.17-09.52.26:337][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.17-09.52.26:339][  3]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.17-09.52.26:341][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.17-09.52.26:349][  3]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.02.17-09.52.26:349][  3]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.02.17-09.52.26:350][  3]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.02.17-09.52.26:356][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.02.17-09.52.26:405][  4]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.02.17-09.52.26:406][  4]LogElectraPlayer: [000007639C067700] ~FElectraPlayer() finished.
+[2024.02.17-09.52.26:407][  4]LogElectraPlayer: [000007638ED75610] DoCloseAsync() finished after 84.018 msec!
+[2024.02.17-09.52.33:423][803]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Menus/UI_StartMenu.UI_StartMenu
+[2024.02.17-09.52.33:423][803]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.17-09.52.33:423][803]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.17-09.52.33:429][803]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.17-09.52.33:429][803]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.17-09.52.59:767][902]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.02.17-09.52.59:767][902]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.02.17-09.53.13:778][579]BlueprintLog: New page: 编译UI_StartMenu
+[2024.02.17-09.53.13:799][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.02.17-09.53.13:880][579]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.17-09.53.13:915][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Menus/UI_StartMenu" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/UI/Menus/UI_StartMenu.uasset" SILENT=true
+[2024.02.17-09.53.13:944][579]LogSavePackage: Moving output files for package: /Game/UI/Menus/UI_StartMenu
+[2024.02.17-09.53.13:944][579]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/UI_StartMenuBF23213542139DF767B6D795FA681F1A.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/UI/Menus/UI_StartMenu.uasset'
+[2024.02.17-09.53.13:951][579]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 2.05 sec)
+[2024.02.17-09.53.13:958][579]AssetCheck: New page: 资产保存：UI_StartMenu
+[2024.02.17-09.53.13:958][579]LogContentValidation: Display: 正在验证/Script/UMGEditor.WidgetBlueprint /Game/UI/Menus/UI_StartMenu.UI_StartMenu
+[2024.02.17-09.53.23:585][681]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.02.17-09.53.31:333][478]BlueprintLog: New page: 编译UI_StartMenu
+[2024.02.17-09.53.31:354][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.02.17-09.53.52:263][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.02.17-09.53.52:302][873]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.17-09.53.52:302][873]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Menus/Map_StartMenu.Map_StartMenu
+[2024.02.17-09.53.52:302][873]Cmd: MAP LOAD FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Maps/Menus/Map_StartMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.02.17-09.53.52:303][873]LightingResults: New page: 光照构建
+[2024.02.17-09.53.52:303][873]LoadErrors: New page: 正在加载地图：Map_StartMenu.umap
+[2024.02.17-09.53.52:317][873]LogWorld: UWorld::CleanupWorld for Map_Player, bSessionEnded=true, bCleanupResources=true
+[2024.02.17-09.53.52:317][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.17-09.53.52:318][873]MapCheck: New page: 地图检测
+[2024.02.17-09.53.52:318][873]LightingResults: New page: 光照构建
+[2024.02.17-09.53.52:322][873]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.17-09.53.52:324][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.02.17-09.53.52:326][873]LogWorld: UWorld::CleanupWorld for Map_StartMenu, bSessionEnded=true, bCleanupResources=true
+[2024.02.17-09.53.52:326][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.17-09.53.52:334][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.02.17-09.53.52:342][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.02.17-09.53.52:347][873]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_StartMenu'.
+[2024.02.17-09.53.52:347][873]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.17-09.53.52:347][873]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.17-09.53.52:347][873]LogAIModule: Creating AISystem for world Map_StartMenu
+[2024.02.17-09.53.52:364][873]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.02.17-09.53.52:374][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.02.17-09.53.52:408][873]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.02.17-09.53.52:408][873]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.073毫秒。
+[2024.02.17-09.54.00:526][838]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.17-09.54.00:556][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/一切智慧具足之城" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/一切智慧具足之城.uasset" SILENT=true
+[2024.02.17-09.54.00:563][838]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/一切智慧具足之城
+[2024.02.17-09.54.00:563][838]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/一切智慧具足之城22850BBE47457DE5BE2ACE89CE668E1D.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/一切智慧具足之城.uasset'
+[2024.02.17-09.54.00:564][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/代官司寝子大人的居所" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/代官司寝子大人的居所.uasset" SILENT=true
+[2024.02.17-09.54.00:570][838]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/代官司寝子大人的居所
+[2024.02.17-09.54.00:570][838]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/代官司寝子大人的居所81B71A604A0579D8C20EFDB53C4AFD26.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/代官司寝子大人的居所.uasset'
+[2024.02.17-09.54.00:571][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/千船万商云集之地" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/千船万商云集之地.uasset" SILENT=true
+[2024.02.17-09.54.00:576][838]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/千船万商云集之地
+[2024.02.17-09.54.00:577][838]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/千船万商云集之地81AC64684D2A9BAFB0E2E3BB40F5A6CD.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/千船万商云集之地.uasset'
+[2024.02.17-09.54.00:577][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/厄里那斯深处的风景" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/厄里那斯深处的风景.uasset" SILENT=true
+[2024.02.17-09.54.00:584][838]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/厄里那斯深处的风景
+[2024.02.17-09.54.00:584][838]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/厄里那斯深处的风景DB6C665C4801A21F6515258E6C6529EE.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/厄里那斯深处的风景.uasset'
+[2024.02.17-09.54.00:585][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/双树控扼的港湾" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/双树控扼的港湾.uasset" SILENT=true
+[2024.02.17-09.54.00:591][838]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/双树控扼的港湾
+[2024.02.17-09.54.00:591][838]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/双树控扼的港湾E2F9B8E5414BABFCA48593B27370DBF0.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/双树控扼的港湾.uasset'
+[2024.02.17-09.54.00:592][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/守护神像的湖泽" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/守护神像的湖泽.uasset" SILENT=true
+[2024.02.17-09.54.00:598][838]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/守护神像的湖泽
+[2024.02.17-09.54.00:598][838]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/守护神像的湖泽BB2030AE403480B3D5B1ED96F8B8D659.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/守护神像的湖泽.uasset'
+[2024.02.17-09.54.00:599][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/层岩巨渊" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/层岩巨渊.uasset" SILENT=true
+[2024.02.17-09.54.00:604][838]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/层岩巨渊
+[2024.02.17-09.54.00:605][838]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/层岩巨渊D9B9BD2B47D3C070153EFAAE060EC273.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/层岩巨渊.uasset'
+[2024.02.17-09.54.00:605][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/归离城墟" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/归离城墟.uasset" SILENT=true
+[2024.02.17-09.54.00:611][838]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/归离城墟
+[2024.02.17-09.54.00:611][838]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/归离城墟27C21A7D43849F79C3A72EA1119A32F0.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/归离城墟.uasset'
+[2024.02.17-09.54.00:612][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/影向山鸣神大社" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/影向山鸣神大社.uasset" SILENT=true
+[2024.02.17-09.54.00:618][838]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/影向山鸣神大社
+[2024.02.17-09.54.00:619][838]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/影向山鸣神大社469BE2C24980B4EA8C6FFF976C8C7760.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/影向山鸣神大社.uasset'
+[2024.02.17-09.54.00:619][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/悠古的千风神殿" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/悠古的千风神殿.uasset" SILENT=true
+[2024.02.17-09.54.00:625][838]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/悠古的千风神殿
+[2024.02.17-09.54.00:626][838]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/悠古的千风神殿2445E1E3442FADCEF185669B6BB97FBA.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/悠古的千风神殿.uasset'
+[2024.02.17-09.54.00:627][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/曙光初照的庄园" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/曙光初照的庄园.uasset" SILENT=true
+[2024.02.17-09.54.00:632][838]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/曙光初照的庄园
+[2024.02.17-09.54.00:633][838]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/曙光初照的庄园A06DB1944C7D663AFFE9EB8D3C3D959D.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/曙光初照的庄园.uasset'
+[2024.02.17-09.54.00:633][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/水仙十字王国" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/水仙十字王国.uasset" SILENT=true
+[2024.02.17-09.54.00:640][838]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/水仙十字王国
+[2024.02.17-09.54.00:640][838]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/水仙十字王国75908F5A478CAAB75ABB66BC7227F9E3.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/水仙十字王国.uasset'
+[2024.02.17-09.54.00:641][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/水泽荻原" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/水泽荻原.uasset" SILENT=true
+[2024.02.17-09.54.00:646][838]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/水泽荻原
+[2024.02.17-09.54.00:647][838]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/水泽荻原9B9091CB42E4F8171517D084527E18F0.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/水泽荻原.uasset'
+[2024.02.17-09.54.00:647][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/永恒宁静的乐园" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/永恒宁静的乐园.uasset" SILENT=true
+[2024.02.17-09.54.00:653][838]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/永恒宁静的乐园
+[2024.02.17-09.54.00:654][838]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/永恒宁静的乐园5F78C58F4416D7FFEE43A98030C3BA64.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/永恒宁静的乐园.uasset'
+[2024.02.17-09.54.00:654][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/沉思的花园" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/沉思的花园.uasset" SILENT=true
+[2024.02.17-09.54.00:660][838]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/沉思的花园
+[2024.02.17-09.54.00:661][838]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/沉思的花园3CA2F070491295997C3DD99E1ECFCE27.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/沉思的花园.uasset'
+[2024.02.17-09.54.00:661][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/沙暴不息的达马山" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/沙暴不息的达马山.uasset" SILENT=true
+[2024.02.17-09.54.00:667][838]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/沙暴不息的达马山
+[2024.02.17-09.54.00:668][838]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/沙暴不息的达马山404FD95F4E79072A28C44B9B6F77E21F.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/沙暴不息的达马山.uasset'
+[2024.02.17-09.54.00:668][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/法留纳法宝" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/法留纳法宝.uasset" SILENT=true
+[2024.02.17-09.54.00:674][838]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/法留纳法宝
+[2024.02.17-09.54.00:675][838]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/法留纳法宝56DE68A14EA8F26CB37D44A26FD455C0.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/法留纳法宝.uasset'
+[2024.02.17-09.54.00:675][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/流逐之海" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/流逐之海.uasset" SILENT=true
+[2024.02.17-09.54.00:681][838]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/流逐之海
+[2024.02.17-09.54.00:682][838]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/流逐之海14DA73F44100F80E183815BC6DEAE9E7.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/流逐之海.uasset'
+[2024.02.17-09.54.00:682][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/海沫之乡" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/海沫之乡.uasset" SILENT=true
+[2024.02.17-09.54.00:688][838]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/海沫之乡
+[2024.02.17-09.54.00:689][838]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/海沫之乡CFF3711E45F234B00B8295B229BBE453.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/海沫之乡.uasset'
+[2024.02.17-09.54.00:689][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/清泉静流之地" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/清泉静流之地.uasset" SILENT=true
+[2024.02.17-09.54.00:695][838]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/清泉静流之地
+[2024.02.17-09.54.00:695][838]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/清泉静流之地AC10F1524AAF074CE285E28429F9E3DF.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/清泉静流之地.uasset'
+[2024.02.17-09.54.00:696][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/源水之国" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/源水之国.uasset" SILENT=true
+[2024.02.17-09.54.00:702][838]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/源水之国
+[2024.02.17-09.54.00:702][838]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/源水之国5D81BE574A75D81A0788599107BEC8E4.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/源水之国.uasset'
+[2024.02.17-09.54.00:703][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/瀚海孤云" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/瀚海孤云.uasset" SILENT=true
+[2024.02.17-09.54.00:708][838]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/瀚海孤云
+[2024.02.17-09.54.00:709][838]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/瀚海孤云40CD4FB5463E72B29F2360A870BE79EE.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/瀚海孤云.uasset'
+[2024.02.17-09.54.00:709][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/珠光弥布的官阙" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/珠光弥布的官阙.uasset" SILENT=true
+[2024.02.17-09.54.00:715][838]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/珠光弥布的官阙
+[2024.02.17-09.54.00:715][838]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/珠光弥布的官阙0DECCA8244ADEEC2A9A6B38AA5D43B32.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/珠光弥布的官阙.uasset'
+[2024.02.17-09.54.00:716][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/璀璨才智的留遗" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/璀璨才智的留遗.uasset" SILENT=true
+[2024.02.17-09.54.00:722][838]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/璀璨才智的留遗
+[2024.02.17-09.54.00:722][838]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/璀璨才智的留遗FAD8248A4CAD46392D5E59BD95F3352B.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/璀璨才智的留遗.uasset'
+[2024.02.17-09.54.00:723][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/甘露滋养的归巢" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/甘露滋养的归巢.uasset" SILENT=true
+[2024.02.17-09.54.00:729][838]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/甘露滋养的归巢
+[2024.02.17-09.54.00:729][838]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/甘露滋养的归巢61FD3CC84C749CC6A74439BB557A226F.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/甘露滋养的归巢.uasset'
+[2024.02.17-09.54.00:730][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/盈泪的故园" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/盈泪的故园.uasset" SILENT=true
+[2024.02.17-09.54.00:736][838]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/盈泪的故园
+[2024.02.17-09.54.00:736][838]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/盈泪的故园8EC6BA974C7B8C7B9B2CA9A28EBEB024.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/盈泪的故园.uasset'
+[2024.02.17-09.54.00:737][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/稻妻城天领" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/稻妻城天领.uasset" SILENT=true
+[2024.02.17-09.54.00:743][838]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/稻妻城天领
+[2024.02.17-09.54.00:743][838]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/稻妻城天领0E441B6A4CF72BC2803E93AEC4B16B94.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/稻妻城天领.uasset'
+[2024.02.17-09.54.00:744][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/芒索斯山麓的回忆" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/芒索斯山麓的回忆.uasset" SILENT=true
+[2024.02.17-09.54.00:749][838]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/芒索斯山麓的回忆
+[2024.02.17-09.54.00:750][838]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/芒索斯山麓的回忆EB892A4546D6D5C7141EC19439A8587D.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/芒索斯山麓的回忆.uasset'
+[2024.02.17-09.54.00:750][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/蚀影与浊流之地" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/蚀影与浊流之地.uasset" SILENT=true
+[2024.02.17-09.54.00:758][838]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/蚀影与浊流之地
+[2024.02.17-09.54.00:758][838]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/蚀影与浊流之地FA851C904D032335A8E8C6B5DB8951F5.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/蚀影与浊流之地.uasset'
+[2024.02.17-09.54.00:759][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/西风大教堂" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/西风大教堂.uasset" SILENT=true
+[2024.02.17-09.54.00:767][838]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/西风大教堂
+[2024.02.17-09.54.00:767][838]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/西风大教堂2BA94D3A44ED608472188FB19FDF4EBA.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/西风大教堂.uasset'
+[2024.02.17-09.54.00:768][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/赛莫德绿洲" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/赛莫德绿洲.uasset" SILENT=true
+[2024.02.17-09.54.00:774][838]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/赛莫德绿洲
+[2024.02.17-09.54.00:774][838]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/赛莫德绿洲C4E563E84A020D4CF73EB287CB4F06B3.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/赛莫德绿洲.uasset'
+[2024.02.17-09.54.00:775][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/轻策山间" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/轻策山间.uasset" SILENT=true
+[2024.02.17-09.54.00:781][838]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/轻策山间
+[2024.02.17-09.54.00:781][838]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/轻策山间CB72CCEF439F388456A306AA97A3D1A7.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/轻策山间.uasset'
+[2024.02.17-09.54.00:781][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/远眺踏鞘之岛" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/远眺踏鞘之岛.uasset" SILENT=true
+[2024.02.17-09.54.00:788][838]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/远眺踏鞘之岛
+[2024.02.17-09.54.00:788][838]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/远眺踏鞘之岛1B9593A64A5F56735F8B1380DAF1FD5A.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/远眺踏鞘之岛.uasset'
+[2024.02.17-09.54.00:789][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/远眺高车之所" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/远眺高车之所.uasset" SILENT=true
+[2024.02.17-09.54.00:794][838]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/远眺高车之所
+[2024.02.17-09.54.00:795][838]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/远眺高车之所A5B2BCFD435B066802EEE48B7A643120.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/远眺高车之所.uasset'
+[2024.02.17-09.54.00:795][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/雷云旋聚之处" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/雷云旋聚之处.uasset" SILENT=true
+[2024.02.17-09.54.00:801][838]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/雷云旋聚之处
+[2024.02.17-09.54.00:801][838]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/雷云旋聚之处8E94FBB643ED74458FE5DC96C929DF05.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/雷云旋聚之处.uasset'
+[2024.02.17-09.54.00:802][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/风之城" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/风之城.uasset" SILENT=true
+[2024.02.17-09.54.00:808][838]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/风之城
+[2024.02.17-09.54.00:808][838]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/风之城B3CC46EA49C262565AAAC2946E7A8696.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/风之城.uasset'
+[2024.02.17-09.54.00:809][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/风啸的古代废都" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/风啸的古代废都.uasset" SILENT=true
+[2024.02.17-09.54.00:815][838]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/风啸的古代废都
+[2024.02.17-09.54.00:815][838]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/风啸的古代废都482CCAA74594406FC70DAD9C397D2A59.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/风啸的古代废都.uasset'
+[2024.02.17-09.54.00:816][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/风洗的原野" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/风洗的原野.uasset" SILENT=true
+[2024.02.17-09.54.00:821][838]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/风洗的原野
+[2024.02.17-09.54.00:821][838]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/风洗的原野0A2937954F995F1A03086B9E11626D73.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/风洗的原野.uasset'
+[2024.02.17-09.54.00:822][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/鸣神离岛" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/鸣神离岛.uasset" SILENT=true
+[2024.02.17-09.54.00:828][838]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/鸣神离岛
+[2024.02.17-09.54.00:829][838]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/鸣神离岛002D25C341ACF47662DAB384CC2052AE.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/鸣神离岛.uasset'
+[2024.02.17-09.54.00:829][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources/Textures/Cards/鹤观" FILE="D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/鹤观.uasset" SILENT=true
+[2024.02.17-09.54.00:836][838]LogSavePackage: Moving output files for package: /Game/Resources/Textures/Cards/鹤观
+[2024.02.17-09.54.00:836][838]LogSavePackage: Moving 'D:/UEProjects/MyProjects/KCardGameProject/Saved/鹤观994458EE40E4FAD0D618C1804F2552C3.tmp' to 'D:/UEProjects/MyProjects/KCardGameProject/Content/Resources/Textures/Cards/鹤观.uasset'
+[2024.02.17-09.54.00:843][838]LogFileHelpers: InternalPromptForCheckoutAndSave took 317 ms (total: 2.36 sec)
+[2024.02.17-09.54.00:850][838]AssetCheck: New page: 资产保存：多个资产
+[2024.02.17-09.54.00:850][838]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/一切智慧具足之城.一切智慧具足之城
+[2024.02.17-09.54.00:850][838]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/代官司寝子大人的居所.代官司寝子大人的居所
+[2024.02.17-09.54.00:850][838]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/千船万商云集之地.千船万商云集之地
+[2024.02.17-09.54.00:850][838]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/厄里那斯深处的风景.厄里那斯深处的风景
+[2024.02.17-09.54.00:850][838]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/双树控扼的港湾.双树控扼的港湾
+[2024.02.17-09.54.00:850][838]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/守护神像的湖泽.守护神像的湖泽
+[2024.02.17-09.54.00:850][838]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/层岩巨渊.层岩巨渊
+[2024.02.17-09.54.00:850][838]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/归离城墟.归离城墟
+[2024.02.17-09.54.00:850][838]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/影向山鸣神大社.影向山鸣神大社
+[2024.02.17-09.54.00:850][838]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/悠古的千风神殿.悠古的千风神殿
+[2024.02.17-09.54.00:850][838]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/曙光初照的庄园.曙光初照的庄园
+[2024.02.17-09.54.00:850][838]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/水仙十字王国.水仙十字王国
+[2024.02.17-09.54.00:850][838]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/水泽荻原.水泽荻原
+[2024.02.17-09.54.00:850][838]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/永恒宁静的乐园.永恒宁静的乐园
+[2024.02.17-09.54.00:850][838]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/沉思的花园.沉思的花园
+[2024.02.17-09.54.00:850][838]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/沙暴不息的达马山.沙暴不息的达马山
+[2024.02.17-09.54.00:850][838]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/法留纳法宝.法留纳法宝
+[2024.02.17-09.54.00:850][838]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/流逐之海.流逐之海
+[2024.02.17-09.54.00:850][838]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/海沫之乡.海沫之乡
+[2024.02.17-09.54.00:850][838]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/清泉静流之地.清泉静流之地
+[2024.02.17-09.54.00:850][838]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/源水之国.源水之国
+[2024.02.17-09.54.00:850][838]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/瀚海孤云.瀚海孤云
+[2024.02.17-09.54.00:850][838]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/珠光弥布的官阙.珠光弥布的官阙
+[2024.02.17-09.54.00:850][838]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/璀璨才智的留遗.璀璨才智的留遗
+[2024.02.17-09.54.00:850][838]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/甘露滋养的归巢.甘露滋养的归巢
+[2024.02.17-09.54.00:850][838]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/盈泪的故园.盈泪的故园
+[2024.02.17-09.54.00:850][838]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/稻妻城天领.稻妻城天领
+[2024.02.17-09.54.00:850][838]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/芒索斯山麓的回忆.芒索斯山麓的回忆
+[2024.02.17-09.54.00:850][838]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/蚀影与浊流之地.蚀影与浊流之地
+[2024.02.17-09.54.00:850][838]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/西风大教堂.西风大教堂
+[2024.02.17-09.54.00:850][838]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/赛莫德绿洲.赛莫德绿洲
+[2024.02.17-09.54.00:850][838]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/轻策山间.轻策山间
+[2024.02.17-09.54.00:850][838]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/远眺踏鞘之岛.远眺踏鞘之岛
+[2024.02.17-09.54.00:850][838]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/远眺高车之所.远眺高车之所
+[2024.02.17-09.54.00:850][838]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/雷云旋聚之处.雷云旋聚之处
+[2024.02.17-09.54.00:850][838]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/风之城.风之城
+[2024.02.17-09.54.00:850][838]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/风啸的古代废都.风啸的古代废都
+[2024.02.17-09.54.00:850][838]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/风洗的原野.风洗的原野
+[2024.02.17-09.54.00:850][838]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/鸣神离岛.鸣神离岛
+[2024.02.17-09.54.00:850][838]LogContentValidation: Display: 正在验证/Script/Engine.Texture2D /Game/Resources/Textures/Cards/鹤观.鹤观
+[2024.02.17-10.14.09:550][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.02.17-10.14.11:743][ 91]LogTurnkeySupport: Project requires temp target (已启用ElectraCodecs插件)
+[2024.02.17-10.14.11:743][ 91]LogLauncherProfile: Unable to use promoted target - D:/UEProjects/MyProjects/KCardGameProject/Binaries/Win64/UnrealGame.target does not exist.
+[2024.02.17-10.14.11:785][ 91]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""E:/Program Files/Epic Games/UE_5.3/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/UEProjects/MyProjects/KCardGameProject/KCardGameProject.uproject" Turnkey -command=VerifySdk -platform=Win64 -UpdateIfNeeded -EditorIO -EditorIOPort=58331  -project="D:/UEProjects/MyProjects/KCardGameProject/KCardGameProject.uproject" BuildCookRun -nop4 -utf8output -nocompileeditor -skipbuildeditor -cook  -project="D:/UEProjects/MyProjects/KCardGameProject/KCardGameProject.uproject"  -unrealexe="E:\Program Files\Epic Games\UE_5.3\Engine\Binaries\Win64\UnrealEditor-Cmd.exe" -platform=Win64 -installed -stage -archive -package -build -pak -iostore -compressed -prereqs -archivedirectory="D:/ProjectsOutput/UE/Windows" -clientconfig=Development" -nocompile -nocompileuat ]
+[2024.02.17-10.14.11:847][ 93]UATHelper: 打包 (Windows): Running AutomationTool...
+[2024.02.17-10.14.11:931][ 98]UATHelper: 打包 (Windows): Using bundled DotNet SDK version: 6.0.302
+[2024.02.17-10.14.12:006][105]UATHelper: 打包 (Windows): Starting AutomationTool...
+[2024.02.17-10.14.12:016][106]UATHelper: 打包 (Windows): Parsing command line: -ScriptsForProject=D:/UEProjects/MyProjects/KCardGameProject/KCardGameProject.uproject Turnkey -command=VerifySdk -platform=Win64 -UpdateIfNeeded -EditorIO -EditorIOPort=58331 -project=D:/UEProjects/MyProjects/KCardGameProject/KCardGameProject.uproject BuildCookRun -nop4 -utf8output -nocompileeditor -skipbuildeditor -cook -project=D:/UEProjects/MyProjects/KCardGameProject/KCardGameProject.uproject -unrealexe="E:\Program Files\Epic Games\UE_5.3\Engine\Binaries\Win64\UnrealEditor-Cmd.exe" -platform=Win64 -installed -stage -archive -package -build -pak -iostore -compressed -prereqs -archivedirectory=D:/ProjectsOutput/UE/Windows -clientconfig=Development -nocompile -nocompileuat
+[2024.02.17-10.14.12:058][110]UATHelper: 打包 (Windows): Initializing script modules...
+[2024.02.17-10.14.12:184][123]UATHelper: 打包 (Windows): Total script module initialization time: 0.12 s.
+[2024.02.17-10.14.12:468][157]UATHelper: 打包 (Windows): Executing commands...
+[2024.02.17-10.14.12:509][162]UATHelper: 打包 (Windows): Installed Sdk validity:
+[2024.02.17-10.14.12:509][162]UATHelper: 打包 (Windows): Win64: (Status=Valid, MinAllowed_Sdk=10.0.00000.0, MaxAllowed_Sdk=10.9.99999.0, Current_Sdk=10.0.22621.0, Allowed_AutoSdk=10.0.18362.0, Current_AutoSdk=, Flags="InstalledSdk_ValidVersionExists")
+[2024.02.17-10.14.12:509][162]UATHelper: 打包 (Windows): Scanning for envvar changes...
+[2024.02.17-10.14.12:509][162]UATHelper: 打包 (Windows): ... done! 
+[2024.02.17-10.14.12:509][162]UATHelper: 打包 (Windows): Cleaning Temp Paths...
+[2024.02.17-10.14.12:509][162]UATHelper: 打包 (Windows): BUILD SUCCESSFUL
+[2024.02.17-10.14.12:509][162]UATHelper: 打包 (Windows): Setting up ProjectParams for D:\UEProjects\MyProjects\KCardGameProject\KCardGameProject.uproject
+[2024.02.17-10.14.13:833][312]UATHelper: 打包 (Windows): ********** BUILD COMMAND STARTED **********
+[2024.02.17-10.14.13:864][315]UATHelper: 打包 (Windows): Running: E:\Program Files\Epic Games\UE_5.3\Engine\Binaries\ThirdParty\DotNet\6.0.302\windows\dotnet.exe "E:\Program Files\Epic Games\UE_5.3\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" KCardGameProject Win64 Development -Project=D:\UEProjects\MyProjects\KCardGameProject\KCardGameProject.uproject -Manifest=D:\UEProjects\MyProjects\KCardGameProject\Intermediate\Build\Manifest.xml  -remoteini="D:\UEProjects\MyProjects\KCardGameProject"  -skipdeploy  -log="C:\Users\Administrator\AppData\Roaming\Unreal Engine\AutomationTool\Logs\E+Program+Files+Epic+Games+UE_5.3\UBT-KCardGameProject-Win64-Development.txt"
+[2024.02.17-10.14.14:136][348]UATHelper: 打包 (Windows): Log file: C:\Users\Administrator\AppData\Roaming\Unreal Engine\AutomationTool\Logs\E+Program+Files+Epic+Games+UE_5.3\UBT-KCardGameProject-Win64-Development.txt
+[2024.02.17-10.14.14:408][381]UATHelper: 打包 (Windows): Using 'git status' to determine working set for adaptive non-unity build (D:\UEProjects\MyProjects\KCardGameProject).
+[2024.02.17-10.14.14:439][384]UATHelper: 打包 (Windows): Creating makefile for KCardGameProject (manifest 'D:\UEProjects\MyProjects\KCardGameProject\Intermediate\Build\Manifest.xml' not found)
+[2024.02.17-10.14.14:501][392]UATHelper: 打包 (Windows): Unhandled exception. System.ArgumentException: Path fragment '"Content/Resources/Textures/Cards/\344\270\200\345\210\207\346\231\272\346\205\247\345\205\267\350\266\263\344\271\213\345\237\216.uasset"' contains invalid directory separators.
+[2024.02.17-10.14.14:501][392]UATHelper: 打包 (Windows):    at EpicGames.Core.FileSystemReference.CombineStrings(DirectoryReference baseDirectory, String[] fragments) in D:\build\++UE5\Sync\Engine\Saved\CsTools\Engine\Source\Programs\Shared\EpicGames.Core\FileSystemReference.cs:line 83
+[2024.02.17-10.14.14:501][392]UATHelper: 打包 (Windows):    at EpicGames.Core.FileReference.Combine(DirectoryReference baseDirectory, String[] fragments) in D:\build\++UE5\Sync\Engine\Saved\CsTools\Engine\Source\Programs\Shared\EpicGames.Core\FileReference.cs:line 173
+[2024.02.17-10.14.14:501][392]UATHelper: 打包 (Windows):    at UnrealBuildTool.GitSourceFileWorkingSet.AddPath(String Path) in D:\build\++UE5\Sync\Engine\Saved\CsTools\Engine\Source\Programs\UnrealBuildTool\System\SourceFileWorkingSet.cs:line 279
+[2024.02.17-10.14.14:501][392]UATHelper: 打包 (Windows):    at UnrealBuildTool.GitSourceFileWorkingSet.OutputDataReceived(Object Sender, DataReceivedEventArgs Args) in D:\build\++UE5\Sync\Engine\Saved\CsTools\Engine\Source\Programs\UnrealBuildTool\System\SourceFileWorkingSet.cs:line 243
+[2024.02.17-10.14.14:501][392]UATHelper: 打包 (Windows):    at System.Diagnostics.Process.OutputReadNotifyUser(String data)
+[2024.02.17-10.14.14:501][392]UATHelper: 打包 (Windows):    at System.Diagnostics.AsyncStreamReader.FlushMessageQueue(Boolean rethrowInNewThread)
+[2024.02.17-10.14.14:501][392]UATHelper: 打包 (Windows): --- End of stack trace from previous location ---
+[2024.02.17-10.14.14:501][392]UATHelper: 打包 (Windows):    at System.Diagnostics.AsyncStreamReader.<>c.<FlushMessageQueue>b__18_0(Object edi)
+[2024.02.17-10.14.14:501][392]UATHelper: 打包 (Windows):    at System.Threading.QueueUserWorkItemCallbackDefaultContext.Execute()
+[2024.02.17-10.14.14:501][392]UATHelper: 打包 (Windows):    at System.Threading.ThreadPoolWorkQueue.Dispatch()
+[2024.02.17-10.14.14:501][392]UATHelper: 打包 (Windows):    at System.Threading.PortableThreadPool.WorkerThread.WorkerThreadStart()
+[2024.02.17-10.14.14:501][392]UATHelper: 打包 (Windows):    at System.Threading.Thread.StartCallback()
+[2024.02.17-10.14.15:265][483]LogViewport: Scene viewport resized to 1896x599, mode Windowed.
+[2024.02.17-10.14.15:279][484]LogViewport: Scene viewport resized to 1896x598, mode Windowed.
+[2024.02.17-10.14.15:308][485]LogViewport: Scene viewport resized to 1896x577, mode Windowed.
+[2024.02.17-10.14.15:343][486]LogViewport: Scene viewport resized to 1896x527, mode Windowed.
+[2024.02.17-10.14.15:368][487]LogViewport: Scene viewport resized to 1896x489, mode Windowed.
+[2024.02.17-10.14.15:388][488]LogViewport: Scene viewport resized to 1896x468, mode Windowed.
+[2024.02.17-10.14.15:410][489]LogViewport: Scene viewport resized to 1896x449, mode Windowed.
+[2024.02.17-10.14.15:431][490]LogViewport: Scene viewport resized to 1896x431, mode Windowed.
+[2024.02.17-10.14.15:456][491]LogViewport: Scene viewport resized to 1896x411, mode Windowed.
+[2024.02.17-10.14.15:474][492]LogViewport: Scene viewport resized to 1896x390, mode Windowed.
+[2024.02.17-10.14.15:491][493]LogViewport: Scene viewport resized to 1896x371, mode Windowed.
+[2024.02.17-10.14.15:506][494]LogViewport: Scene viewport resized to 1896x361, mode Windowed.
+[2024.02.17-10.14.15:526][495]LogViewport: Scene viewport resized to 1896x346, mode Windowed.
+[2024.02.17-10.14.15:546][496]LogViewport: Scene viewport resized to 1896x334, mode Windowed.
+[2024.02.17-10.14.15:567][497]LogViewport: Scene viewport resized to 1896x326, mode Windowed.
+[2024.02.17-10.14.15:584][498]LogViewport: Scene viewport resized to 1896x322, mode Windowed.
+[2024.02.17-10.14.15:599][499]LogViewport: Scene viewport resized to 1896x319, mode Windowed.
+[2024.02.17-10.14.15:616][500]LogViewport: Scene viewport resized to 1896x318, mode Windowed.
+[2024.02.17-10.14.15:636][501]LogViewport: Scene viewport resized to 1896x311, mode Windowed.
+[2024.02.17-10.14.15:653][502]LogViewport: Scene viewport resized to 1896x302, mode Windowed.
+[2024.02.17-10.14.15:668][503]LogViewport: Scene viewport resized to 1896x298, mode Windowed.
+[2024.02.17-10.14.15:685][504]LogViewport: Scene viewport resized to 1896x294, mode Windowed.
+[2024.02.17-10.14.15:701][505]LogViewport: Scene viewport resized to 1896x293, mode Windowed.
+[2024.02.17-10.14.15:717][506]LogViewport: Scene viewport resized to 1896x292, mode Windowed.
+[2024.02.17-10.14.15:733][507]LogViewport: Scene viewport resized to 1896x288, mode Windowed.
+[2024.02.17-10.14.15:751][508]LogViewport: Scene viewport resized to 1896x284, mode Windowed.
+[2024.02.17-10.14.15:767][509]LogViewport: Scene viewport resized to 1896x282, mode Windowed.
+[2024.02.17-10.14.15:785][510]LogViewport: Scene viewport resized to 1896x280, mode Windowed.
+[2024.02.17-10.14.15:801][511]LogViewport: Scene viewport resized to 1896x278, mode Windowed.
+[2024.02.17-10.14.16:454][587]UATHelper: 打包 (Windows): Took 2.60s to run dotnet.exe, ExitCode=-532462766
+[2024.02.17-10.14.16:464][588]UATHelper: 打包 (Windows): UnrealBuildTool failed. See log for more details. (C:\Users\Administrator\AppData\Roaming\Unreal Engine\AutomationTool\Logs\E+Program+Files+Epic+Games+UE_5.3\UBT-KCardGameProject-Win64-Development.txt)
+[2024.02.17-10.14.16:464][588]UATHelper: 打包 (Windows): AutomationTool executed for 0h 0m 4s
+[2024.02.17-10.14.16:464][588]UATHelper: 打包 (Windows): AutomationTool exiting with ExitCode=-532462766 (-532462766)
+[2024.02.17-10.14.16:485][591]UATHelper: 打包 (Windows): BUILD FAILED
+[2024.02.17-10.14.16:489][591]PackagingResults: Error: Unknown Error
