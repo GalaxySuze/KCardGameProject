@@ -1239,3 +1239,36 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.17-10.53.32:258][189]PackagingResults: Error: Unknown Error
 [2024.02.17-10.54.57:629][613]LogDerivedDataCache: C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:12.084 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 6786 files in 8038 folders with total size 569 MiB.
 [2024.02.17-10.55.55:124][873]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.02.17-11.12.33:861][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.02.17-11.12.39:302][227]LogTurnkeySupport: Project requires temp target (已启用ElectraCodecs插件)
+[2024.02.17-11.12.39:302][227]LogLauncherProfile: Unable to use promoted target - D:/UEProjects/MyProjects/KCardGameProject/Binaries/Win64/UnrealGame.target does not exist.
+[2024.02.17-11.12.39:317][227]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""E:/Program Files/Epic Games/UE_5.3/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/UEProjects/MyProjects/KCardGameProject/KCardGameProject.uproject" Turnkey -command=VerifySdk -platform=Win64 -UpdateIfNeeded -EditorIO -EditorIOPort=61872  -project="D:/UEProjects/MyProjects/KCardGameProject/KCardGameProject.uproject" BuildCookRun -nop4 -utf8output -nocompileeditor -skipbuildeditor -cook  -project="D:/UEProjects/MyProjects/KCardGameProject/KCardGameProject.uproject"  -unrealexe="E:\Program Files\Epic Games\UE_5.3\Engine\Binaries\Win64\UnrealEditor-Cmd.exe" -platform=Win64 -installed -stage -archive -package -build -pak -iostore -compressed -prereqs -archivedirectory="D:/ProjectsOutput/UE" -clientconfig=Development" -nocompile -nocompileuat ]
+[2024.02.17-11.12.39:354][228]LogAutomationController: Ignoring very large delta of 5.52 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.02.17-11.12.39:375][230]UATHelper: 打包 (Windows): Running AutomationTool...
+[2024.02.17-11.12.39:490][236]UATHelper: 打包 (Windows): Using bundled DotNet SDK version: 6.0.302
+[2024.02.17-11.12.39:564][240]UATHelper: 打包 (Windows): Starting AutomationTool...
+[2024.02.17-11.12.39:585][241]UATHelper: 打包 (Windows): Parsing command line: -ScriptsForProject=D:/UEProjects/MyProjects/KCardGameProject/KCardGameProject.uproject Turnkey -command=VerifySdk -platform=Win64 -UpdateIfNeeded -EditorIO -EditorIOPort=61872 -project=D:/UEProjects/MyProjects/KCardGameProject/KCardGameProject.uproject BuildCookRun -nop4 -utf8output -nocompileeditor -skipbuildeditor -cook -project=D:/UEProjects/MyProjects/KCardGameProject/KCardGameProject.uproject -unrealexe="E:\Program Files\Epic Games\UE_5.3\Engine\Binaries\Win64\UnrealEditor-Cmd.exe" -platform=Win64 -installed -stage -archive -package -build -pak -iostore -compressed -prereqs -archivedirectory=D:/ProjectsOutput/UE -clientconfig=Development -nocompile -nocompileuat
+[2024.02.17-11.12.39:627][246]UATHelper: 打包 (Windows): Initializing script modules...
+[2024.02.17-11.12.39:774][264]UATHelper: 打包 (Windows): Total script module initialization time: 0.14 s.
+[2024.02.17-11.12.40:090][302]UATHelper: 打包 (Windows): Executing commands...
+[2024.02.17-11.12.40:131][306]UATHelper: 打包 (Windows): Installed Sdk validity:
+[2024.02.17-11.12.40:131][306]UATHelper: 打包 (Windows): Win64: (Status=Valid, MinAllowed_Sdk=10.0.00000.0, MaxAllowed_Sdk=10.9.99999.0, Current_Sdk=10.0.22621.0, Allowed_AutoSdk=10.0.18362.0, Current_AutoSdk=, Flags="InstalledSdk_ValidVersionExists")
+[2024.02.17-11.12.40:142][308]UATHelper: 打包 (Windows): Scanning for envvar changes...
+[2024.02.17-11.12.40:142][308]UATHelper: 打包 (Windows): ... done! 
+[2024.02.17-11.12.40:142][308]UATHelper: 打包 (Windows): Cleaning Temp Paths...
+[2024.02.17-11.12.40:142][308]UATHelper: 打包 (Windows): BUILD SUCCESSFUL
+[2024.02.17-11.12.40:142][308]UATHelper: 打包 (Windows): Setting up ProjectParams for D:\UEProjects\MyProjects\KCardGameProject\KCardGameProject.uproject
+[2024.02.17-11.12.41:635][486]UATHelper: 打包 (Windows): ********** BUILD COMMAND STARTED **********
+[2024.02.17-11.12.41:666][490]UATHelper: 打包 (Windows): Running: E:\Program Files\Epic Games\UE_5.3\Engine\Binaries\ThirdParty\DotNet\6.0.302\windows\dotnet.exe "E:\Program Files\Epic Games\UE_5.3\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" KCardGameProject Win64 Development -Project=D:\UEProjects\MyProjects\KCardGameProject\KCardGameProject.uproject -Manifest=D:\UEProjects\MyProjects\KCardGameProject\Intermediate\Build\Manifest.xml  -remoteini="D:\UEProjects\MyProjects\KCardGameProject"  -skipdeploy  -log="C:\Users\Administrator\AppData\Roaming\Unreal Engine\AutomationTool\Logs\E+Program+Files+Epic+Games+UE_5.3\UBT-KCardGameProject-Win64-Development.txt"
+[2024.02.17-11.12.42:021][526]UATHelper: 打包 (Windows): Log file: C:\Users\Administrator\AppData\Roaming\Unreal Engine\AutomationTool\Logs\E+Program+Files+Epic+Games+UE_5.3\UBT-KCardGameProject-Win64-Development.txt
+[2024.02.17-11.12.42:273][555]UATHelper: 打包 (Windows): Using 'git status' to determine working set for adaptive non-unity build (D:\UEProjects\MyProjects\KCardGameProject).
+[2024.02.17-11.12.42:304][557]UATHelper: 打包 (Windows): Creating makefile for KCardGameProject (manifest 'D:\UEProjects\MyProjects\KCardGameProject\Intermediate\Build\Manifest.xml' not found)
+[2024.02.17-11.12.42:399][566]UATHelper: 打包 (Windows): Visual Studio 2022 is installed, but is missing the C++ toolchain. Please verify that the "MSVC v143 - VS 2022 C++ x64/x86 build tools (Latest)" component is selected in the Visual Studio 2022 installation options.
+[2024.02.17-11.12.42:420][568]UATHelper: 打包 (Windows): Total execution time: 0.66 seconds
+[2024.02.17-11.12.42:441][571]UATHelper: 打包 (Windows): Visual Studio 2022 x64 must be installed in order to build this target.
+[2024.02.17-11.12.42:462][573]UATHelper: 打包 (Windows): Took 0.81s to run dotnet.exe, ExitCode=6
+[2024.02.17-11.12.42:473][574]UATHelper: 打包 (Windows): UnrealBuildTool failed. See log for more details. (C:\Users\Administrator\AppData\Roaming\Unreal Engine\AutomationTool\Logs\E+Program+Files+Epic+Games+UE_5.3\UBT-KCardGameProject-Win64-Development.txt)
+[2024.02.17-11.12.42:473][574]UATHelper: 打包 (Windows): AutomationTool executed for 0h 0m 2s
+[2024.02.17-11.12.42:473][574]UATHelper: 打包 (Windows): AutomationTool exiting with ExitCode=6 (6)
+[2024.02.17-11.12.42:504][577]UATHelper: 打包 (Windows): BUILD FAILED
+[2024.02.17-11.12.42:517][579]PackagingResults: Error: Unknown Error
